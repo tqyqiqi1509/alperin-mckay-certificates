@@ -1,0 +1,369 @@
+{
+  "model": "E8 Euclidean integral lattice, source first D4, complementary D4 Frobenius",
+  "source_D4_roots": 24,
+  "ambient_E8_roots": 240,
+  "involution_cocharacter": [
+    1,
+    -1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "involution_centralizer_roots": 128,
+  "source_centralizer_A1_roots": [
+    [
+      1,
+      -1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      -1
+    ],
+    [
+      0,
+      0,
+      1,
+      1
+    ]
+  ],
+  "center_lattice_basis": [
+    [
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      -1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      -1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      -1,
+      1
+    ]
+  ],
+  "Frobenius_matrix": [
+    [
+      0,
+      -1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      -1
+    ],
+    [
+      0,
+      0,
+      1,
+      0
+    ]
+  ],
+  "Frobenius_characteristic_polynomial": "lambda**4 + 2*lambda**2 + 1",
+  "source_Frobenius_identity": true,
+  "Ennola_conjugator": [
+    [
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      -1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      -1
+    ]
+  ],
+  "relative_group_order": 96,
+  "relative_D4_kernel_order": 16,
+  "relative_action_on_four_A1_factors": [
+    [
+      0,
+      1,
+      2,
+      3
+    ],
+    [
+      0,
+      1,
+      3,
+      2
+    ],
+    [
+      0,
+      2,
+      1,
+      3
+    ],
+    [
+      0,
+      2,
+      3,
+      1
+    ],
+    [
+      0,
+      3,
+      1,
+      2
+    ],
+    [
+      0,
+      3,
+      2,
+      1
+    ]
+  ],
+  "A1_bit_orbits": [
+    {
+      "representative": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "orbit": [
+        [
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "size": 1,
+      "relative_stabilizer_order": 96
+    },
+    {
+      "representative": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "orbit": [
+        [
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      "size": 3,
+      "relative_stabilizer_order": 32
+    },
+    {
+      "representative": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "orbit": [
+        [
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          1,
+          0,
+          1
+        ],
+        [
+          0,
+          1,
+          1,
+          0
+        ]
+      ],
+      "size": 3,
+      "relative_stabilizer_order": 32
+    },
+    {
+      "representative": [
+        0,
+        1,
+        1,
+        1
+      ],
+      "orbit": [
+        [
+          0,
+          1,
+          1,
+          1
+        ]
+      ],
+      "size": 1,
+      "relative_stabilizer_order": 96
+    },
+    {
+      "representative": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "orbit": [
+        [
+          1,
+          0,
+          0,
+          0
+        ]
+      ],
+      "size": 1,
+      "relative_stabilizer_order": 96
+    },
+    {
+      "representative": [
+        1,
+        0,
+        0,
+        1
+      ],
+      "orbit": [
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0
+        ]
+      ],
+      "size": 3,
+      "relative_stabilizer_order": 32
+    },
+    {
+      "representative": [
+        1,
+        0,
+        1,
+        1
+      ],
+      "orbit": [
+        [
+          1,
+          0,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          0
+        ]
+      ],
+      "size": 3,
+      "relative_stabilizer_order": 32
+    },
+    {
+      "representative": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "orbit": [
+        [
+          1,
+          1,
+          1,
+          1
+        ]
+      ],
+      "size": 1,
+      "relative_stabilizer_order": 96
+    }
+  ],
+  "center_five_torsion": [
+    {
+      "q_mod5": 2,
+      "fixed_torsion_size": 25,
+      "centralizing_roots": 24
+    },
+    {
+      "q_mod5": 3,
+      "fixed_torsion_size": 25,
+      "centralizing_roots": 24
+    }
+  ],
+  "scope": "All odd q with ord_5(q)=4, all v5(q^2+1); no finite field sample"
+}

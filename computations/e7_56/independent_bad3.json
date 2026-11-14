@@ -1,0 +1,94 @@
+{
+  "centralizer_roots": 62,
+  "minuscule_traces_s_zs": [
+    8,
+    -8
+  ],
+  "D4_source_roots": 24,
+  "D4_mod3_kernel_exact": true,
+  "perpendicular_roots": 6,
+  "perpendicular_bases_scaled2": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -2,
+      2
+    ],
+    [
+      1,
+      1,
+      -1,
+      -1,
+      -1,
+      -1,
+      1,
+      1
+    ],
+    [
+      2,
+      -2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "D4_source_center_smith_in_P": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "A1cube_coroot_primitive_smith": [
+    1,
+    1,
+    1
+  ],
+  "joint_lattice_index": 4,
+  "glue_D4_projection_order": 4,
+  "glue_A1cube_projection_order": 4,
+  "glue_fraction_coordinates": [
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "1/2",
+      "0",
+      "1/2",
+      "1/2",
+      "0",
+      "1/2"
+    ],
+    [
+      "1/2",
+      "0",
+      "0",
+      "1/2",
+      "1/2",
+      "1/2",
+      "0"
+    ],
+    [
+      "1/2",
+      "1/2",
+      "0",
+      "0",
+      "0",
+      "1/2",
+      "1/2"
+    ]
+  ]
+}

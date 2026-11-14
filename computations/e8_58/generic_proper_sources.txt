@@ -1,0 +1,197 @@
+CENTRALIZER|[ "D", 8 ] D|1|2 SOURCE|D4.(q-1)^4|D4
+CENTRALIZER|[ "D", 8 ] D|1|2 SOURCE|(q-1)^8|
+CENTRALIZER|[ "D", 8 ] D|2|2 SOURCE|D4<2,4,3,1>.(q+1)^4|1.21
+CENTRALIZER|[ "D", 8 ] D|2|2 SOURCE|(q+1)^8|
+CENTRALIZER|[ "D", 8 ] D|3|27 SOURCE|D5.(q-1)(q^2+q+1)|1.211
+CENTRALIZER|[ "D", 8 ] D|3|27 SOURCE|D5.(q-1)(q^2+q+1)|1.31
+CENTRALIZER|[ "D", 8 ] D|3|27 SOURCE|D5.(q-1)(q^2+q+1)|.311
+CENTRALIZER|[ "D", 8 ] D|3|27 SOURCE|D5.(q-1)(q^2+q+1)|D4:2
+CENTRALIZER|[ "D", 8 ] D|3|27 SOURCE|D5.(q-1)(q^2+q+1)|D4:11
+CENTRALIZER|[ "D", 8 ] D|3|27 SOURCE|A1<2>xA1<1>.(q-1)^2(q^2+q+1)^2|11,11
+CENTRALIZER|[ "D", 8 ] D|3|27 SOURCE|A1<2>xA1<1>.(q-1)^2(q^2+q+1)^2|11,2
+CENTRALIZER|[ "D", 8 ] D|3|27 SOURCE|A1<2>xA1<1>.(q-1)^2(q^2+q+1)^2|2,11
+CENTRALIZER|[ "D", 8 ] D|3|27 SOURCE|A1<2>xA1<1>.(q-1)^2(q^2+q+1)^2|2,2
+CENTRALIZER|[ "D", 8 ] D|4|9 SOURCE|D4<2,4,3,1>.(q^2+1)^2|1.111
+CENTRALIZER|[ "D", 8 ] D|4|9 SOURCE|D4<2,4,3,1>.(q^2+1)^2|11.2
+CENTRALIZER|[ "D", 8 ] D|4|9 SOURCE|D4<2,4,3,1>.(q^2+1)^2|.22
+CENTRALIZER|[ "D", 8 ] D|4|9 SOURCE|D4<2,4,3,1>.(q^2+1)^2|1.3
+CENTRALIZER|[ "D", 8 ] D|4|9 SOURCE|(q^2+1)^4|
+CENTRALIZER|[ "D", 8 ] D|5|75 SOURCE|A3<1,3,2>.(q-1)(q^4+q^3+q^2+q+1)|1111
+CENTRALIZER|[ "D", 8 ] D|5|75 SOURCE|A3<1,3,2>.(q-1)(q^4+q^3+q^2+q+1)|211
+CENTRALIZER|[ "D", 8 ] D|5|75 SOURCE|A3<1,3,2>.(q-1)(q^4+q^3+q^2+q+1)|22
+CENTRALIZER|[ "D", 8 ] D|5|75 SOURCE|A3<1,3,2>.(q-1)(q^4+q^3+q^2+q+1)|31
+CENTRALIZER|[ "D", 8 ] D|5|75 SOURCE|A3<1,3,2>.(q-1)(q^4+q^3+q^2+q+1)|4
+CENTRALIZER|[ "D", 8 ] D|6|27 SOURCE|2D5<2,1,3,4,5>.(q+1)(q^2-q+1)|1111.
+CENTRALIZER|[ "D", 8 ] D|6|27 SOURCE|2D5<2,1,3,4,5>.(q+1)(q^2-q+1)|21.1
+CENTRALIZER|[ "D", 8 ] D|6|27 SOURCE|2D5<2,1,3,4,5>.(q+1)(q^2-q+1)|1.21
+CENTRALIZER|[ "D", 8 ] D|6|27 SOURCE|2D5<2,1,3,4,5>.(q+1)(q^2-q+1)|2.11
+CENTRALIZER|[ "D", 8 ] D|6|27 SOURCE|2D5<2,1,3,4,5>.(q+1)(q^2-q+1)|.4
+CENTRALIZER|[ "D", 8 ] D|6|27 SOURCE|A1<2>xA1<1>.(q+1)^2(q^2-q+1)^2|11,11
+CENTRALIZER|[ "D", 8 ] D|6|27 SOURCE|A1<2>xA1<1>.(q+1)^2(q^2-q+1)^2|11,2
+CENTRALIZER|[ "D", 8 ] D|6|27 SOURCE|A1<2>xA1<1>.(q+1)^2(q^2-q+1)^2|2,11
+CENTRALIZER|[ "D", 8 ] D|6|27 SOURCE|A1<2>xA1<1>.(q+1)^2(q^2-q+1)^2|2,2
+CENTRALIZER|[ "D", 8 ] D|7|107 SOURCE|(q-1)^2(q^6+q^5+q^4+q^3+q^2+q+1)|
+CENTRALIZER|[ "D", 8 ] D|8|51 SOURCE|2D4.(q^4+1)|111.
+CENTRALIZER|[ "D", 8 ] D|8|51 SOURCE|2D4.(q^4+1)|11.1
+CENTRALIZER|[ "D", 8 ] D|8|51 SOURCE|2D4.(q^4+1)|21.
+CENTRALIZER|[ "D", 8 ] D|8|51 SOURCE|2D4.(q^4+1)|1.2
+CENTRALIZER|[ "D", 8 ] D|8|51 SOURCE|2D4.(q^4+1)|.21
+CENTRALIZER|[ "D", 8 ] D|8|51 SOURCE|2D4.(q^4+1)|.3
+CENTRALIZER|[ "D", 8 ] D|8|51 SOURCE|(q^4+1)^2|
+CENTRALIZER|[ "D", 8 ] D|10|75 SOURCE|2A3<1,3,2>.(q+1)(q^4-q^3+q^2-q+1)|.11
+CENTRALIZER|[ "D", 8 ] D|10|75 SOURCE|2A3<1,3,2>.(q+1)(q^4-q^3+q^2-q+1)|.2
+CENTRALIZER|[ "D", 8 ] D|10|75 SOURCE|2A3<1,3,2>.(q+1)(q^4-q^3+q^2-q+1)|1.1
+CENTRALIZER|[ "D", 8 ] D|10|75 SOURCE|2A3<1,3,2>.(q+1)(q^4-q^3+q^2-q+1)|11.
+CENTRALIZER|[ "D", 8 ] D|10|75 SOURCE|2A3<1,3,2>.(q+1)(q^4-q^3+q^2-q+1)|2.
+CENTRALIZER|[ "D", 8 ] D|12|98 SOURCE|(A1xA1).(q^2+1)(q^4-q^2+1)|11
+CENTRALIZER|[ "D", 8 ] D|12|98 SOURCE|(A1xA1).(q^2+1)(q^4-q^2+1)|2
+CENTRALIZER|[ "D", 8 ] D|14|107 SOURCE|(q+1)^2(q^6-q^5+q^4-q^3+q^2-q+1)|
+CENTRALIZER|[ "E", 7, "A", 1 ] D|1|6 SOURCE|E7.(q-1)|E7[-I]
+CENTRALIZER|[ "E", 7, "A", 1 ] D|1|6 SOURCE|E7.(q-1)|E7[I]
+CENTRALIZER|[ "E", 7, "A", 1 ] D|1|6 SOURCE|E6.(q-1)^2|E6[E3]
+CENTRALIZER|[ "E", 7, "A", 1 ] D|1|6 SOURCE|E6.(q-1)^2|E6[E3^2]
+CENTRALIZER|[ "E", 7, "A", 1 ] D|1|6 SOURCE|D4<2,3,4,5>.(q-1)^4|D4
+CENTRALIZER|[ "E", 7, "A", 1 ] D|1|6 SOURCE|(q-1)^8|
+CENTRALIZER|[ "E", 7, "A", 1 ] D|2|6 SOURCE|E7.(q+1)|phi{512,12}
+CENTRALIZER|[ "E", 7, "A", 1 ] D|2|6 SOURCE|E7.(q+1)|phi{512,11}
+CENTRALIZER|[ "E", 7, "A", 1 ] D|2|6 SOURCE|2E6.(q+1)^2|2E6[E3]
+CENTRALIZER|[ "E", 7, "A", 1 ] D|2|6 SOURCE|2E6.(q+1)^2|2E6[E3^2]
+CENTRALIZER|[ "E", 7, "A", 1 ] D|2|6 SOURCE|D4<2,5,4,3>.(q+1)^4|1.21
+CENTRALIZER|[ "E", 7, "A", 1 ] D|2|6 SOURCE|(q+1)^8|
+CENTRALIZER|[ "E", 7, "A", 1 ] D|3|28 SOURCE|A5<7,6,5,4,2>xA1<8>.(q^2+q+1)|2211,11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|3|28 SOURCE|A5<7,6,5,4,2>xA1<8>.(q^2+q+1)|2211,2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|3|28 SOURCE|A5<7,6,5,4,2>xA1<8>.(q^2+q+1)|42,11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|3|28 SOURCE|A5<7,6,5,4,2>xA1<8>.(q^2+q+1)|42,2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|3|28 SOURCE|3D4<2,3,4,5>xA1<8>.(q-1)(q^2+q+1)|3D4[-1],:11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|3|28 SOURCE|3D4<2,3,4,5>xA1<8>.(q-1)(q^2+q+1)|3D4[-1],:2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|3|28 SOURCE|A1<8>.(q-1)(q^2+q+1)^3|11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|3|28 SOURCE|A1<8>.(q-1)(q^2+q+1)^3|2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|4|48 SOURCE|A1<2>xA1<8>xA1<5>xA1<7>.(q^2+1)^2|11,11,11,11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|4|48 SOURCE|A1<2>xA1<8>xA1<5>xA1<7>.(q^2+1)^2|11,11,11,2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|4|48 SOURCE|A1<2>xA1<8>xA1<5>xA1<7>.(q^2+1)^2|11,11,2,11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|4|48 SOURCE|A1<2>xA1<8>xA1<5>xA1<7>.(q^2+1)^2|11,11,2,2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|4|48 SOURCE|A1<2>xA1<8>xA1<5>xA1<7>.(q^2+1)^2|11,2,11,11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|4|48 SOURCE|A1<2>xA1<8>xA1<5>xA1<7>.(q^2+1)^2|11,2,11,2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|4|48 SOURCE|A1<2>xA1<8>xA1<5>xA1<7>.(q^2+1)^2|11,2,2,11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|4|48 SOURCE|A1<2>xA1<8>xA1<5>xA1<7>.(q^2+1)^2|11,2,2,2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|4|48 SOURCE|A1<2>xA1<8>xA1<5>xA1<7>.(q^2+1)^2|2,11,11,11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|4|48 SOURCE|A1<2>xA1<8>xA1<5>xA1<7>.(q^2+1)^2|2,11,11,2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|4|48 SOURCE|A1<2>xA1<8>xA1<5>xA1<7>.(q^2+1)^2|2,11,2,11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|4|48 SOURCE|A1<2>xA1<8>xA1<5>xA1<7>.(q^2+1)^2|2,11,2,2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|4|48 SOURCE|A1<2>xA1<8>xA1<5>xA1<7>.(q^2+1)^2|2,2,11,11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|4|48 SOURCE|A1<2>xA1<8>xA1<5>xA1<7>.(q^2+1)^2|2,2,11,2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|4|48 SOURCE|A1<2>xA1<8>xA1<5>xA1<7>.(q^2+1)^2|2,2,2,11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|4|48 SOURCE|A1<2>xA1<8>xA1<5>xA1<7>.(q^2+1)^2|2,2,2,2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|5|98 SOURCE|A2<6,7>xA1<8>.(q-1)(q^4+q^3+q^2+q+1)|111,11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|5|98 SOURCE|A2<6,7>xA1<8>.(q-1)(q^4+q^3+q^2+q+1)|111,2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|5|98 SOURCE|A2<6,7>xA1<8>.(q-1)(q^4+q^3+q^2+q+1)|21,11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|5|98 SOURCE|A2<6,7>xA1<8>.(q-1)(q^4+q^3+q^2+q+1)|21,2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|5|98 SOURCE|A2<6,7>xA1<8>.(q-1)(q^4+q^3+q^2+q+1)|3,11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|5|98 SOURCE|A2<6,7>xA1<8>.(q-1)(q^4+q^3+q^2+q+1)|3,2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|6|28 SOURCE|2A5<2,4,5,6,7>xA1<8>.(q^2-q+1)|1.11,11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|6|28 SOURCE|2A5<2,4,5,6,7>xA1<8>.(q^2-q+1)|1.11,2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|6|28 SOURCE|2A5<2,4,5,6,7>xA1<8>.(q^2-q+1)|2.1,11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|6|28 SOURCE|2A5<2,4,5,6,7>xA1<8>.(q^2-q+1)|2.1,2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|6|28 SOURCE|3D4<2,5,4,3>xA1<8>.(q+1)(q^2-q+1)|phi{2,1},11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|6|28 SOURCE|3D4<2,5,4,3>xA1<8>.(q+1)(q^2-q+1)|phi{2,1},2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|6|28 SOURCE|A1<8>.(q+1)(q^2-q+1)^3|11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|6|28 SOURCE|A1<8>.(q+1)(q^2-q+1)^3|2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|7|126 SOURCE|A1<8>.(q-1)(q^6+q^5+q^4+q^3+q^2+q+1)|11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|7|126 SOURCE|A1<8>.(q-1)(q^6+q^5+q^4+q^3+q^2+q+1)|2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|8|96 SOURCE|A1<7>xA1<8>x(A1xA1)<5,2>.(q^4+1)|11,11,11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|8|96 SOURCE|A1<7>xA1<8>x(A1xA1)<5,2>.(q^4+1)|11,11,2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|8|96 SOURCE|A1<7>xA1<8>x(A1xA1)<5,2>.(q^4+1)|11,2,11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|8|96 SOURCE|A1<7>xA1<8>x(A1xA1)<5,2>.(q^4+1)|11,2,2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|8|96 SOURCE|A1<7>xA1<8>x(A1xA1)<5,2>.(q^4+1)|2,11,11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|8|96 SOURCE|A1<7>xA1<8>x(A1xA1)<5,2>.(q^4+1)|2,11,2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|8|96 SOURCE|A1<7>xA1<8>x(A1xA1)<5,2>.(q^4+1)|2,2,11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|8|96 SOURCE|A1<7>xA1<8>x(A1xA1)<5,2>.(q^4+1)|2,2,2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|9|118 SOURCE|A1<8>.(q-1)(q^6+q^3+1)|11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|9|118 SOURCE|A1<8>.(q-1)(q^6+q^3+1)|2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|10|98 SOURCE|A1<8>x2A2<3,4>.(q+1)(q^4-q^3+q^2-q+1)|11,11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|10|98 SOURCE|A1<8>x2A2<3,4>.(q+1)(q^4-q^3+q^2-q+1)|,^2A2:11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|10|98 SOURCE|A1<8>x2A2<3,4>.(q+1)(q^4-q^3+q^2-q+1)|11,2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|10|98 SOURCE|A1<8>x2A2<3,4>.(q+1)(q^4-q^3+q^2-q+1)|2,11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|10|98 SOURCE|A1<8>x2A2<3,4>.(q+1)(q^4-q^3+q^2-q+1)|,^2A2:2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|10|98 SOURCE|A1<8>x2A2<3,4>.(q+1)(q^4-q^3+q^2-q+1)|2,2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|12|108 SOURCE|A1<8>x(A1xA1xA1)<2,5,7>.(q^4-q^2+1)|11,11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|12|108 SOURCE|A1<8>x(A1xA1xA1)<2,5,7>.(q^4-q^2+1)|11,2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|12|108 SOURCE|A1<8>x(A1xA1xA1)<2,5,7>.(q^4-q^2+1)|2,11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|12|108 SOURCE|A1<8>x(A1xA1xA1)<2,5,7>.(q^4-q^2+1)|2,2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|14|126 SOURCE|A1<8>.(q+1)(q^6-q^5+q^4-q^3+q^2-q+1)|11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|14|126 SOURCE|A1<8>.(q+1)(q^6-q^5+q^4-q^3+q^2-q+1)|2
+CENTRALIZER|[ "E", 7, "A", 1 ] D|18|118 SOURCE|A1<8>.(q+1)(q^6-q^3+1)|11
+CENTRALIZER|[ "E", 7, "A", 1 ] D|18|118 SOURCE|A1<8>.(q+1)(q^6-q^3+1)|2
+CENTRALIZER|[ "D", 5, "A", 3 ] D|1|2 SOURCE|D4.(q-1)^4|D4
+CENTRALIZER|[ "D", 5, "A", 3 ] D|1|2 SOURCE|(q-1)^8|
+CENTRALIZER|[ "D", 5, "A", 3 ] D|2|1 SOURCE|(q-1)^2(q+1)^6|
+CENTRALIZER|[ "D", 5, "A", 3 ] D|3|27 SOURCE|D5.(q-1)(q^2+q+1)|1.211
+CENTRALIZER|[ "D", 5, "A", 3 ] D|3|27 SOURCE|D5.(q-1)(q^2+q+1)|1.31
+CENTRALIZER|[ "D", 5, "A", 3 ] D|3|27 SOURCE|D5.(q-1)(q^2+q+1)|.311
+CENTRALIZER|[ "D", 5, "A", 3 ] D|3|27 SOURCE|D5.(q-1)(q^2+q+1)|D4:2
+CENTRALIZER|[ "D", 5, "A", 3 ] D|3|27 SOURCE|D5.(q-1)(q^2+q+1)|D4:11
+CENTRALIZER|[ "D", 5, "A", 3 ] D|3|27 SOURCE|A1xA3<6,7,8>xA1<2>.(q-1)(q^2+q+1)|11,211,11
+CENTRALIZER|[ "D", 5, "A", 3 ] D|3|27 SOURCE|A1xA3<6,7,8>xA1<2>.(q-1)(q^2+q+1)|11,211,2
+CENTRALIZER|[ "D", 5, "A", 3 ] D|3|27 SOURCE|A1xA3<6,7,8>xA1<2>.(q-1)(q^2+q+1)|11,31,11
+CENTRALIZER|[ "D", 5, "A", 3 ] D|3|27 SOURCE|A1xA3<6,7,8>xA1<2>.(q-1)(q^2+q+1)|11,31,2
+CENTRALIZER|[ "D", 5, "A", 3 ] D|3|27 SOURCE|A1xA3<6,7,8>xA1<2>.(q-1)(q^2+q+1)|2,211,11
+CENTRALIZER|[ "D", 5, "A", 3 ] D|3|27 SOURCE|A1xA3<6,7,8>xA1<2>.(q-1)(q^2+q+1)|2,211,2
+CENTRALIZER|[ "D", 5, "A", 3 ] D|3|27 SOURCE|A1xA3<6,7,8>xA1<2>.(q-1)(q^2+q+1)|2,31,11
+CENTRALIZER|[ "D", 5, "A", 3 ] D|3|27 SOURCE|A1xA3<6,7,8>xA1<2>.(q-1)(q^2+q+1)|2,31,2
+CENTRALIZER|[ "D", 5, "A", 3 ] D|3|27 SOURCE|A1xA1.(q-1)^2(q^2+q+1)^2|11,11
+CENTRALIZER|[ "D", 5, "A", 3 ] D|3|27 SOURCE|A1xA1.(q-1)^2(q^2+q+1)^2|11,2
+CENTRALIZER|[ "D", 5, "A", 3 ] D|3|27 SOURCE|A1xA1.(q-1)^2(q^2+q+1)^2|2,11
+CENTRALIZER|[ "D", 5, "A", 3 ] D|3|27 SOURCE|A1xA1.(q-1)^2(q^2+q+1)^2|2,2
+CENTRALIZER|[ "D", 5, "A", 3 ] D|4|8 SOURCE|D5.(q+1)(q^2+1)|111.2
+CENTRALIZER|[ "D", 5, "A", 3 ] D|4|8 SOURCE|D5.(q+1)(q^2+1)|11.3
+CENTRALIZER|[ "D", 5, "A", 3 ] D|4|8 SOURCE|2A3<2,3,1>xA3<6,7,8>.(q^2+1)|1.1,22
+CENTRALIZER|[ "D", 5, "A", 3 ] D|4|8 SOURCE|2A3<2,3,1>.(q+1)(q^2+1)^2|1.1
+CENTRALIZER|[ "D", 5, "A", 3 ] D|4|8 SOURCE|A3<6,7,8>.(q-1)(q^2+1)^2|22
+CENTRALIZER|[ "D", 5, "A", 3 ] D|4|8 SOURCE|(q-1)(q+1)(q^2+1)^3|
+CENTRALIZER|[ "D", 5, "A", 3 ] D|5|80 SOURCE|A3<6,7,8>.(q-1)(q^4+q^3+q^2+q+1)|1111
+CENTRALIZER|[ "D", 5, "A", 3 ] D|5|80 SOURCE|A3<6,7,8>.(q-1)(q^4+q^3+q^2+q+1)|211
+CENTRALIZER|[ "D", 5, "A", 3 ] D|5|80 SOURCE|A3<6,7,8>.(q-1)(q^4+q^3+q^2+q+1)|22
+CENTRALIZER|[ "D", 5, "A", 3 ] D|5|80 SOURCE|A3<6,7,8>.(q-1)(q^4+q^3+q^2+q+1)|31
+CENTRALIZER|[ "D", 5, "A", 3 ] D|5|80 SOURCE|A3<6,7,8>.(q-1)(q^4+q^3+q^2+q+1)|4
+CENTRALIZER|[ "D", 5, "A", 3 ] D|6|50 SOURCE|A3<6,7,8>x(A1xA1)<2,1>.(q+1)(q^2-q+1)|1111,11
+CENTRALIZER|[ "D", 5, "A", 3 ] D|6|50 SOURCE|A3<6,7,8>x(A1xA1)<2,1>.(q+1)(q^2-q+1)|1111,2
+CENTRALIZER|[ "D", 5, "A", 3 ] D|6|50 SOURCE|A3<6,7,8>x(A1xA1)<2,1>.(q+1)(q^2-q+1)|211,11
+CENTRALIZER|[ "D", 5, "A", 3 ] D|6|50 SOURCE|A3<6,7,8>x(A1xA1)<2,1>.(q+1)(q^2-q+1)|211,2
+CENTRALIZER|[ "D", 5, "A", 3 ] D|6|50 SOURCE|A3<6,7,8>x(A1xA1)<2,1>.(q+1)(q^2-q+1)|22,11
+CENTRALIZER|[ "D", 5, "A", 3 ] D|6|50 SOURCE|A3<6,7,8>x(A1xA1)<2,1>.(q+1)(q^2-q+1)|22,2
+CENTRALIZER|[ "D", 5, "A", 3 ] D|6|50 SOURCE|A3<6,7,8>x(A1xA1)<2,1>.(q+1)(q^2-q+1)|31,11
+CENTRALIZER|[ "D", 5, "A", 3 ] D|6|50 SOURCE|A3<6,7,8>x(A1xA1)<2,1>.(q+1)(q^2-q+1)|31,2
+CENTRALIZER|[ "D", 5, "A", 3 ] D|6|50 SOURCE|A3<6,7,8>x(A1xA1)<2,1>.(q+1)(q^2-q+1)|4,11
+CENTRALIZER|[ "D", 5, "A", 3 ] D|6|50 SOURCE|A3<6,7,8>x(A1xA1)<2,1>.(q+1)(q^2-q+1)|4,2
+CENTRALIZER|[ "D", 5, "A", 3 ] D|8|65 SOURCE|A3<6,7,8>.(q+1)(q^4+1)|1111
+CENTRALIZER|[ "D", 5, "A", 3 ] D|8|65 SOURCE|A3<6,7,8>.(q+1)(q^4+1)|211
+CENTRALIZER|[ "D", 5, "A", 3 ] D|8|65 SOURCE|A3<6,7,8>.(q+1)(q^4+1)|22
+CENTRALIZER|[ "D", 5, "A", 3 ] D|8|65 SOURCE|A3<6,7,8>.(q+1)(q^4+1)|31
+CENTRALIZER|[ "D", 5, "A", 3 ] D|8|65 SOURCE|A3<6,7,8>.(q+1)(q^4+1)|4
+CENTRALIZER|[ "A", 7, "A", 1 ] D|1|1 SOURCE|(q-1)^8|
+CENTRALIZER|[ "A", 7, "A", 1 ] D|2|2 SOURCE|A5<3,4,5,6,7>.(q-1)(q+1)^2|321
+CENTRALIZER|[ "A", 7, "A", 1 ] D|2|2 SOURCE|(q-1)^3(q+1)^5|
+CENTRALIZER|[ "A", 7, "A", 1 ] D|3|8 SOURCE|A4<4,5,6,7>xA1<8>.(q-1)(q^2+q+1)|311,11
+CENTRALIZER|[ "A", 7, "A", 1 ] D|3|8 SOURCE|A4<4,5,6,7>xA1<8>.(q-1)(q^2+q+1)|311,2
+CENTRALIZER|[ "A", 7, "A", 1 ] D|3|8 SOURCE|A1<7>xA1<8>.(q-1)^2(q^2+q+1)^2|11,11
+CENTRALIZER|[ "A", 7, "A", 1 ] D|3|8 SOURCE|A1<7>xA1<8>.(q-1)^2(q^2+q+1)^2|11,2
+CENTRALIZER|[ "A", 7, "A", 1 ] D|3|8 SOURCE|A1<7>xA1<8>.(q-1)^2(q^2+q+1)^2|2,11
+CENTRALIZER|[ "A", 7, "A", 1 ] D|3|8 SOURCE|A1<7>xA1<8>.(q-1)^2(q^2+q+1)^2|2,2
+CENTRALIZER|[ "A", 7, "A", 1 ] D|4|12 SOURCE|A3<5,6,7>xA1<8>.(q-1)(q+1)(q^2+1)|22,11
+CENTRALIZER|[ "A", 7, "A", 1 ] D|4|12 SOURCE|A3<5,6,7>xA1<8>.(q-1)(q+1)(q^2+1)|22,2
+CENTRALIZER|[ "A", 7, "A", 1 ] D|4|12 SOURCE|A1<8>.(q-1)(q+1)^2(q^2+1)^2|11
+CENTRALIZER|[ "A", 7, "A", 1 ] D|4|12 SOURCE|A1<8>.(q-1)(q+1)^2(q^2+1)^2|2
+CENTRALIZER|[ "A", 7, "A", 1 ] D|5|20 SOURCE|A2<6,7>xA1<8>.(q-1)(q^4+q^3+q^2+q+1)|111,11
+CENTRALIZER|[ "A", 7, "A", 1 ] D|5|20 SOURCE|A2<6,7>xA1<8>.(q-1)(q^4+q^3+q^2+q+1)|111,2
+CENTRALIZER|[ "A", 7, "A", 1 ] D|5|20 SOURCE|A2<6,7>xA1<8>.(q-1)(q^4+q^3+q^2+q+1)|21,11
+CENTRALIZER|[ "A", 7, "A", 1 ] D|5|20 SOURCE|A2<6,7>xA1<8>.(q-1)(q^4+q^3+q^2+q+1)|21,2
+CENTRALIZER|[ "A", 7, "A", 1 ] D|5|20 SOURCE|A2<6,7>xA1<8>.(q-1)(q^4+q^3+q^2+q+1)|3,11
+CENTRALIZER|[ "A", 7, "A", 1 ] D|5|20 SOURCE|A2<6,7>xA1<8>.(q-1)(q^4+q^3+q^2+q+1)|3,2
+CENTRALIZER|[ "A", 7, "A", 1 ] D|6|24 SOURCE|A1<7>xA1<8>.(q-1)(q+1)(q^2+q+1)(q^2-q+1)|11,11
+CENTRALIZER|[ "A", 7, "A", 1 ] D|6|24 SOURCE|A1<7>xA1<8>.(q-1)(q+1)(q^2+q+1)(q^2-q+1)|11,2
+CENTRALIZER|[ "A", 7, "A", 1 ] D|6|24 SOURCE|A1<7>xA1<8>.(q-1)(q+1)(q^2+q+1)(q^2-q+1)|2,11
+CENTRALIZER|[ "A", 7, "A", 1 ] D|6|24 SOURCE|A1<7>xA1<8>.(q-1)(q+1)(q^2+q+1)(q^2-q+1)|2,2
+CENTRALIZER|[ "A", 7, "A", 1 ] D|7|32 SOURCE|A1<8>.(q-1)(q^6+q^5+q^4+q^3+q^2+q+1)|11
+CENTRALIZER|[ "A", 7, "A", 1 ] D|7|32 SOURCE|A1<8>.(q-1)(q^6+q^5+q^4+q^3+q^2+q+1)|2
+CENTRALIZER|[ "A", 7, "A", 1 ] D|8|30 SOURCE|A1<8>.(q+1)(q^2+1)(q^4+1)|11
+CENTRALIZER|[ "A", 7, "A", 1 ] D|8|30 SOURCE|A1<8>.(q+1)(q^2+1)(q^4+1)|2

@@ -1,0 +1,97 @@
+{
+  "description": "E8 E6 source: actual central A2 lattice and all involution parameters",
+  "central_lattice_basis": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      -1,
+      1
+    ],
+    [
+      0,
+      -1
+    ]
+  ],
+  "gram_matrix": [
+    [
+      2,
+      -1
+    ],
+    [
+      -1,
+      2
+    ]
+  ],
+  "source_root_count": 72,
+  "roots_trivial_on_central_five_torsion": 72,
+  "relative_normalizer_order": 12,
+  "relative_group": "W(G2)",
+  "opposition_lift": "-I_8, an actual E8 Weyl element",
+  "two_torsion_rows": [
+    {
+      "z": [
+        0,
+        1
+      ],
+      "centralizing_roots": 128,
+      "relative_stabilizer": 4,
+      "all_stabilizer_elements_have_order_at_most_two": true
+    },
+    {
+      "z": [
+        1,
+        0
+      ],
+      "centralizing_roots": 128,
+      "relative_stabilizer": 4,
+      "all_stabilizer_elements_have_order_at_most_two": true
+    },
+    {
+      "z": [
+        1,
+        1
+      ],
+      "centralizing_roots": 128,
+      "relative_stabilizer": 4,
+      "all_stabilizer_elements_have_order_at_most_two": true
+    }
+  ],
+  "root_restriction_multiplicities": {
+    "(0, 0)": 72,
+    "(-1, 0)": 27,
+    "(1, -1)": 27,
+    "(0, 1)": 27,
+    "(0, -1)": 27,
+    "(-1, 1)": 27,
+    "(1, 0)": 27,
+    "(-1, -1)": 1,
+    "(-2, 1)": 1,
+    "(1, -2)": 1,
+    "(-1, 2)": 1,
+    "(2, -1)": 1,
+    "(1, 1)": 1
+  },
+  "all_assertions_passed": true
+}

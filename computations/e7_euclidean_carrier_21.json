@@ -1,0 +1,66 @@
+{
+  "model": "E8 Euclidean slice orthogonal to e7+e8; doubled coordinates",
+  "root_count": 126,
+  "weight_count": 56,
+  "centralizer_root_counts": [
+    60,
+    26,
+    24
+  ],
+  "centre_roots_doubled": [
+    [
+      0,
+      0,
+      0,
+      0,
+      -2,
+      2,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -2,
+      2
+    ]
+  ],
+  "fixed_line_doubled": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    4,
+    -2,
+    2
+  ],
+  "fixed_line_root_pairings": {
+    "0": 72,
+    "2": 27,
+    "-2": 27
+  },
+  "full_carrier_order": 384,
+  "toral_2kernel": 8,
+  "relative_order": 48,
+  "q1_q2_relations": true,
+  "opposition_square": "minus identity on the faithful 56-space",
+  "Chevalley_Serre_integral_relations": true,
+  "opposition_centralizes_carrier": true,
+  "opposition_fixes_D4_pinning": true,
+  "scope": "uniform integral relations, all q and all valuations"
+}

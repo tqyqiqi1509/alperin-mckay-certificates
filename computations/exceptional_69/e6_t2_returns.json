@@ -1,0 +1,192 @@
+{
+  "main_theorem_closed": false,
+  "input": "Bourbaki E8 Cartan graph only",
+  "centre_gram": [
+    [
+      6,
+      -3
+    ],
+    [
+      -3,
+      2
+    ]
+  ],
+  "orthogonal_root_count": 6,
+  "relative_group_order": 12,
+  "rational_return_classes": [
+    {
+      "name": "split",
+      "centre_return": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "quotient_return": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "derived_E6_sign": 1,
+      "return_order": 1,
+      "class_size": 1,
+      "fixed_torus_order": "(q - 1)**2",
+      "cubic_kernel_F_action": "epsilon*q mod 3",
+      "Lang_cokernel_order": "gcd(3,q-epsilon)"
+    },
+    {
+      "name": "opposition",
+      "centre_return": [
+        [
+          -1,
+          0
+        ],
+        [
+          0,
+          -1
+        ]
+      ],
+      "quotient_return": [
+        [
+          -1,
+          0
+        ],
+        [
+          0,
+          -1
+        ]
+      ],
+      "derived_E6_sign": -1,
+      "return_order": 2,
+      "class_size": 1,
+      "fixed_torus_order": "(q + 1)**2",
+      "cubic_kernel_F_action": "epsilon*q mod 3",
+      "Lang_cokernel_order": "gcd(3,q-epsilon)"
+    },
+    {
+      "name": "A2_reflection",
+      "centre_return": [
+        [
+          1,
+          0
+        ],
+        [
+          3,
+          -1
+        ]
+      ],
+      "quotient_return": [
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          -1
+        ]
+      ],
+      "derived_E6_sign": 1,
+      "return_order": 2,
+      "class_size": 3,
+      "fixed_torus_order": "(q - 1)*(q + 1)",
+      "cubic_kernel_F_action": "epsilon*q mod 3",
+      "Lang_cokernel_order": "gcd(3,q-epsilon)"
+    },
+    {
+      "name": "negative_A2_reflection",
+      "centre_return": [
+        [
+          -1,
+          0
+        ],
+        [
+          -3,
+          1
+        ]
+      ],
+      "quotient_return": [
+        [
+          -1,
+          0
+        ],
+        [
+          -1,
+          1
+        ]
+      ],
+      "derived_E6_sign": -1,
+      "return_order": 2,
+      "class_size": 3,
+      "fixed_torus_order": "(q - 1)*(q + 1)",
+      "cubic_kernel_F_action": "epsilon*q mod 3",
+      "Lang_cokernel_order": "gcd(3,q-epsilon)"
+    },
+    {
+      "name": "A2_order3",
+      "centre_return": [
+        [
+          -2,
+          1
+        ],
+        [
+          -3,
+          1
+        ]
+      ],
+      "quotient_return": [
+        [
+          -2,
+          3
+        ],
+        [
+          -1,
+          1
+        ]
+      ],
+      "derived_E6_sign": 1,
+      "return_order": 3,
+      "class_size": 2,
+      "fixed_torus_order": "q**2 + q + 1",
+      "cubic_kernel_F_action": "epsilon*q mod 3",
+      "Lang_cokernel_order": "gcd(3,q-epsilon)"
+    },
+    {
+      "name": "negative_A2_order3",
+      "centre_return": [
+        [
+          2,
+          -1
+        ],
+        [
+          3,
+          -1
+        ]
+      ],
+      "quotient_return": [
+        [
+          2,
+          -3
+        ],
+        [
+          1,
+          -1
+        ]
+      ],
+      "derived_E6_sign": -1,
+      "return_order": 6,
+      "class_size": 2,
+      "fixed_torus_order": "q**2 - q + 1",
+      "cubic_kernel_F_action": "epsilon*q mod 3",
+      "Lang_cokernel_order": "gcd(3,q-epsilon)"
+    }
+  ]
+}

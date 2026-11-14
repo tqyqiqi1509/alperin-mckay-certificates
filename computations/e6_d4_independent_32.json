@@ -1,0 +1,138 @@
+{
+  "passed": true,
+  "scope": "Integral E6 and fixed universal coefficient groups; no defining-field sample",
+  "root_count": 72,
+  "root_restriction_multiplicities": {
+    "(1, -2)": 8,
+    "(-1, -1)": 8,
+    "(2, -1)": 8,
+    "(-1, 2)": 8,
+    "(1, 1)": 8,
+    "(0, 0)": 24,
+    "(-2, 1)": 8
+  },
+  "sparse_minuscule_dimension": 27,
+  "Tits_actual_S3_relations": true,
+  "positive_negative_D4_pinning_signs": "+1",
+  "corrected_graph_on_center": "-I",
+  "D4_center_primitive_minor_gcd": 1,
+  "center_cocharacters": [
+    [
+      2,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      0,
+      2
+    ]
+  ],
+  "w": [
+    [
+      0,
+      -1
+    ],
+    [
+      1,
+      -1
+    ]
+  ],
+  "reflection": [
+    [
+      -1,
+      1
+    ],
+    [
+      0,
+      1
+    ]
+  ],
+  "diagonal_isogeny_M": [
+    [
+      -1,
+      -1
+    ],
+    [
+      1,
+      -2
+    ]
+  ],
+  "M_Smith_invariant_factors": [
+    1,
+    3
+  ],
+  "formal_self_twist_identity": true,
+  "ordinary_sum_of_squares_identity": true,
+  "quaternion_GL2_complex_representation_order": 48,
+  "traceless_A": [
+    [
+      0,
+      0,
+      -1
+    ],
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      -1,
+      0
+    ]
+  ],
+  "traceless_B": [
+    [
+      -1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0
+    ]
+  ],
+  "Q8_on_nonzero_covectors": "regular",
+  "normalizer_Q8_in_GL2_3_order": 48,
+  "base_coefficient_degrees": [
+    1,
+    1,
+    1,
+    1,
+    2,
+    8
+  ],
+  "upper_SL2_coefficient_degrees": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    8,
+    8,
+    8,
+    3
+  ]
+}

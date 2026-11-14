@@ -1,0 +1,108 @@
+{
+  "method": "exact characteristic-zero root and signed matrix identities",
+  "three_x6": [
+    "2",
+    "3",
+    "4",
+    "11/2",
+    "4",
+    "2"
+  ],
+  "three_x6_minus_half_alpha4_coroot": [
+    "2",
+    "3",
+    "4",
+    "5",
+    "4",
+    "2"
+  ],
+  "H_pairing_alpha4": [
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "H_pairing_three_x6": [
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "signed_section_order": 6,
+  "all_signed_matrices_determinant_one": true,
+  "all_signed_matrices_orthogonal": true,
+  "all_signed_section_multiplication_relations": true,
+  "two_torsion_orbit": [
+    [
+      -1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      -1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      -1
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      -1
+    ]
+  ],
+  "orbit_size": 3,
+  "Q12_stabilizer_order": 4,
+  "Q12_stabilizer_permutation_and_tau": [
+    [
+      [
+        0,
+        1,
+        2
+      ],
+      0
+    ],
+    [
+      [
+        0,
+        1,
+        2
+      ],
+      1
+    ],
+    [
+      [
+        1,
+        0,
+        2
+      ],
+      0
+    ],
+    [
+      [
+        1,
+        0,
+        2
+      ],
+      1
+    ]
+  ],
+  "tau_fixes_each_two_torsion_point": true,
+  "source": "z2'=s6^3=h_alpha4(-1), no rational transporter required"
+}

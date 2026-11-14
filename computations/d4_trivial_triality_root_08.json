@@ -1,0 +1,178 @@
+{
+  "W_order": 192,
+  "root_automorphism_order": 1152,
+  "points": {
+    "isolated_D2_D2": {
+      "point": [
+        "1/2",
+        "1/2",
+        "0",
+        "0"
+      ],
+      "centralizer_roots": 8,
+      "connected_W_order": 16,
+      "adjoint_stabilizer_order": 64,
+      "full_triality_stabilizer_order": 384,
+      "central_translation_fibres": {
+        "0": 16,
+        "vector": 16,
+        "spin_even": 16,
+        "spin_odd": 16
+      },
+      "trivial_colour_rational_forms": [
+        {
+          "q_mod_4": 1,
+          "zero_return_transporter_count": 16,
+          "representative_F": [
+            [
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ],
+          "central_torus_F_polynomial": "1"
+        },
+        {
+          "q_mod_4": 3,
+          "zero_return_transporter_count": 16,
+          "representative_F": [
+            [
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ],
+          "central_torus_F_polynomial": "1"
+        }
+      ]
+    },
+    "strict_A1_T3": {
+      "point": [
+        "1/2",
+        "1/4",
+        "1/4",
+        "0"
+      ],
+      "centralizer_roots": 2,
+      "connected_W_order": 2,
+      "adjoint_stabilizer_order": 8,
+      "full_triality_stabilizer_order": 48,
+      "central_translation_fibres": {
+        "0": 2,
+        "vector": 2,
+        "spin_even": 2,
+        "spin_odd": 2
+      },
+      "trivial_colour_rational_forms": [
+        {
+          "q_mod_4": 1,
+          "zero_return_transporter_count": 2,
+          "representative_F": [
+            [
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ],
+          "central_torus_F_polynomial": "(lambda - 1)**3"
+        },
+        {
+          "q_mod_4": 3,
+          "zero_return_transporter_count": 2,
+          "representative_F": [
+            [
+              -1,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              -1,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              -1,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              -1
+            ]
+          ],
+          "central_torus_F_polynomial": "(lambda + 1)**3"
+        }
+      ]
+    }
+  },
+  "A1_perpendicular_pointwise_stabilizer": {
+    "order": 2,
+    "all_inner": true
+  },
+  "D2_Levi_classes": {
+    "inner_orbits": 3,
+    "triality_transitive": true
+  }
+}

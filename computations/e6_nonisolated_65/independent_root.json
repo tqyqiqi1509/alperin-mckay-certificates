@@ -1,0 +1,2214 @@
+{
+  "cartan": [
+    [
+      2,
+      0,
+      -1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      -1,
+      0,
+      0
+    ],
+    [
+      -1,
+      0,
+      2,
+      -1,
+      0,
+      0
+    ],
+    [
+      0,
+      -1,
+      -1,
+      2,
+      -1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      -1,
+      2,
+      -1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      -1,
+      2
+    ]
+  ],
+  "root_count": 72,
+  "weyl_order": 51840,
+  "cycle": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      -2
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      -2
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      -3
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      -2
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      -1
+    ]
+  ],
+  "points": {
+    "x3": [
+      "2/3",
+      "2/3",
+      "1",
+      "4/3",
+      "1",
+      "2/3"
+    ],
+    "x6": [
+      "2/3",
+      "1",
+      "4/3",
+      "11/6",
+      "4/3",
+      "2/3"
+    ]
+  },
+  "cases": {
+    "x3_split_d1": {
+      "d": 1,
+      "F": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "charpoly": "(x - 1)**6",
+      "active_basis": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "rank_A": 6,
+      "L_root_count": 0,
+      "L_simple_roots": [],
+      "source_root_count": 0,
+      "W_L_order": 1,
+      "ambient_relative_order": 51840,
+      "connected_relative_order": 192,
+      "natural_relative_order": 576,
+      "connected_kernel_order": 1,
+      "natural_kernel_order": 1,
+      "source_branches": 1,
+      "centre_smith": [],
+      "root_restriction_denominator_norm_gcd": [
+        [
+          1,
+          1
+        ]
+      ],
+      "faithful_on_active_space": true,
+      "F_component_permutation": []
+    },
+    "x3_split_d2": {
+      "d": 2,
+      "F": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          -1,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          -1,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          -1,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          -1,
+          2
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "charpoly": "(x - 1)**2*(x + 1)**4",
+      "active_basis": [
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "rank_A": 4,
+      "L_root_count": 0,
+      "L_simple_roots": [],
+      "source_root_count": 0,
+      "W_L_order": 1,
+      "ambient_relative_order": 1152,
+      "connected_relative_order": 192,
+      "natural_relative_order": 576,
+      "connected_kernel_order": 1,
+      "natural_kernel_order": 1,
+      "source_branches": 1,
+      "centre_smith": [],
+      "root_restriction_denominator_norm_gcd": [
+        [
+          1,
+          1
+        ]
+      ],
+      "faithful_on_active_space": true,
+      "F_component_permutation": []
+    },
+    "x3_cubic_d1": {
+      "d": 1,
+      "F": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          -2
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          -2
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -3
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          -2
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ]
+      ],
+      "charpoly": "(x - 1)**2*(x**2 + x + 1)**2",
+      "active_basis": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "rank_A": 2,
+      "L_root_count": 12,
+      "L_simple_roots": [
+        [
+          0,
+          0,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          0,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          0,
+          0
+        ]
+      ],
+      "source_root_count": 0,
+      "W_L_order": 36,
+      "ambient_relative_order": 12,
+      "connected_relative_order": 12,
+      "natural_relative_order": 12,
+      "connected_kernel_order": 1,
+      "natural_kernel_order": 3,
+      "source_branches": 3,
+      "centre_smith": [
+        1,
+        1,
+        1,
+        3
+      ],
+      "root_restriction_denominator_norm_gcd": [
+        [
+          1,
+          1
+        ]
+      ],
+      "faithful_on_active_space": true,
+      "F_component_permutation": [
+        0,
+        1
+      ]
+    },
+    "x3_cubic_d2": {
+      "d": 2,
+      "F": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          -1,
+          0
+        ],
+        [
+          1,
+          -1,
+          0,
+          0,
+          0,
+          -1
+        ],
+        [
+          2,
+          0,
+          0,
+          -1,
+          0,
+          -1
+        ],
+        [
+          2,
+          0,
+          -1,
+          0,
+          0,
+          -1
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ]
+      ],
+      "charpoly": "(x + 1)**2*(x**2 - x + 1)*(x**2 + x + 1)",
+      "active_basis": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "rank_A": 2,
+      "L_root_count": 12,
+      "L_simple_roots": [
+        [
+          0,
+          0,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          0,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          0,
+          0
+        ]
+      ],
+      "source_root_count": 0,
+      "W_L_order": 36,
+      "ambient_relative_order": 12,
+      "connected_relative_order": 12,
+      "natural_relative_order": 12,
+      "connected_kernel_order": 1,
+      "natural_kernel_order": 3,
+      "source_branches": 3,
+      "centre_smith": [
+        1,
+        1,
+        1,
+        3
+      ],
+      "root_restriction_denominator_norm_gcd": [
+        [
+          1,
+          1
+        ]
+      ],
+      "faithful_on_active_space": true,
+      "F_component_permutation": [
+        1,
+        0
+      ]
+    },
+    "x3_split_d4": {
+      "d": 4,
+      "F": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          -1,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          -2,
+          0,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          -1,
+          -1,
+          1,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "charpoly": "(x - 1)**2*(x**2 + 1)**2",
+      "active_basis": [
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "rank_A": 2,
+      "L_root_count": 0,
+      "L_simple_roots": [],
+      "source_root_count": 0,
+      "W_L_order": 1,
+      "ambient_relative_order": 96,
+      "connected_relative_order": 16,
+      "natural_relative_order": 48,
+      "connected_kernel_order": 1,
+      "natural_kernel_order": 1,
+      "source_branches": 1,
+      "centre_smith": [],
+      "root_restriction_denominator_norm_gcd": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          2
+        ]
+      ],
+      "faithful_on_active_space": true,
+      "F_component_permutation": []
+    },
+    "x3_cubic_d3": {
+      "d": 3,
+      "F": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ],
+        [
+          1,
+          -1,
+          -1,
+          1,
+          0,
+          -1
+        ],
+        [
+          1,
+          0,
+          -1,
+          0,
+          1,
+          -2
+        ],
+        [
+          2,
+          -1,
+          -1,
+          0,
+          1,
+          -2
+        ],
+        [
+          2,
+          0,
+          -1,
+          0,
+          0,
+          -1
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ]
+      ],
+      "charpoly": "(x**2 + x + 1)**3",
+      "active_basis": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "rank_A": 3,
+      "L_root_count": 0,
+      "L_simple_roots": [],
+      "source_root_count": 0,
+      "W_L_order": 1,
+      "ambient_relative_order": 648,
+      "connected_relative_order": 24,
+      "natural_relative_order": 72,
+      "connected_kernel_order": 1,
+      "natural_kernel_order": 1,
+      "source_branches": 1,
+      "centre_smith": [],
+      "root_restriction_denominator_norm_gcd": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "faithful_on_active_space": true,
+      "F_component_permutation": []
+    },
+    "x3_cubic_d6": {
+      "d": 6,
+      "F": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          -2
+        ],
+        [
+          0,
+          -1,
+          0,
+          1,
+          0,
+          -2
+        ],
+        [
+          1,
+          -1,
+          -1,
+          1,
+          1,
+          -3
+        ],
+        [
+          1,
+          -1,
+          0,
+          0,
+          1,
+          -2
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ]
+      ],
+      "charpoly": "(x**2 - x + 1)**2*(x**2 + x + 1)",
+      "active_basis": [
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "rank_A": 2,
+      "L_root_count": 0,
+      "L_simple_roots": [],
+      "source_root_count": 0,
+      "W_L_order": 1,
+      "ambient_relative_order": 72,
+      "connected_relative_order": 24,
+      "natural_relative_order": 72,
+      "connected_kernel_order": 1,
+      "natural_kernel_order": 1,
+      "source_branches": 1,
+      "centre_smith": [],
+      "root_restriction_denominator_norm_gcd": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "faithful_on_active_space": true,
+      "F_component_permutation": []
+    },
+    "x3_split_d1_cuspidal": {
+      "d": 1,
+      "F": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "charpoly": "(x - 1)**6",
+      "active_basis": [
+        [
+          2,
+          -4
+        ],
+        [
+          1,
+          -1
+        ],
+        [
+          2,
+          -3
+        ],
+        [
+          2,
+          -2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "rank_A": 2,
+      "L_root_count": 24,
+      "L_simple_roots": [
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "source_root_count": 24,
+      "W_L_order": 192,
+      "ambient_relative_order": 6,
+      "connected_relative_order": 1,
+      "natural_relative_order": 3,
+      "connected_kernel_order": 192,
+      "natural_kernel_order": 192,
+      "source_branches": 1,
+      "centre_smith": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "root_restriction_denominator_norm_gcd": [
+        [
+          1,
+          1
+        ]
+      ],
+      "faithful_on_active_space": true,
+      "F_component_permutation": [
+        0
+      ]
+    },
+    "x6_split_d1": {
+      "d": 1,
+      "F": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "charpoly": "(x - 1)**6",
+      "active_basis": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "rank_A": 6,
+      "L_root_count": 0,
+      "L_simple_roots": [],
+      "source_root_count": 0,
+      "W_L_order": 1,
+      "ambient_relative_order": 51840,
+      "connected_relative_order": 16,
+      "natural_relative_order": 48,
+      "connected_kernel_order": 1,
+      "natural_kernel_order": 1,
+      "source_branches": 1,
+      "centre_smith": [],
+      "root_restriction_denominator_norm_gcd": [
+        [
+          1,
+          1
+        ]
+      ],
+      "faithful_on_active_space": true,
+      "F_component_permutation": []
+    },
+    "x6_split_d2": {
+      "d": 2,
+      "F": [
+        [
+          -1,
+          -1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          -2,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          -2,
+          1,
+          -1,
+          1,
+          0
+        ],
+        [
+          0,
+          -2,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          -1,
+          0,
+          0,
+          1,
+          -1
+        ]
+      ],
+      "charpoly": "(x - 1)**2*(x + 1)**4",
+      "active_basis": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "rank_A": 4,
+      "L_root_count": 0,
+      "L_simple_roots": [],
+      "source_root_count": 0,
+      "W_L_order": 1,
+      "ambient_relative_order": 1152,
+      "connected_relative_order": 16,
+      "natural_relative_order": 48,
+      "connected_kernel_order": 1,
+      "natural_kernel_order": 1,
+      "source_branches": 1,
+      "centre_smith": [],
+      "root_restriction_denominator_norm_gcd": [
+        [
+          1,
+          1
+        ]
+      ],
+      "faithful_on_active_space": true,
+      "F_component_permutation": []
+    },
+    "x6_cubic_d1": {
+      "d": 1,
+      "F": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          -2
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          -2
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -3
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          -2
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ]
+      ],
+      "charpoly": "(x - 1)**2*(x**2 + x + 1)**2",
+      "active_basis": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "rank_A": 2,
+      "L_root_count": 12,
+      "L_simple_roots": [
+        [
+          0,
+          0,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          0,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          0,
+          0
+        ]
+      ],
+      "source_root_count": 0,
+      "W_L_order": 36,
+      "ambient_relative_order": 12,
+      "connected_relative_order": 4,
+      "natural_relative_order": 4,
+      "connected_kernel_order": 1,
+      "natural_kernel_order": 3,
+      "source_branches": 3,
+      "centre_smith": [
+        1,
+        1,
+        1,
+        3
+      ],
+      "root_restriction_denominator_norm_gcd": [
+        [
+          1,
+          1
+        ]
+      ],
+      "faithful_on_active_space": true,
+      "F_component_permutation": [
+        0,
+        1
+      ],
+      "same_F_primary_decomposition": {
+        "s3_dual": [
+          "8/3",
+          "4",
+          "16/3",
+          "22/3",
+          "16/3",
+          "8/3"
+        ],
+        "central_involution_dual": [
+          "2",
+          "3",
+          "4",
+          "11/2",
+          "4",
+          "2"
+        ],
+        "central_Levi_root_values": [
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        "involution_F_return": [
+          "-3",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "order3_F_return": [
+          "-4",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "order3_centralizer_roots": 24,
+        "order3_connected_source_order": 12,
+        "order3_natural_source_order": 12,
+        "uses_no_rational_transporter": true
+      },
+      "quadratic_transport": {
+        "number": 36,
+        "w": [
+          [
+            0,
+            0,
+            1,
+            0,
+            -1,
+            0
+          ],
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            -1
+          ],
+          [
+            -1,
+            0,
+            2,
+            0,
+            -1,
+            0
+          ],
+          [
+            -1,
+            -1,
+            2,
+            1,
+            -1,
+            -1
+          ],
+          [
+            -1,
+            -1,
+            2,
+            0,
+            0,
+            -1
+          ],
+          [
+            0,
+            -1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "y": [
+          "0",
+          "2/3",
+          "2/3",
+          "5/6",
+          "1/3",
+          "1/3"
+        ],
+        "zeta_dual": [
+          "-2/3",
+          "0",
+          "-1/3",
+          "-1/2",
+          "-2/3",
+          "-1/3"
+        ],
+        "twice_adjoint_coordinates": [
+          "-2",
+          "1",
+          "1",
+          "0",
+          "-1",
+          "0"
+        ],
+        "Levi_root_values": [
+          "0",
+          "0",
+          "-1",
+          "0"
+        ],
+        "F_return_adjoint_coordinates": [
+          "1",
+          "-1",
+          "0",
+          "0",
+          "1",
+          "-1"
+        ]
+      }
+    },
+    "x6_cubic_d2": {
+      "d": 2,
+      "F": [
+        [
+          0,
+          1,
+          0,
+          0,
+          -1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          -1,
+          2
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          -2,
+          2
+        ],
+        [
+          0,
+          1,
+          1,
+          -1,
+          -2,
+          3
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -2,
+          2
+        ],
+        [
+          -1,
+          0,
+          1,
+          0,
+          -1,
+          1
+        ]
+      ],
+      "charpoly": "(x + 1)**2*(x**2 - x + 1)*(x**2 + x + 1)",
+      "active_basis": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "rank_A": 2,
+      "L_root_count": 12,
+      "L_simple_roots": [
+        [
+          0,
+          0,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          0,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          0,
+          0
+        ]
+      ],
+      "source_root_count": 0,
+      "W_L_order": 36,
+      "ambient_relative_order": 12,
+      "connected_relative_order": 4,
+      "natural_relative_order": 4,
+      "connected_kernel_order": 1,
+      "natural_kernel_order": 3,
+      "source_branches": 3,
+      "centre_smith": [
+        1,
+        1,
+        1,
+        3
+      ],
+      "root_restriction_denominator_norm_gcd": [
+        [
+          1,
+          1
+        ]
+      ],
+      "faithful_on_active_space": true,
+      "F_component_permutation": [
+        1,
+        0
+      ],
+      "same_F_primary_decomposition": {
+        "s3_dual": [
+          "8/3",
+          "4",
+          "16/3",
+          "22/3",
+          "16/3",
+          "8/3"
+        ],
+        "central_involution_dual": [
+          "2",
+          "3",
+          "4",
+          "11/2",
+          "4",
+          "2"
+        ],
+        "central_Levi_root_values": [
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        "involution_F_return": [
+          "3",
+          "0",
+          "-3",
+          "0",
+          "0",
+          "0"
+        ],
+        "order3_F_return": [
+          "4",
+          "0",
+          "-4",
+          "0",
+          "0",
+          "0"
+        ],
+        "order3_centralizer_roots": 24,
+        "order3_connected_source_order": 12,
+        "order3_natural_source_order": 12,
+        "uses_no_rational_transporter": true
+      },
+      "quadratic_transport": {
+        "number": 36,
+        "w": [
+          [
+            0,
+            0,
+            1,
+            0,
+            -1,
+            0
+          ],
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            -1
+          ],
+          [
+            -1,
+            0,
+            2,
+            0,
+            -1,
+            0
+          ],
+          [
+            -1,
+            -1,
+            2,
+            1,
+            -1,
+            -1
+          ],
+          [
+            -1,
+            -1,
+            2,
+            0,
+            0,
+            -1
+          ],
+          [
+            0,
+            -1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "y": [
+          "0",
+          "2/3",
+          "2/3",
+          "5/6",
+          "1/3",
+          "1/3"
+        ],
+        "zeta_dual": [
+          "-2/3",
+          "0",
+          "-1/3",
+          "-1/2",
+          "-2/3",
+          "-1/3"
+        ],
+        "twice_adjoint_coordinates": [
+          "-2",
+          "1",
+          "1",
+          "0",
+          "-1",
+          "0"
+        ],
+        "Levi_root_values": [
+          "0",
+          "0",
+          "-1",
+          "0"
+        ],
+        "F_return_adjoint_coordinates": [
+          "1",
+          "-1",
+          "0",
+          "0",
+          "0",
+          "1"
+        ]
+      }
+    },
+    "x6_cubic_d3": {
+      "d": 3,
+      "F": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          -2
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          -2
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -3
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          -2
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ]
+      ],
+      "charpoly": "(x - 1)**2*(x**2 + x + 1)**2",
+      "active_basis": [
+        [
+          0,
+          1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          2,
+          -1,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "rank_A": 2,
+      "L_root_count": 6,
+      "L_simple_roots": [
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          1,
+          1,
+          1,
+          0
+        ]
+      ],
+      "source_root_count": 2,
+      "W_L_order": 6,
+      "ambient_relative_order": 18,
+      "connected_relative_order": 2,
+      "natural_relative_order": 6,
+      "connected_kernel_order": 2,
+      "natural_kernel_order": 2,
+      "source_branches": 1,
+      "centre_smith": [
+        1,
+        1
+      ],
+      "root_restriction_denominator_norm_gcd": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          12
+        ]
+      ],
+      "faithful_on_active_space": true,
+      "F_component_permutation": [
+        0
+      ]
+    }
+  },
+  "x3": {
+    "central_roots": 24,
+    "central_weyl": 192,
+    "natural_weyl": 576,
+    "central_basis": [
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ]
+    ]
+  },
+  "x6": {
+    "central_roots": 8,
+    "central_weyl": 16,
+    "natural_weyl": 48,
+    "central_basis": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        2,
+        2,
+        3,
+        2,
+        1
+      ]
+    ]
+  },
+  "A2_three_carrier": {
+    "H_simple_roots": [
+      [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        0,
+        1,
+        0,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        0,
+        1,
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0
+      ]
+    ],
+    "K_simple_roots": [
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        1,
+        1,
+        0
+      ]
+    ],
+    "root_lattice_index": 3,
+    "pinning_character_determinant": 9
+  }
+}

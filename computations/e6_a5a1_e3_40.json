@@ -1,0 +1,80 @@
+{
+  "v_matrix": [
+    [
+      0,
+      0,
+      -1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      -1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      -1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      -1
+    ]
+  ],
+  "v_charpoly": "lambda**6 - 2*lambda**3 + 1",
+  "fixed_root_count": 6,
+  "simple_A2_roots": [
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      2,
+      3,
+      2,
+      1
+    ]
+  ],
+  "theta_in_source_derived_lattice": true,
+  "root_restriction_norm_gcds": [
+    1,
+    3
+  ],
+  "no_non_A2_root_vanishes_at_any_ell_ge_7": true,
+  "w0_conjugates_v_to_inverse": true,
+  "scope": "split e3, twisted e6, odd q, good ell>=7"
+}

@@ -1,0 +1,510 @@
+{
+  "D8_D4_1": {
+    "derived_rank": 4,
+    "perpendicular_rank": 4,
+    "product_kernel_Smith": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "product_kernel_order": 1,
+    "central_cocharacters_intrinsic": [],
+    "central_cocharacters_E8": [],
+    "C_Ls_center_poly": "(lambda - 1)**4"
+  },
+  "D8_D4_2": {
+    "derived_rank": 4,
+    "perpendicular_rank": 4,
+    "product_kernel_Smith": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "product_kernel_order": 1,
+    "central_cocharacters_intrinsic": [],
+    "central_cocharacters_E8": [],
+    "C_Ls_center_poly": "(lambda + 1)**4"
+  },
+  "D8_cubic": {
+    "derived_rank": 6,
+    "perpendicular_rank": 6,
+    "product_kernel_Smith": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "product_kernel_order": 1,
+    "central_cocharacters_intrinsic": [],
+    "central_cocharacters_E8": [],
+    "C_Ls_center_poly": "(lambda - 1)**2*(lambda**2 + lambda + 1)**2"
+  },
+  "D8_sextic": {
+    "derived_rank": 6,
+    "perpendicular_rank": 6,
+    "product_kernel_Smith": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "product_kernel_order": 1,
+    "central_cocharacters_intrinsic": [],
+    "central_cocharacters_E8": [],
+    "C_Ls_center_poly": "(lambda + 1)**2*(lambda**2 - lambda + 1)**2"
+  },
+  "D8_quartic_D4": {
+    "derived_rank": 4,
+    "perpendicular_rank": 4,
+    "product_kernel_Smith": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "product_kernel_order": 1,
+    "central_cocharacters_intrinsic": [],
+    "central_cocharacters_E8": [],
+    "C_Ls_center_poly": "(lambda**2 + 1)**2"
+  },
+  "E7A1_D4_1": {
+    "derived_rank": 4,
+    "perpendicular_rank": 4,
+    "product_kernel_Smith": [
+      1,
+      1,
+      1,
+      2
+    ],
+    "product_kernel_order": 2,
+    "central_cocharacters_intrinsic": [],
+    "central_cocharacters_E8": [],
+    "C_Ls_center_poly": "(lambda - 1)**4"
+  },
+  "E7A1_D4_2": {
+    "derived_rank": 4,
+    "perpendicular_rank": 4,
+    "product_kernel_Smith": [
+      1,
+      1,
+      1,
+      2
+    ],
+    "product_kernel_order": 2,
+    "central_cocharacters_intrinsic": [],
+    "central_cocharacters_E8": [],
+    "C_Ls_center_poly": "(lambda + 1)**4"
+  },
+  "E7A1_E6_1": {
+    "derived_rank": 1,
+    "perpendicular_rank": 2,
+    "product_kernel_Smith": [
+      1,
+      2
+    ],
+    "product_kernel_order": 2,
+    "central_cocharacters_intrinsic": [
+      [
+        [
+          "-1"
+        ],
+        [
+          "1"
+        ]
+      ]
+    ],
+    "central_cocharacters_E8": [
+      [
+        [
+          "0"
+        ],
+        [
+          "0"
+        ],
+        [
+          "0"
+        ],
+        [
+          "0"
+        ],
+        [
+          "0"
+        ],
+        [
+          "2"
+        ],
+        [
+          "-1"
+        ],
+        [
+          "1"
+        ]
+      ]
+    ],
+    "C_Ls_center_poly": "(lambda - 1)**2"
+  },
+  "E7A1_E6_2": {
+    "derived_rank": 1,
+    "perpendicular_rank": 2,
+    "product_kernel_Smith": [
+      1,
+      2
+    ],
+    "product_kernel_order": 2,
+    "central_cocharacters_intrinsic": [
+      [
+        [
+          "-1"
+        ],
+        [
+          "1"
+        ]
+      ]
+    ],
+    "central_cocharacters_E8": [
+      [
+        [
+          "0"
+        ],
+        [
+          "0"
+        ],
+        [
+          "0"
+        ],
+        [
+          "0"
+        ],
+        [
+          "0"
+        ],
+        [
+          "2"
+        ],
+        [
+          "-1"
+        ],
+        [
+          "1"
+        ]
+      ]
+    ],
+    "C_Ls_center_poly": "(lambda + 1)**2"
+  },
+  "E7A1_cubic": {
+    "derived_rank": 7,
+    "perpendicular_rank": 7,
+    "product_kernel_Smith": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "product_kernel_order": 1,
+    "central_cocharacters_intrinsic": [],
+    "central_cocharacters_E8": [],
+    "C_Ls_center_poly": "(lambda - 1)*(lambda**2 + lambda + 1)**3"
+  },
+  "E7A1_sextic": {
+    "derived_rank": 7,
+    "perpendicular_rank": 7,
+    "product_kernel_Smith": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "product_kernel_order": 1,
+    "central_cocharacters_intrinsic": [],
+    "central_cocharacters_E8": [],
+    "C_Ls_center_poly": "(lambda + 1)*(lambda**2 - lambda + 1)**3"
+  },
+  "E7A1_quartic": {
+    "derived_rank": 4,
+    "perpendicular_rank": 4,
+    "product_kernel_Smith": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "product_kernel_order": 1,
+    "central_cocharacters_intrinsic": [],
+    "central_cocharacters_E8": [],
+    "C_Ls_center_poly": "(lambda**2 + 1)**2",
+    "nonidentity_component_character": [
+      [
+        "0"
+      ],
+      [
+        "0"
+      ],
+      [
+        "0"
+      ],
+      [
+        "0"
+      ],
+      [
+        "0"
+      ],
+      [
+        "1"
+      ],
+      [
+        "0"
+      ],
+      [
+        "1"
+      ]
+    ],
+    "component_value_on_s": "1/2"
+  },
+  "D5A3_matching_D4": {
+    "derived_rank": 3,
+    "perpendicular_rank": 4,
+    "product_kernel_Smith": [
+      1,
+      1,
+      1,
+      2
+    ],
+    "product_kernel_order": 2,
+    "central_cocharacters_intrinsic": [
+      [
+        [
+          "-1"
+        ],
+        [
+          "1"
+        ],
+        [
+          "0"
+        ],
+        [
+          "0"
+        ]
+      ]
+    ],
+    "central_cocharacters_E8": [
+      [
+        [
+          "0"
+        ],
+        [
+          "0"
+        ],
+        [
+          "0"
+        ],
+        [
+          "0"
+        ],
+        [
+          "2"
+        ],
+        [
+          "0"
+        ],
+        [
+          "0"
+        ],
+        [
+          "0"
+        ]
+      ]
+    ],
+    "C_Ls_center_poly": "(lambda - 1)**4"
+  },
+  "D5A3_cubic": {
+    "derived_rank": 6,
+    "perpendicular_rank": 6,
+    "product_kernel_Smith": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "product_kernel_order": 2,
+    "central_cocharacters_intrinsic": [],
+    "central_cocharacters_E8": [],
+    "C_Ls_center_poly": "(lambda - 1)**2*(lambda**2 + lambda + 1)**2"
+  },
+  "D5A3_quartic32": {
+    "derived_rank": 5,
+    "perpendicular_rank": 5,
+    "product_kernel_Smith": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "product_kernel_order": 1,
+    "central_cocharacters_intrinsic": [],
+    "central_cocharacters_E8": [],
+    "C_Ls_center_poly": "(lambda - 1)*(lambda**2 + 1)**2"
+  },
+  "D5A3_quartic33": {
+    "derived_rank": 5,
+    "perpendicular_rank": 5,
+    "product_kernel_Smith": [
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "product_kernel_order": 2,
+    "central_cocharacters_intrinsic": [],
+    "central_cocharacters_E8": [],
+    "C_Ls_center_poly": "(lambda + 1)*(lambda**2 + 1)**2"
+  },
+  "A7A1_nonmatching_D6": {
+    "derived_rank": 2,
+    "perpendicular_rank": 3,
+    "product_kernel_Smith": [
+      1,
+      1,
+      2
+    ],
+    "product_kernel_order": 2,
+    "central_cocharacters_intrinsic": [
+      [
+        [
+          "0"
+        ],
+        [
+          "1"
+        ],
+        [
+          "2"
+        ]
+      ]
+    ],
+    "central_cocharacters_E8": [
+      [
+        [
+          "3/2"
+        ],
+        [
+          "1/2"
+        ],
+        [
+          "1/2"
+        ],
+        [
+          "1/2"
+        ],
+        [
+          "1/2"
+        ],
+        [
+          "1/2"
+        ],
+        [
+          "1/2"
+        ],
+        [
+          "3/2"
+        ]
+      ]
+    ],
+    "C_Ls_center_poly": "(lambda - 1)*(lambda + 1)**2"
+  },
+  "A7A1_cubic": {
+    "derived_rank": 5,
+    "perpendicular_rank": 6,
+    "product_kernel_Smith": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      3
+    ],
+    "product_kernel_order": 3,
+    "central_cocharacters_intrinsic": [
+      [
+        [
+          "-1"
+        ],
+        [
+          "-2"
+        ],
+        [
+          "-1"
+        ],
+        [
+          "0"
+        ],
+        [
+          "-2"
+        ],
+        [
+          "1"
+        ]
+      ]
+    ],
+    "central_cocharacters_E8": [
+      [
+        [
+          "-1/2"
+        ],
+        [
+          "1/2"
+        ],
+        [
+          "1/2"
+        ],
+        [
+          "1/2"
+        ],
+        [
+          "1/2"
+        ],
+        [
+          "-3/2"
+        ],
+        [
+          "-3/2"
+        ],
+        [
+          "-1/2"
+        ]
+      ]
+    ],
+    "C_Ls_center_poly": "(lambda - 1)**2*(lambda**2 + lambda + 1)**2"
+  },
+  "A7A1_quartic36": {
+    "derived_rank": 7,
+    "perpendicular_rank": 7,
+    "product_kernel_Smith": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "product_kernel_order": 2,
+    "central_cocharacters_intrinsic": [],
+    "central_cocharacters_E8": [],
+    "C_Ls_center_poly": "(lambda - 1)*(lambda + 1)**2*(lambda**2 + 1)**2"
+  }
+}

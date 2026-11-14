@@ -1,0 +1,278 @@
+{
+  "scope": "All q prime to 3 and all a=v3(q-epsilon)>=1; exact integral lattices",
+  "D4_gram": [
+    [
+      2,
+      -1,
+      0,
+      0
+    ],
+    [
+      -1,
+      2,
+      -1,
+      -1
+    ],
+    [
+      0,
+      -1,
+      2,
+      0
+    ],
+    [
+      0,
+      -1,
+      0,
+      2
+    ]
+  ],
+  "u": [
+    [
+      -1,
+      0,
+      1,
+      0
+    ],
+    [
+      -1,
+      0,
+      1,
+      -1
+    ],
+    [
+      -1,
+      0,
+      0,
+      0
+    ],
+    [
+      -1,
+      1,
+      0,
+      -1
+    ]
+  ],
+  "v": [
+    [
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      -1
+    ],
+    [
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      -1
+    ]
+  ],
+  "relative_weyl_order": 1152,
+  "sylow_three_order": 9,
+  "nonidentity_smith_forms": [
+    [
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      3,
+      3
+    ],
+    [
+      1,
+      1,
+      3,
+      3
+    ],
+    [
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      3,
+      3
+    ],
+    [
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      3,
+      3
+    ]
+  ],
+  "joint_smith_form": [
+    1,
+    1,
+    1,
+    3
+  ],
+  "fixed_line_generator_mod3": [
+    0,
+    1,
+    0,
+    2
+  ],
+  "nonzero_colour_orbit": 32,
+  "colour_stabilizer_order": 36,
+  "sylow_normalizer_order": 72,
+  "colour_stabilizer_structure": "S3 x S3, certified by commuting rank-two reflection factors",
+  "E8_root_count": 240,
+  "source_centralizer_root_count": 24,
+  "nonzero_colour_centralizer_components": [
+    {
+      "roots": 72,
+      "rank": 6
+    },
+    {
+      "roots": 6,
+      "rank": 2
+    }
+  ],
+  "opposition_integral_matrix": [
+    [
+      -1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      -1,
+      1,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      0
+    ],
+    [
+      -2,
+      0,
+      1,
+      0,
+      0,
+      -1,
+      0,
+      0
+    ],
+    [
+      -2,
+      0,
+      0,
+      1,
+      0,
+      -2,
+      0,
+      0
+    ],
+    [
+      -1,
+      0,
+      0,
+      0,
+      1,
+      -2,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1
+    ]
+  ],
+  "opposition_on_centralizer_components": [
+    {
+      "rank": 2,
+      "indices": [
+        0,
+        7
+      ],
+      "permutation": [
+        7,
+        0
+      ]
+    },
+    {
+      "rank": 6,
+      "indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "permutation": [
+        6,
+        4,
+        3,
+        2,
+        5,
+        1
+      ]
+    }
+  ],
+  "chamber_correction_steps": 27,
+  "proof_of_characteristic": "For abelian J outside A, E=JA/A has order3 or9; |J|<=|E||C_A(E)|<3^(4a).",
+  "script_sha256": "c508b51877998b75c7982b57bc36eaef7a3666781af8fca6b96b947106f5b3ce"
+}

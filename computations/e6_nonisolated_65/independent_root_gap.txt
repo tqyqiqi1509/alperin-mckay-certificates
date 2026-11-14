@@ -1,0 +1,44 @@
+x3_split_d1|natural|order=
+576
+ |structure=((C2 x C2 x C2) : (C2 x C2)) : (C3 x S3)|centre=C2|derived=((C2 x \
+C2 x C2) : (C2 x C2)) : C3|k=23
+x3_split_d1|connected|order=
+192
+ |structure=(C2 x C2 x C2) : S4|centre=C2|derived=((C2 x C2 x C2) : (C2 x C2))\
+ : C3|k=13
+x3_split_d2|natural|order=
+576
+ |structure=((C2 x C2 x C2) : (C2 x C2)) : (C3 x S3)|centre=C2|derived=((C2 x \
+C2 x C2) : (C2 x C2)) : C3|k=23
+x3_split_d2|connected|order=
+192
+ |structure=(C2 x C2 x C2) : S4|centre=C2|derived=((C2 x C2 x C2) : (C2 x C2))\
+ : C3|k=13
+x3_cubic_d1|natural|order=12|structure=D12|centre=C2|derived=C3|k=6
+x3_cubic_d1|connected|order=12|structure=D12|centre=C2|derived=C3|k=6
+x3_cubic_d2|natural|order=12|structure=D12|centre=C2|derived=C3|k=6
+x3_cubic_d2|connected|order=12|structure=D12|centre=C2|derived=C3|k=6
+x3_split_d4|natural|order=
+48|structure=((C4 x C2) : C2) : C3|centre=C4|derived=Q8|k=14
+x3_split_d4|connected|order=
+16|structure=(C4 x C2) : C2|centre=C4|derived=C2|k=10
+x3_cubic_d3|natural|order=72|structure=C3 x SL(2,3)|centre=C6|derived=Q8|k=21
+x3_cubic_d3|connected|order=24|structure=SL(2,3)|centre=C2|derived=Q8|k=7
+x3_cubic_d6|natural|order=72|structure=C3 x SL(2,3)|centre=C6|derived=Q8|k=21
+x3_cubic_d6|connected|order=24|structure=SL(2,3)|centre=C2|derived=Q8|k=7
+x3_split_d1_cuspidal|natural|order=3|structure=C3|centre=C3|derived=1|k=3
+x3_split_d1_cuspidal|connected|order=1|structure=1|centre=1|derived=1|k=1
+x6_split_d1|natural|order=
+48|structure=C2 x C2 x A4|centre=C2 x C2|derived=C2 x C2|k=16
+x6_split_d1|connected|order=
+16|structure=C2 x C2 x C2 x C2|centre=C2 x C2 x C2 x C2|derived=1|k=16
+x6_split_d2|natural|order=
+48|structure=C2 x C2 x A4|centre=C2 x C2|derived=C2 x C2|k=16
+x6_split_d2|connected|order=
+16|structure=C2 x C2 x C2 x C2|centre=C2 x C2 x C2 x C2|derived=1|k=16
+x6_cubic_d1|natural|order=4|structure=C2 x C2|centre=C2 x C2|derived=1|k=4
+x6_cubic_d1|connected|order=4|structure=C2 x C2|centre=C2 x C2|derived=1|k=4
+x6_cubic_d2|natural|order=4|structure=C2 x C2|centre=C2 x C2|derived=1|k=4
+x6_cubic_d2|connected|order=4|structure=C2 x C2|centre=C2 x C2|derived=1|k=4
+x6_cubic_d3|natural|order=6|structure=C6|centre=C6|derived=1|k=6
+x6_cubic_d3|connected|order=2|structure=C2|centre=C2|derived=1|k=2

@@ -1,0 +1,4 @@
+GAP 4.16.1, generated faithful W(F4) permutation group on 24 D4 roots.
+order=1152
+degrees=[1,1,1,1,2,2,2,2,4,4,4,4,4,6,6,8,8,8,8,9,9,9,9,12,16]
+three_prime_count=18

@@ -1,0 +1,12 @@
+CUSPIDAL4|[ 3, 5, 10, 11 ]|[ "1.111", "11.2", ".22", "1.3" ]
+Syntax error: warning, undefined global variable in research/computations/e8_d\
+4_marks_root_08.g line 11
+ Print("GRAPH|",autD4R,"|ACTION|",puD4R,"|MARK_IMAGES|",List(idsD4R,i->namesD4\
+R[i^puD4R]),"\n");
+                                                                              \
+         ^
+GRAPH|(1,2)|ACTION|( 1, 2)( 8, 9)|MARK_IMAGES|[ "1.111", "11.2", ".22", "1.3" 
+ ]
+GRAPH|(1,2,4)|ACTION|( 1, 7, 2)( 8,12, 9)|MARK_IMAGES|
+[ "1.111", "11.2", ".22", "1.3" ]
+gap> 

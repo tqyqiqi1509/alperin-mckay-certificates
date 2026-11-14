@@ -1,0 +1,56 @@
+#I  autpgrp package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  alnuth package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  crisp package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  factint package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  fga package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  irredsol package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  laguna package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  packagemanager package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  polenta package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  polycyclic package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  resclasses package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  sophus package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  tomlib package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+ROW60|0|362880|362880|1|362880|S9
+ROW60|1|362880|288|6|48|C2 x S4
+ROW60|2|362880|384|1|384|((C2 x C2 x C2) : (C2 x C2)) : D12
+ROW60|3|362880|1296|1|162|((C3 x C3 x C3) : C3) : C2
+ROW60|4|362880|384|1|32|(C4 x C4) : C2
+ROW60|5|362880|288|6|48|C2 x S4
+ROW60|6|362880|384|1|384|((C2 x C2 x C2) : (C2 x C2)) : D12
+ROW60|7|362880|362880|1|362880|S9
+ROW60|8|362880|384|1|32|(C4 x C4) : C2
+ROW60|9|362880|1296|1|162|((C3 x C3 x C3) : C3) : C2
+ROW60|10|311040|311040|51840|6|S3
+ROW60|11|311040|6912|192|36|S3 x S3
+ROW60|12|311040|311040|1|311040|(O(5,3) : C2) x S3
+ROW60|13|311040|2880|720|4|C2 x C2
+ROW60|14|311040|6912|6|1152|((C2 x C2 x C2) : (C2 x C2)) : (S3 x S3)
+ROW60|15|311040|2304|1|2304|C2 x (((C2 x C2 x C2) : (C2 x C2)) : (S3 x S3))
+ROW60|16|311040|6912|192|9|C3 x C3
+ROW60|17|311040|311040|1|1944|C3 x (((C3 x C3) : C3) : SL(2,3))
+ROW60|18|311040|6912|6|96|SL(2,3) : C4
+ROW60|19|311040|6912|6|72|C3 x SL(2,3)
+ROW60|20|311040|2880|720|4|C2 x C2
+ROW60|21|311040|6912|6|1152|((C2 x C2 x C2) : (C2 x C2)) : (S3 x S3)
+ROW60|22|311040|2304|1|2304|C2 x (((C2 x C2 x C2) : (C2 x C2)) : (S3 x S3))
+ROW60|23|311040|311040|51840|6|S3
+ROW60|24|311040|6912|192|36|S3 x S3
+ROW60|25|311040|311040|1|311040|(O(5,3) : C2) x S3
+ROW60|26|311040|6912|6|72|C3 x SL(2,3)
+ROW60|27|311040|6912|6|96|SL(2,3) : C4
+ROW60|28|311040|6912|192|9|C3 x C3
+ROW60|29|311040|311040|1|1944|C3 x (((C3 x C3) : C3) : SL(2,3))

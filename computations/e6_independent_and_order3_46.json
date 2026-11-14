@@ -1,0 +1,740 @@
+{
+  "root_closure": 72,
+  "Cartan": [
+    [
+      "2",
+      "0",
+      "-1",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "2",
+      "0",
+      "-1",
+      "0",
+      "0"
+    ],
+    [
+      "-1",
+      "0",
+      "2",
+      "-1",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "-1",
+      "-1",
+      "2",
+      "-1",
+      "0"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "-1",
+      "2",
+      "-1"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "-1",
+      "2"
+    ]
+  ],
+  "z": [
+    "4",
+    "3",
+    "5",
+    "6",
+    "4",
+    "2"
+  ],
+  "bad3_square_checks": [
+    {
+      "powers": [
+        0,
+        1
+      ],
+      "square_rank": 1,
+      "with_central_vector": 2
+    },
+    {
+      "powers": [
+        0,
+        2
+      ],
+      "square_rank": 1,
+      "with_central_vector": 2
+    },
+    {
+      "powers": [
+        1,
+        0
+      ],
+      "square_rank": 1,
+      "with_central_vector": 2
+    },
+    {
+      "powers": [
+        1,
+        1
+      ],
+      "square_rank": 1,
+      "with_central_vector": 2
+    },
+    {
+      "powers": [
+        1,
+        2
+      ],
+      "square_rank": 1,
+      "with_central_vector": 2
+    },
+    {
+      "powers": [
+        2,
+        0
+      ],
+      "square_rank": 1,
+      "with_central_vector": 2
+    },
+    {
+      "powers": [
+        2,
+        1
+      ],
+      "square_rank": 1,
+      "with_central_vector": 2
+    },
+    {
+      "powers": [
+        2,
+        2
+      ],
+      "square_rank": 1,
+      "with_central_vector": 2
+    }
+  ],
+  "formal_nontoral_valuation": [
+    {
+      "orbit3_multiplicity": 1,
+      "rational_multiplicities": [
+        3
+      ],
+      "index_v3_coeff_a": 2,
+      "index_v3_constant": 0
+    },
+    {
+      "orbit3_multiplicity": 1,
+      "rational_multiplicities": [
+        2,
+        1
+      ],
+      "index_v3_coeff_a": 2,
+      "index_v3_constant": 1
+    },
+    {
+      "orbit3_multiplicity": 1,
+      "rational_multiplicities": [
+        1,
+        1,
+        1
+      ],
+      "index_v3_coeff_a": 2,
+      "index_v3_constant": 1
+    },
+    {
+      "orbit3_multiplicity": 2,
+      "rational_multiplicities": [],
+      "index_v3_coeff_a": 4,
+      "index_v3_constant": 0
+    }
+  ],
+  "order3_point": [
+    "2/3",
+    "1",
+    "4/3",
+    "2",
+    "4/3",
+    "2/3"
+  ],
+  "Cs_simple": [
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "1"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "1",
+      "0"
+    ],
+    [
+      "0",
+      "0",
+      "1",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "1",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "1",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "1",
+      "1",
+      "2",
+      "3",
+      "2",
+      "1"
+    ]
+  ],
+  "order3_cases": {
+    "e1_A1cube_regular": {
+      "F": [
+        [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "-1"
+        ],
+        [
+          "0",
+          "1",
+          "0",
+          "-1",
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0",
+          "0",
+          "0",
+          "-1",
+          "0"
+        ],
+        [
+          "0",
+          "0",
+          "0",
+          "-1",
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0",
+          "-1",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "-1",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      ],
+      "d": 1,
+      "F_characteristic": "(lambda - 1)**3*(lambda + 1)**3",
+      "active_torus_dimension": 3,
+      "active_torus_basis": [
+        [
+          "0",
+          "1",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0",
+          "-1",
+          "0",
+          "1",
+          "0"
+        ],
+        [
+          "-1",
+          "0",
+          "0",
+          "0",
+          "0",
+          "1"
+        ]
+      ],
+      "L_roots": 6,
+      "L_simple": [
+        [
+          "0",
+          "1",
+          "1",
+          "2",
+          "1",
+          "0"
+        ],
+        [
+          "1",
+          "1",
+          "1",
+          "2",
+          "1",
+          "1"
+        ],
+        [
+          "1",
+          "1",
+          "2",
+          "2",
+          "2",
+          "1"
+        ]
+      ],
+      "L_component_ranks": [
+        1,
+        1,
+        1
+      ],
+      "K_roots": 0,
+      "K_simple": [],
+      "K_component_ranks": [],
+      "L_center_smith": [
+        1,
+        1,
+        1
+      ],
+      "s_in_dual_L_derived": true,
+      "J_roots": 18,
+      "J_components": [
+        2,
+        2,
+        2
+      ],
+      "root_restriction_gcd_values": [
+        1,
+        2
+      ]
+    },
+    "e1_D4_phi21": {
+      "F": [
+        [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "-1"
+        ],
+        [
+          "0",
+          "-1",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0",
+          "0",
+          "0",
+          "-1",
+          "0"
+        ],
+        [
+          "0",
+          "0",
+          "0",
+          "-1",
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0",
+          "-1",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "-1",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      ],
+      "d": 1,
+      "F_characteristic": "(lambda - 1)**2*(lambda + 1)**4",
+      "active_torus_dimension": 2,
+      "active_torus_basis": [
+        [
+          "0",
+          "0",
+          "-1",
+          "0",
+          "1",
+          "0"
+        ],
+        [
+          "-1",
+          "0",
+          "0",
+          "0",
+          "0",
+          "1"
+        ]
+      ],
+      "L_roots": 24,
+      "L_simple": [
+        [
+          "0",
+          "0",
+          "0",
+          "1",
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0",
+          "1",
+          "1",
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "1",
+          "0",
+          "1",
+          "1",
+          "1",
+          "1"
+        ]
+      ],
+      "L_component_ranks": [
+        4
+      ],
+      "K_roots": 6,
+      "K_simple": [
+        [
+          "0",
+          "1",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "1",
+          "1",
+          "2",
+          "3",
+          "2",
+          "1"
+        ]
+      ],
+      "K_component_ranks": [
+        2
+      ],
+      "L_center_smith": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "s_in_dual_L_derived": true,
+      "J_roots": 12,
+      "J_components": [
+        2,
+        2
+      ],
+      "root_restriction_gcd_values": [
+        1
+      ]
+    },
+    "e2_toral": {
+      "F": [
+        [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "-1"
+        ],
+        [
+          "0",
+          "-1",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0",
+          "0",
+          "0",
+          "-1",
+          "0"
+        ],
+        [
+          "0",
+          "0",
+          "0",
+          "-1",
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0",
+          "-1",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "-1",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      ],
+      "d": 2,
+      "F_characteristic": "(lambda - 1)**2*(lambda + 1)**4",
+      "active_torus_dimension": 4,
+      "active_torus_basis": [
+        [
+          "0",
+          "1",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0",
+          "0",
+          "1",
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0",
+          "1",
+          "0",
+          "1",
+          "0"
+        ],
+        [
+          "1",
+          "0",
+          "0",
+          "0",
+          "0",
+          "1"
+        ]
+      ],
+      "L_roots": 0,
+      "L_simple": [],
+      "L_component_ranks": [],
+      "K_roots": 0,
+      "K_simple": [],
+      "K_component_ranks": [],
+      "L_center_smith": [],
+      "s_in_dual_L_derived": false,
+      "J_roots": 18,
+      "J_components": [
+        2,
+        2,
+        2
+      ],
+      "root_restriction_gcd_values": [
+        1
+      ]
+    },
+    "e6_candidate": {
+      "F": [
+        [
+          "0",
+          "1",
+          "0",
+          "-1",
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "2",
+          "0",
+          "-1",
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "2",
+          "0",
+          "-1",
+          "1",
+          "-1"
+        ],
+        [
+          "0",
+          "3",
+          "0",
+          "-1",
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "2",
+          "-1",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "-1",
+          "1",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      ],
+      "d": 6,
+      "F_characteristic": "(lambda**2 - lambda + 1)**2*(lambda**2 + lambda + 1)",
+      "active_torus_dimension": 4,
+      "active_torus_basis": [
+        [
+          "0",
+          "1",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0",
+          "1",
+          "1",
+          "0",
+          "0"
+        ],
+        [
+          "1",
+          "0",
+          "0",
+          "0",
+          "1",
+          "0"
+        ],
+        [
+          "-1",
+          "0",
+          "-1",
+          "0",
+          "0",
+          "1"
+        ]
+      ],
+      "L_roots": 0,
+      "L_simple": [],
+      "L_component_ranks": [],
+      "K_roots": 0,
+      "K_simple": [],
+      "K_component_ranks": [],
+      "L_center_smith": [],
+      "s_in_dual_L_derived": false,
+      "J_roots": 18,
+      "J_components": [
+        2,
+        2,
+        2
+      ],
+      "Eisenstein_gcd_norm_values": [
+        1
+      ],
+      "Eisenstein_eigenbasis": [
+        [
+          "1",
+          "1",
+          "(sqrt(3) - 3*I)/(sqrt(3) - I)",
+          "3/2 - sqrt(3)*I/2",
+          "1",
+          "0"
+        ],
+        [
+          "-1",
+          "-1/2 + sqrt(3)*I/2",
+          "4*I/(sqrt(3) - I)",
+          "3*(sqrt(3) + I)/(sqrt(3) - 3*I)",
+          "0",
+          "1"
+        ]
+      ]
+    }
+  },
+  "SC_A2cube_kernel_coordinates": [
+    "-1/3",
+    "-2/3",
+    "-2/3",
+    "-1/3",
+    "-1/3",
+    "1/3"
+  ]
+}

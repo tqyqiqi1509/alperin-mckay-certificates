@@ -1,0 +1,2046 @@
+{
+  "cartan": [
+    [
+      2,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      -1,
+      0,
+      0,
+      0
+    ],
+    [
+      -1,
+      0,
+      2,
+      -1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      -1,
+      -1,
+      2,
+      -1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      -1,
+      2,
+      -1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      -1,
+      2,
+      -1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1,
+      2
+    ]
+  ],
+  "root_count": 126,
+  "proper_levi_count": 127,
+  "disconnected_schematic_centres": 15,
+  "saturation_support": [
+    2,
+    5,
+    7
+  ],
+  "summary": [
+    {
+      "type": "A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2
+      ],
+      "standard_subsets": 7
+    },
+    {
+      "type": "A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2
+      ],
+      "standard_subsets": 15
+    },
+    {
+      "type": "A1+A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2,
+        2
+      ],
+      "standard_subsets": 10
+    },
+    {
+      "type": "A1+A1+A1",
+      "centre_components": [
+        2
+      ],
+      "multiplication_kernel": [
+        2,
+        2
+      ],
+      "standard_subsets": 1
+    },
+    {
+      "type": "A1+A1+A1+A1",
+      "centre_components": [
+        2
+      ],
+      "multiplication_kernel": [
+        2,
+        2,
+        2
+      ],
+      "standard_subsets": 2
+    },
+    {
+      "type": "A1+A1+A1+A2",
+      "centre_components": [
+        2
+      ],
+      "multiplication_kernel": [
+        2,
+        6
+      ],
+      "standard_subsets": 1
+    },
+    {
+      "type": "A1+A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        6
+      ],
+      "standard_subsets": 12
+    },
+    {
+      "type": "A1+A1+A3",
+      "centre_components": [
+        2
+      ],
+      "multiplication_kernel": [
+        2,
+        4
+      ],
+      "standard_subsets": 3
+    },
+    {
+      "type": "A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        6
+      ],
+      "standard_subsets": 18
+    },
+    {
+      "type": "A1+A2+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        3,
+        6
+      ],
+      "standard_subsets": 3
+    },
+    {
+      "type": "A1+A2+A3",
+      "centre_components": [
+        2
+      ],
+      "multiplication_kernel": [
+        12
+      ],
+      "standard_subsets": 1
+    },
+    {
+      "type": "A1+A3",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        4
+      ],
+      "standard_subsets": 9
+    },
+    {
+      "type": "A1+A3",
+      "centre_components": [
+        2
+      ],
+      "multiplication_kernel": [
+        4
+      ],
+      "standard_subsets": 2
+    },
+    {
+      "type": "A1+A4",
+      "centre_components": [],
+      "multiplication_kernel": [
+        10
+      ],
+      "standard_subsets": 5
+    },
+    {
+      "type": "A1+A5",
+      "centre_components": [
+        2
+      ],
+      "multiplication_kernel": [
+        6
+      ],
+      "standard_subsets": 1
+    },
+    {
+      "type": "A1+D4",
+      "centre_components": [
+        2
+      ],
+      "multiplication_kernel": [
+        2,
+        2
+      ],
+      "standard_subsets": 1
+    },
+    {
+      "type": "A1+D5",
+      "centre_components": [
+        2
+      ],
+      "multiplication_kernel": [
+        4
+      ],
+      "standard_subsets": 1
+    },
+    {
+      "type": "A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        3
+      ],
+      "standard_subsets": 6
+    },
+    {
+      "type": "A2+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        3,
+        3
+      ],
+      "standard_subsets": 4
+    },
+    {
+      "type": "A2+A3",
+      "centre_components": [],
+      "multiplication_kernel": [
+        12
+      ],
+      "standard_subsets": 3
+    },
+    {
+      "type": "A2+A4",
+      "centre_components": [],
+      "multiplication_kernel": [
+        15
+      ],
+      "standard_subsets": 1
+    },
+    {
+      "type": "A3",
+      "centre_components": [],
+      "multiplication_kernel": [
+        4
+      ],
+      "standard_subsets": 6
+    },
+    {
+      "type": "A4",
+      "centre_components": [],
+      "multiplication_kernel": [
+        5
+      ],
+      "standard_subsets": 5
+    },
+    {
+      "type": "A5",
+      "centre_components": [],
+      "multiplication_kernel": [
+        6
+      ],
+      "standard_subsets": 2
+    },
+    {
+      "type": "A5",
+      "centre_components": [
+        2
+      ],
+      "multiplication_kernel": [
+        3
+      ],
+      "standard_subsets": 1
+    },
+    {
+      "type": "A6",
+      "centre_components": [],
+      "multiplication_kernel": [
+        7
+      ],
+      "standard_subsets": 1
+    },
+    {
+      "type": "D4",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2
+      ],
+      "standard_subsets": 1
+    },
+    {
+      "type": "D5",
+      "centre_components": [],
+      "multiplication_kernel": [
+        4
+      ],
+      "standard_subsets": 2
+    },
+    {
+      "type": "D6",
+      "centre_components": [
+        2
+      ],
+      "multiplication_kernel": [
+        2
+      ],
+      "standard_subsets": 1
+    },
+    {
+      "type": "E6",
+      "centre_components": [],
+      "multiplication_kernel": [
+        3
+      ],
+      "standard_subsets": 1
+    },
+    {
+      "type": "torus",
+      "centre_components": [],
+      "multiplication_kernel": [],
+      "standard_subsets": 1
+    }
+  ],
+  "proper_levis": [
+    {
+      "nodes": [],
+      "type": "torus",
+      "centre_components": [],
+      "multiplication_kernel": []
+    },
+    {
+      "nodes": [
+        1
+      ],
+      "type": "A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2
+      ]
+    },
+    {
+      "nodes": [
+        2
+      ],
+      "type": "A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2
+      ]
+    },
+    {
+      "nodes": [
+        3
+      ],
+      "type": "A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2
+      ]
+    },
+    {
+      "nodes": [
+        4
+      ],
+      "type": "A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2
+      ]
+    },
+    {
+      "nodes": [
+        5
+      ],
+      "type": "A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2
+      ]
+    },
+    {
+      "nodes": [
+        6
+      ],
+      "type": "A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2
+      ]
+    },
+    {
+      "nodes": [
+        7
+      ],
+      "type": "A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2
+      ],
+      "type": "A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        3
+      ],
+      "type": "A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        3
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        4
+      ],
+      "type": "A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        5
+      ],
+      "type": "A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        6
+      ],
+      "type": "A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        7
+      ],
+      "type": "A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        3
+      ],
+      "type": "A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        4
+      ],
+      "type": "A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        3
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        5
+      ],
+      "type": "A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        6
+      ],
+      "type": "A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        7
+      ],
+      "type": "A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        3,
+        4
+      ],
+      "type": "A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        3
+      ]
+    },
+    {
+      "nodes": [
+        3,
+        5
+      ],
+      "type": "A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        3,
+        6
+      ],
+      "type": "A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        3,
+        7
+      ],
+      "type": "A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        4,
+        5
+      ],
+      "type": "A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        3
+      ]
+    },
+    {
+      "nodes": [
+        4,
+        6
+      ],
+      "type": "A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        4,
+        7
+      ],
+      "type": "A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        5,
+        6
+      ],
+      "type": "A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        3
+      ]
+    },
+    {
+      "nodes": [
+        5,
+        7
+      ],
+      "type": "A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        6,
+        7
+      ],
+      "type": "A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        3
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        3
+      ],
+      "type": "A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        6
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        4
+      ],
+      "type": "A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        6
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        5
+      ],
+      "type": "A1+A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        6
+      ],
+      "type": "A1+A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        7
+      ],
+      "type": "A1+A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        3,
+        4
+      ],
+      "type": "A3",
+      "centre_components": [],
+      "multiplication_kernel": [
+        4
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        3,
+        5
+      ],
+      "type": "A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        6
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        3,
+        6
+      ],
+      "type": "A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        6
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        3,
+        7
+      ],
+      "type": "A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        6
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        4,
+        5
+      ],
+      "type": "A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        6
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        4,
+        6
+      ],
+      "type": "A1+A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        4,
+        7
+      ],
+      "type": "A1+A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        5,
+        6
+      ],
+      "type": "A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        6
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        5,
+        7
+      ],
+      "type": "A1+A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        6,
+        7
+      ],
+      "type": "A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        6
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        3,
+        4
+      ],
+      "type": "A3",
+      "centre_components": [],
+      "multiplication_kernel": [
+        4
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        3,
+        5
+      ],
+      "type": "A1+A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        3,
+        6
+      ],
+      "type": "A1+A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        3,
+        7
+      ],
+      "type": "A1+A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        4,
+        5
+      ],
+      "type": "A3",
+      "centre_components": [],
+      "multiplication_kernel": [
+        4
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        4,
+        6
+      ],
+      "type": "A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        6
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        4,
+        7
+      ],
+      "type": "A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        6
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        5,
+        6
+      ],
+      "type": "A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        6
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        5,
+        7
+      ],
+      "type": "A1+A1+A1",
+      "centre_components": [
+        2
+      ],
+      "multiplication_kernel": [
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        6,
+        7
+      ],
+      "type": "A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        6
+      ]
+    },
+    {
+      "nodes": [
+        3,
+        4,
+        5
+      ],
+      "type": "A3",
+      "centre_components": [],
+      "multiplication_kernel": [
+        4
+      ]
+    },
+    {
+      "nodes": [
+        3,
+        4,
+        6
+      ],
+      "type": "A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        6
+      ]
+    },
+    {
+      "nodes": [
+        3,
+        4,
+        7
+      ],
+      "type": "A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        6
+      ]
+    },
+    {
+      "nodes": [
+        3,
+        5,
+        6
+      ],
+      "type": "A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        6
+      ]
+    },
+    {
+      "nodes": [
+        3,
+        5,
+        7
+      ],
+      "type": "A1+A1+A1",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        3,
+        6,
+        7
+      ],
+      "type": "A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        6
+      ]
+    },
+    {
+      "nodes": [
+        4,
+        5,
+        6
+      ],
+      "type": "A3",
+      "centre_components": [],
+      "multiplication_kernel": [
+        4
+      ]
+    },
+    {
+      "nodes": [
+        4,
+        5,
+        7
+      ],
+      "type": "A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        6
+      ]
+    },
+    {
+      "nodes": [
+        4,
+        6,
+        7
+      ],
+      "type": "A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        6
+      ]
+    },
+    {
+      "nodes": [
+        5,
+        6,
+        7
+      ],
+      "type": "A3",
+      "centre_components": [],
+      "multiplication_kernel": [
+        4
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "A4",
+      "centre_components": [],
+      "multiplication_kernel": [
+        5
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "type": "A1+A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        6
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        3,
+        6
+      ],
+      "type": "A1+A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        6
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        3,
+        7
+      ],
+      "type": "A1+A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        6
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        4,
+        5
+      ],
+      "type": "A1+A3",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        4
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        4,
+        6
+      ],
+      "type": "A1+A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        6
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        4,
+        7
+      ],
+      "type": "A1+A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        6
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        5,
+        6
+      ],
+      "type": "A1+A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        6
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        5,
+        7
+      ],
+      "type": "A1+A1+A1+A1",
+      "centre_components": [
+        2
+      ],
+      "multiplication_kernel": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        6,
+        7
+      ],
+      "type": "A1+A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        6
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        3,
+        4,
+        5
+      ],
+      "type": "A4",
+      "centre_components": [],
+      "multiplication_kernel": [
+        5
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        3,
+        4,
+        6
+      ],
+      "type": "A1+A3",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        4
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        3,
+        4,
+        7
+      ],
+      "type": "A1+A3",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        4
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        3,
+        5,
+        6
+      ],
+      "type": "A2+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        3,
+        3
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        3,
+        5,
+        7
+      ],
+      "type": "A1+A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        6
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        3,
+        6,
+        7
+      ],
+      "type": "A2+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        3,
+        3
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        4,
+        5,
+        6
+      ],
+      "type": "A1+A3",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        4
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        4,
+        5,
+        7
+      ],
+      "type": "A1+A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        6
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        4,
+        6,
+        7
+      ],
+      "type": "A1+A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        6
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        5,
+        6,
+        7
+      ],
+      "type": "A1+A3",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        4
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "type": "D4",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        3,
+        4,
+        6
+      ],
+      "type": "A1+A3",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        4
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        3,
+        4,
+        7
+      ],
+      "type": "A1+A3",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        4
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        3,
+        5,
+        6
+      ],
+      "type": "A1+A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        6
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        3,
+        5,
+        7
+      ],
+      "type": "A1+A1+A1+A1",
+      "centre_components": [
+        2
+      ],
+      "multiplication_kernel": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        3,
+        6,
+        7
+      ],
+      "type": "A1+A1+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        6
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        4,
+        5,
+        6
+      ],
+      "type": "A4",
+      "centre_components": [],
+      "multiplication_kernel": [
+        5
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        4,
+        5,
+        7
+      ],
+      "type": "A1+A3",
+      "centre_components": [
+        2
+      ],
+      "multiplication_kernel": [
+        4
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        4,
+        6,
+        7
+      ],
+      "type": "A2+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        3,
+        3
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        5,
+        6,
+        7
+      ],
+      "type": "A1+A3",
+      "centre_components": [
+        2
+      ],
+      "multiplication_kernel": [
+        4
+      ]
+    },
+    {
+      "nodes": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "type": "A4",
+      "centre_components": [],
+      "multiplication_kernel": [
+        5
+      ]
+    },
+    {
+      "nodes": [
+        3,
+        4,
+        5,
+        7
+      ],
+      "type": "A1+A3",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        4
+      ]
+    },
+    {
+      "nodes": [
+        3,
+        4,
+        6,
+        7
+      ],
+      "type": "A2+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        3,
+        3
+      ]
+    },
+    {
+      "nodes": [
+        3,
+        5,
+        6,
+        7
+      ],
+      "type": "A1+A3",
+      "centre_components": [],
+      "multiplication_kernel": [
+        2,
+        4
+      ]
+    },
+    {
+      "nodes": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "type": "A4",
+      "centre_components": [],
+      "multiplication_kernel": [
+        5
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "type": "D5",
+      "centre_components": [],
+      "multiplication_kernel": [
+        4
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        3,
+        4,
+        6
+      ],
+      "type": "A1+A4",
+      "centre_components": [],
+      "multiplication_kernel": [
+        10
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        3,
+        4,
+        7
+      ],
+      "type": "A1+A4",
+      "centre_components": [],
+      "multiplication_kernel": [
+        10
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        3,
+        5,
+        6
+      ],
+      "type": "A1+A2+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        3,
+        6
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        3,
+        5,
+        7
+      ],
+      "type": "A1+A1+A1+A2",
+      "centre_components": [
+        2
+      ],
+      "multiplication_kernel": [
+        2,
+        6
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        3,
+        6,
+        7
+      ],
+      "type": "A1+A2+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        3,
+        6
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "type": "A1+A4",
+      "centre_components": [],
+      "multiplication_kernel": [
+        10
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        4,
+        5,
+        7
+      ],
+      "type": "A1+A1+A3",
+      "centre_components": [
+        2
+      ],
+      "multiplication_kernel": [
+        2,
+        4
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        4,
+        6,
+        7
+      ],
+      "type": "A1+A2+A2",
+      "centre_components": [],
+      "multiplication_kernel": [
+        3,
+        6
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        5,
+        6,
+        7
+      ],
+      "type": "A1+A1+A3",
+      "centre_components": [
+        2
+      ],
+      "multiplication_kernel": [
+        2,
+        4
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        3,
+        4,
+        5,
+        6
+      ],
+      "type": "A5",
+      "centre_components": [],
+      "multiplication_kernel": [
+        6
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        3,
+        4,
+        5,
+        7
+      ],
+      "type": "A1+A4",
+      "centre_components": [],
+      "multiplication_kernel": [
+        10
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        3,
+        4,
+        6,
+        7
+      ],
+      "type": "A2+A3",
+      "centre_components": [],
+      "multiplication_kernel": [
+        12
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        3,
+        5,
+        6,
+        7
+      ],
+      "type": "A2+A3",
+      "centre_components": [],
+      "multiplication_kernel": [
+        12
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        4,
+        5,
+        6,
+        7
+      ],
+      "type": "A1+A4",
+      "centre_components": [],
+      "multiplication_kernel": [
+        10
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "type": "D5",
+      "centre_components": [],
+      "multiplication_kernel": [
+        4
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        3,
+        4,
+        5,
+        7
+      ],
+      "type": "A1+D4",
+      "centre_components": [
+        2
+      ],
+      "multiplication_kernel": [
+        2,
+        2
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        3,
+        4,
+        6,
+        7
+      ],
+      "type": "A2+A3",
+      "centre_components": [],
+      "multiplication_kernel": [
+        12
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        3,
+        5,
+        6,
+        7
+      ],
+      "type": "A1+A1+A3",
+      "centre_components": [
+        2
+      ],
+      "multiplication_kernel": [
+        2,
+        4
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        4,
+        5,
+        6,
+        7
+      ],
+      "type": "A5",
+      "centre_components": [
+        2
+      ],
+      "multiplication_kernel": [
+        3
+      ]
+    },
+    {
+      "nodes": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "type": "A5",
+      "centre_components": [],
+      "multiplication_kernel": [
+        6
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "type": "E6",
+      "centre_components": [],
+      "multiplication_kernel": [
+        3
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7
+      ],
+      "type": "A1+D5",
+      "centre_components": [
+        2
+      ],
+      "multiplication_kernel": [
+        4
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7
+      ],
+      "type": "A2+A4",
+      "centre_components": [],
+      "multiplication_kernel": [
+        15
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7
+      ],
+      "type": "A1+A2+A3",
+      "centre_components": [
+        2
+      ],
+      "multiplication_kernel": [
+        12
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7
+      ],
+      "type": "A1+A5",
+      "centre_components": [
+        2
+      ],
+      "multiplication_kernel": [
+        6
+      ]
+    },
+    {
+      "nodes": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "type": "A6",
+      "centre_components": [],
+      "multiplication_kernel": [
+        7
+      ]
+    },
+    {
+      "nodes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "type": "D6",
+      "centre_components": [
+        2
+      ],
+      "multiplication_kernel": [
+        2
+      ]
+    }
+  ]
+}

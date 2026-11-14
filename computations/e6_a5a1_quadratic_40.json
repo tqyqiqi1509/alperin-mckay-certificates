@@ -1,0 +1,58 @@
+{
+  "root_count_fixed_by_s": 32,
+  "orthogonal_A5_root_count": 30,
+  "theta_is_fundamental_coweight_2": true,
+  "gamma_fixes_s": true,
+  "root_lattice_index_R_in_E6": 2,
+  "cartan_R": [
+    [
+      2,
+      -1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      -1,
+      2,
+      -1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      -1,
+      2,
+      -1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      -1,
+      2,
+      -1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      -1,
+      2,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  ],
+  "scope": "Order-two A5A1 pseudo-Levi, odd q; good ell e=1 or 2 family interface."
+}

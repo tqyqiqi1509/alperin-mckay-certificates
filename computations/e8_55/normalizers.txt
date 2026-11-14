@@ -1,0 +1,30 @@
+#I  autpgrp package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  alnuth package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  crisp package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  factint package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  fga package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  irredsol package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  laguna package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  packagemanager package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  polenta package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  polycyclic package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  resclasses package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  sophus package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  tomlib package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+five_split_cubic|14400|144|4|36|9|C3 x C3
+five_split_quartic|14400|64|1|64|16|C4 x C4
+six_cubic|8640|864|2|432|54|C3 x C3 x S3
+six_sextic|8640|864|2|432|54|C3 x C3 x S3

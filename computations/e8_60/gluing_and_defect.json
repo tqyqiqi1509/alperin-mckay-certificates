@@ -1,0 +1,253 @@
+{
+  "full_J_gluing": [
+    {
+      "row": 1,
+      "family": "A8",
+      "eps": 1,
+      "d": 2,
+      "P": "E6",
+      "J": "A5",
+      "derived_times_connected_center_index": 2,
+      "center_character_smith": [
+        1,
+        1,
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "row": 5,
+      "family": "A8",
+      "eps": -1,
+      "d": 1,
+      "P": "E6",
+      "J": "A5",
+      "derived_times_connected_center_index": 2,
+      "center_character_smith": [
+        1,
+        1,
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "row": 10,
+      "family": "E6A2",
+      "eps": 1,
+      "d": 1,
+      "P": "A2",
+      "J": "A2",
+      "derived_times_connected_center_index": 1,
+      "center_character_smith": [
+        1,
+        3
+      ]
+    },
+    {
+      "row": 11,
+      "family": "E6A2",
+      "eps": 1,
+      "d": 1,
+      "P": "D4",
+      "J": "A2",
+      "derived_times_connected_center_index": 3,
+      "center_character_smith": [
+        1,
+        1
+      ]
+    },
+    {
+      "row": 13,
+      "family": "E6A2",
+      "eps": 1,
+      "d": 2,
+      "P": "A2+A1",
+      "J": "A2+A1",
+      "derived_times_connected_center_index": 1,
+      "center_character_smith": [
+        1,
+        1,
+        6
+      ]
+    },
+    {
+      "row": 14,
+      "family": "E6A2",
+      "eps": 1,
+      "d": 2,
+      "P": "E6",
+      "J": "E6",
+      "derived_times_connected_center_index": 1,
+      "center_character_smith": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "row": 16,
+      "family": "E6A2",
+      "eps": 1,
+      "d": 3,
+      "P": "D4",
+      "J": "A2",
+      "derived_times_connected_center_index": 3,
+      "center_character_smith": [
+        1,
+        1
+      ]
+    },
+    {
+      "row": 18,
+      "family": "E6A2",
+      "eps": 1,
+      "d": 4,
+      "P": "E6",
+      "J": "E6",
+      "derived_times_connected_center_index": 1,
+      "center_character_smith": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "row": 19,
+      "family": "E6A2",
+      "eps": 1,
+      "d": 6,
+      "P": "E6",
+      "J": "E6",
+      "derived_times_connected_center_index": 1,
+      "center_character_smith": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "row": 20,
+      "family": "E6A2",
+      "eps": -1,
+      "d": 1,
+      "P": "A2+A1",
+      "J": "A2+A1",
+      "derived_times_connected_center_index": 1,
+      "center_character_smith": [
+        1,
+        1,
+        6
+      ]
+    },
+    {
+      "row": 21,
+      "family": "E6A2",
+      "eps": -1,
+      "d": 1,
+      "P": "E6",
+      "J": "E6",
+      "derived_times_connected_center_index": 1,
+      "center_character_smith": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "row": 23,
+      "family": "E6A2",
+      "eps": -1,
+      "d": 2,
+      "P": "A2",
+      "J": "A2",
+      "derived_times_connected_center_index": 1,
+      "center_character_smith": [
+        1,
+        3
+      ]
+    },
+    {
+      "row": 24,
+      "family": "E6A2",
+      "eps": -1,
+      "d": 2,
+      "P": "D4",
+      "J": "A2",
+      "derived_times_connected_center_index": 3,
+      "center_character_smith": [
+        1,
+        1
+      ]
+    },
+    {
+      "row": 26,
+      "family": "E6A2",
+      "eps": -1,
+      "d": 3,
+      "P": "E6",
+      "J": "E6",
+      "derived_times_connected_center_index": 1,
+      "center_character_smith": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "row": 27,
+      "family": "E6A2",
+      "eps": -1,
+      "d": 4,
+      "P": "E6",
+      "J": "E6",
+      "derived_times_connected_center_index": 1,
+      "center_character_smith": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "row": 28,
+      "family": "E6A2",
+      "eps": -1,
+      "d": 6,
+      "P": "D4",
+      "J": "A2",
+      "derived_times_connected_center_index": 3,
+      "center_character_smith": [
+        1,
+        1
+      ]
+    }
+  ],
+  "seven_cycle_square_ranks": [
+    5,
+    5,
+    5,
+    5,
+    5,
+    5
+  ],
+  "deduction": "Every abelian normal subgroup B of D has (pi-1)^2 A=0 for each image pi of B; nonzero ranks force B<=A. Thus A is characteristic, for every valuation and without a split extension assumption."
+}

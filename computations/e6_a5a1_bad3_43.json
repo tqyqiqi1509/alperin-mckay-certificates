@@ -1,0 +1,84 @@
+{
+  "root_count": 72,
+  "involution_root_count": 32,
+  "A5A1_root_index": 2,
+  "center_vector_mod3": [
+    1,
+    0,
+    2,
+    0,
+    1,
+    2
+  ],
+  "center_in_sylow_commutator": true,
+  "matching_square_checks": [
+    {
+      "powers": [
+        0,
+        1
+      ],
+      "square_rank": 1,
+      "rank_with_center": 2
+    },
+    {
+      "powers": [
+        0,
+        2
+      ],
+      "square_rank": 1,
+      "rank_with_center": 2
+    },
+    {
+      "powers": [
+        1,
+        0
+      ],
+      "square_rank": 1,
+      "rank_with_center": 2
+    },
+    {
+      "powers": [
+        1,
+        1
+      ],
+      "square_rank": 1,
+      "rank_with_center": 2
+    },
+    {
+      "powers": [
+        1,
+        2
+      ],
+      "square_rank": 1,
+      "rank_with_center": 2
+    },
+    {
+      "powers": [
+        2,
+        0
+      ],
+      "square_rank": 1,
+      "rank_with_center": 2
+    },
+    {
+      "powers": [
+        2,
+        1
+      ],
+      "square_rank": 1,
+      "rank_with_center": 2
+    },
+    {
+      "powers": [
+        2,
+        2
+      ],
+      "square_rank": 1,
+      "rank_with_center": 2
+    }
+  ],
+  "full_W_quotient_dimension": 5,
+  "nonmatching_square_rank": 1,
+  "nonmatching_root_restrictions_nonzero_mod3": true,
+  "all_q_and_valuation_scope": true
+}

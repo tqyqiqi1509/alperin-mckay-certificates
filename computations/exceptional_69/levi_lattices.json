@@ -1,0 +1,789 @@
+{
+  "main_theorem_closed": false,
+  "input": "Bourbaki Cartan graph only",
+  "meaning": "Uniform integral root-datum identities; no character theorem is inferred by computation.",
+  "levis": [
+    {
+      "name": "E7_E6T1",
+      "ambient_rank": 7,
+      "levi_nodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "ambient_roots": 126,
+      "derived_roots": 72,
+      "cartan_determinant": 2,
+      "centre_character_smith": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "connected_centre": true,
+      "primitive_centre_cocharacters": [
+        [
+          2,
+          3,
+          4,
+          6,
+          5,
+          4,
+          3
+        ]
+      ],
+      "quotient_torus_inclusion": [
+        [
+          3
+        ]
+      ],
+      "central_isogeny_smith": [
+        3
+      ],
+      "central_isogeny_index": 3,
+      "opposition_return": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          -2
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          -2
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          -3
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          -4
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          -3
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -2
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ]
+      ],
+      "derived_pinning_permutation": {
+        "1": 6,
+        "2": 2,
+        "3": 5,
+        "4": 4,
+        "5": 3,
+        "6": 1
+      },
+      "longest_derived_word": [
+        1,
+        2,
+        3,
+        1,
+        4,
+        2,
+        3,
+        1,
+        4,
+        3,
+        5,
+        4,
+        2,
+        3,
+        1,
+        4,
+        3,
+        5,
+        4,
+        2,
+        6,
+        5,
+        4,
+        2,
+        3,
+        1,
+        4,
+        3,
+        5,
+        4,
+        2,
+        6,
+        5,
+        4,
+        3,
+        1
+      ],
+      "longest_ambient_length": 63,
+      "return_on_centre": [
+        [
+          -1
+        ]
+      ],
+      "central_kernel_generator_in_derived_coroots": [
+        "2/3",
+        "0",
+        "1/3",
+        "0",
+        "2/3",
+        "1/3"
+      ],
+      "power_map_exponent": 3
+    },
+    {
+      "name": "E8_E6A1T1",
+      "ambient_rank": 8,
+      "levi_nodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8
+      ],
+      "ambient_roots": 240,
+      "derived_roots": 74,
+      "cartan_determinant": 1,
+      "centre_character_smith": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "connected_centre": true,
+      "primitive_centre_cocharacters": [
+        [
+          4,
+          6,
+          8,
+          12,
+          10,
+          8,
+          6,
+          3
+        ]
+      ],
+      "quotient_torus_inclusion": [
+        [
+          6
+        ]
+      ],
+      "central_isogeny_smith": [
+        6
+      ],
+      "central_isogeny_index": 6,
+      "opposition_return": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          -2,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          -2,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          -3,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          -4,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          -3,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -2,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1,
+          1
+        ]
+      ],
+      "derived_pinning_permutation": {
+        "1": 6,
+        "2": 2,
+        "3": 5,
+        "4": 4,
+        "5": 3,
+        "6": 1,
+        "8": 8
+      },
+      "longest_derived_word": [
+        1,
+        2,
+        3,
+        1,
+        4,
+        2,
+        3,
+        1,
+        4,
+        3,
+        5,
+        4,
+        2,
+        3,
+        1,
+        4,
+        3,
+        5,
+        4,
+        2,
+        6,
+        5,
+        4,
+        2,
+        3,
+        1,
+        4,
+        3,
+        5,
+        4,
+        2,
+        6,
+        5,
+        4,
+        3,
+        1,
+        8
+      ],
+      "longest_ambient_length": 120,
+      "return_on_centre": [
+        [
+          -1
+        ]
+      ],
+      "central_kernel_generator_in_derived_coroots": [
+        "2/3",
+        "0",
+        "1/3",
+        "0",
+        "2/3",
+        "1/3",
+        "1/2"
+      ],
+      "power_map_exponent": 6
+    },
+    {
+      "name": "E8_E7T1",
+      "ambient_rank": 8,
+      "levi_nodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "ambient_roots": 240,
+      "derived_roots": 126,
+      "cartan_determinant": 1,
+      "centre_character_smith": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "connected_centre": true,
+      "primitive_centre_cocharacters": [
+        [
+          2,
+          3,
+          4,
+          6,
+          5,
+          4,
+          3,
+          2
+        ]
+      ],
+      "quotient_torus_inclusion": [
+        [
+          2
+        ]
+      ],
+      "central_isogeny_smith": [
+        2
+      ],
+      "central_isogeny_index": 2,
+      "opposition_return": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -2
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -3
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          -4
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          -6
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          -5
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          -4
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          -3
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ]
+      ],
+      "derived_pinning_permutation": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7
+      },
+      "longest_derived_word": [
+        1,
+        2,
+        3,
+        1,
+        4,
+        2,
+        3,
+        1,
+        4,
+        3,
+        5,
+        4,
+        2,
+        3,
+        1,
+        4,
+        3,
+        5,
+        4,
+        2,
+        6,
+        5,
+        4,
+        2,
+        3,
+        1,
+        4,
+        3,
+        5,
+        4,
+        2,
+        6,
+        5,
+        4,
+        3,
+        1,
+        7,
+        6,
+        5,
+        4,
+        2,
+        3,
+        1,
+        4,
+        3,
+        5,
+        4,
+        2,
+        6,
+        5,
+        4,
+        3,
+        1,
+        7,
+        6,
+        5,
+        4,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "longest_ambient_length": 120,
+      "return_on_centre": [
+        [
+          -1
+        ]
+      ],
+      "central_kernel_generator_in_derived_coroots": [
+        "0",
+        "1/2",
+        "0",
+        "0",
+        "1/2",
+        "0",
+        "1/2"
+      ],
+      "power_map_exponent": 2
+    },
+    {
+      "name": "E8_E6T2",
+      "ambient_rank": 8,
+      "levi_nodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "ambient_roots": 240,
+      "derived_roots": 72,
+      "cartan_determinant": 1,
+      "centre_character_smith": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "connected_centre": true,
+      "primitive_centre_cocharacters": [
+        [
+          2,
+          3,
+          4,
+          6,
+          5,
+          4,
+          3,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "quotient_torus_inclusion": [
+        [
+          3,
+          0
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "central_isogeny_smith": [
+        1,
+        3
+      ],
+      "central_isogeny_index": 3,
+      "opposition_return": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          -2,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          -2,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          -3,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          -4,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          -3,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -2,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ]
+      ],
+      "derived_pinning_permutation": {
+        "1": 6,
+        "2": 2,
+        "3": 5,
+        "4": 4,
+        "5": 3,
+        "6": 1
+      },
+      "longest_derived_word": [
+        1,
+        2,
+        3,
+        1,
+        4,
+        2,
+        3,
+        1,
+        4,
+        3,
+        5,
+        4,
+        2,
+        3,
+        1,
+        4,
+        3,
+        5,
+        4,
+        2,
+        6,
+        5,
+        4,
+        2,
+        3,
+        1,
+        4,
+        3,
+        5,
+        4,
+        2,
+        6,
+        5,
+        4,
+        3,
+        1
+      ],
+      "longest_ambient_length": 120,
+      "return_on_centre": [
+        [
+          -1,
+          0
+        ],
+        [
+          0,
+          -1
+        ]
+      ]
+    }
+  ]
+}

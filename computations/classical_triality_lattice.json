@@ -1,0 +1,160 @@
+{
+  "scope": "all q, all a; no q samples",
+  "cartan": [
+    [
+      "2",
+      "-1",
+      "0",
+      "0"
+    ],
+    [
+      "-1",
+      "2",
+      "-1",
+      "-1"
+    ],
+    [
+      "0",
+      "-1",
+      "2",
+      "0"
+    ],
+    [
+      "0",
+      "-1",
+      "0",
+      "2"
+    ]
+  ],
+  "triality": [
+    [
+      "0",
+      "0",
+      "0",
+      "1"
+    ],
+    [
+      "0",
+      "1",
+      "0",
+      "0"
+    ],
+    [
+      "1",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "0",
+      "1",
+      "0"
+    ]
+  ],
+  "sigma": [
+    [
+      "0",
+      "1",
+      "-1",
+      "-1"
+    ],
+    [
+      "-1",
+      "1",
+      "-1",
+      "-1"
+    ],
+    [
+      "-1",
+      "1",
+      "0",
+      "-1"
+    ],
+    [
+      "-1",
+      "1",
+      "-1",
+      "0"
+    ]
+  ],
+  "quotient_map": [
+    [
+      "1",
+      "0",
+      "0",
+      "-1"
+    ],
+    [
+      "0",
+      "0",
+      "1",
+      "-1"
+    ]
+  ],
+  "quotient_triality": [
+    [
+      "0",
+      "-1"
+    ],
+    [
+      "1",
+      "-1"
+    ]
+  ],
+  "smith_sigma_minus_identity": [
+    1,
+    1,
+    0,
+    0
+  ],
+  "symbolic_full_minor_gcd": "q**2 + q + 1",
+  "restricted_roots": {
+    "(0, 0)": 6,
+    "(-1, 0)": 3,
+    "(1, 0)": 3,
+    "(0, 1)": 3,
+    "(-1, -1)": 3,
+    "(1, 1)": 3,
+    "(0, -1)": 3
+  },
+  "weyl_order": 192,
+  "a2_subsystems": 16,
+  "a2_weyl_normalizer_order": 12,
+  "a2_relative_normalizer_order": 2,
+  "roots_checked": 24,
+  "all_roots_nonzero_on_mod3_torus": true,
+  "faithful_mod3_carrier_order": 12,
+  "literal_sylow_module_sigma": [
+    [
+      "-2",
+      "3"
+    ],
+    [
+      "-1",
+      "1"
+    ]
+  ],
+  "literal_sylow_module_tau": [
+    [
+      "1",
+      "0"
+    ],
+    [
+      "1",
+      "-1"
+    ]
+  ],
+  "generic_unipotent_degrees": {
+    "1": "1",
+    "St": "q**12",
+    "phi13prime": "q*(q**4 - q**2 + 1)",
+    "phi13doubleprime": "q**7*(q**4 - q**2 + 1)",
+    "phi22": "q**3*(q + 1)**2*(q**4 - q**2 + 1)/2",
+    "3D4plus": "q**3*(q - 1)**2*(q**4 - q**2 + 1)/2",
+    "phi21": "q**3*(q + 1)**2*(q**2 - q + 1)**2/2",
+    "3D4minus": "q**3*(q - 1)**2*(q**2 + q + 1)**2/2"
+  },
+  "degrees_match_corrected_chevie_fourier_data": true,
+  "all_assertions_passed": true
+}

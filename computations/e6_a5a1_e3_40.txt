@@ -1,0 +1,32 @@
+#I  autpgrp package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  alnuth package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  crisp package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  factint package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  fga package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  irredsol package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  laguna package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  packagemanager package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  polenta package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  polycyclic package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  resclasses package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  sophus package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  tomlib package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+E6_A5A1_E3|C_W=108|C_R=36|W_L=6|Q=C3 x S3|PASSED
+E3_PARABOLIC|H=1|N/H=C3 x S3|complexfixedrank=2|ALL_ORDINARY_EXTEND
+E3_PARABOLIC|H=C2|N/H=C3|complexfixedrank=1|ALL_ORDINARY_EXTEND
+E3_PARABOLIC|H=C3|N/H=C3|complexfixedrank=1|ALL_ORDINARY_EXTEND
+E3_PARABOLIC|H=C3 x S3|N/H=1|complexfixedrank=0|ALL_ORDINARY_EXTEND
+E3_ALL_COEFFICIENTS|classes=4|PASSED

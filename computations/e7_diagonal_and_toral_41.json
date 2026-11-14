@@ -1,0 +1,364 @@
+{
+  "Cartan": [
+    [
+      2,
+      0,
+      -1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      -1,
+      0,
+      0,
+      0
+    ],
+    [
+      -1,
+      0,
+      2,
+      -1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      -1,
+      -1,
+      2,
+      -1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      -1,
+      2,
+      -1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      -1,
+      2,
+      -1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      -1,
+      2
+    ]
+  ],
+  "roots": 126,
+  "action_certificates": {
+    "row5_A7": {
+      "dimension": 7,
+      "sylow_image_order": 9,
+      "square_ranks": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        2,
+        2
+      ],
+      "rank_counts": {
+        "1": 4,
+        "2": 4
+      }
+    },
+    "row12_A3_A3_A1": {
+      "dimension": 7,
+      "sylow_image_order": 9,
+      "square_ranks": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        2,
+        2
+      ],
+      "rank_counts": {
+        "1": 4,
+        "2": 4
+      }
+    },
+    "row3_D6_A1": {
+      "dimension": 7,
+      "sylow_image_order": 9,
+      "square_ranks": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        2,
+        2
+      ],
+      "rank_counts": {
+        "1": 4,
+        "2": 4
+      }
+    },
+    "row6_C4": {
+      "dimension": 4,
+      "sylow_image_order": 3,
+      "square_ranks": [
+        1,
+        1
+      ],
+      "rank_counts": {
+        "1": 2
+      }
+    },
+    "row14_A3_A1": {
+      "dimension": 4,
+      "sylow_image_order": 3,
+      "square_ranks": [
+        1,
+        1
+      ],
+      "rank_counts": {
+        "1": 2
+      }
+    },
+    "negative_control_A2_augmentation": {
+      "dimension": 2,
+      "square_rank": 0
+    }
+  },
+  "central_twist_transport": {
+    "A7": {
+      "point_node": 2,
+      "point_denominator": 2,
+      "modulus": 4,
+      "weyl_orbit_size": 72,
+      "root_component_sizes": [
+        56
+      ],
+      "central_twist_conjugate": true,
+      "simple_reflections_in_application_order": [
+        2,
+        4,
+        3,
+        5,
+        4,
+        2,
+        6,
+        5,
+        4,
+        3,
+        7,
+        6,
+        5,
+        4,
+        2
+      ],
+      "component_permutation": [
+        0
+      ],
+      "weyl_matrix": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          -1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          -1,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          3,
+          -2,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          2,
+          -2,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          -2,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    "A3_A3_A1": {
+      "point_node": 4,
+      "point_denominator": 4,
+      "modulus": 4,
+      "weyl_orbit_size": 2520,
+      "root_component_sizes": [
+        12,
+        12,
+        2
+      ],
+      "central_twist_conjugate": true,
+      "simple_reflections_in_application_order": [
+        4,
+        2,
+        3,
+        1,
+        4,
+        3,
+        5,
+        4,
+        2,
+        6,
+        5,
+        4,
+        3,
+        1,
+        7,
+        6,
+        5,
+        4,
+        2,
+        3,
+        4
+      ],
+      "component_permutation": [
+        1,
+        0,
+        2
+      ],
+      "weyl_matrix": [
+        [
+          0,
+          0,
+          0,
+          -1,
+          1,
+          0,
+          1
+        ],
+        [
+          0,
+          1,
+          0,
+          -2,
+          2,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          -2,
+          2,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          -3,
+          4,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          -2,
+          3,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          -2,
+          2,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          -1,
+          1,
+          0,
+          0
+        ]
+      ]
+    },
+    "D6_A1": {
+      "point_node": 1,
+      "point_denominator": 2,
+      "modulus": 2,
+      "weyl_orbit_size": 63,
+      "root_component_sizes": [
+        60,
+        2
+      ],
+      "central_twist_conjugate": false
+    }
+  },
+  "scope": "Integral root datum, valid for both matching Ennola signs and every a>=1; rational lifts supplied by KM25 connected-centre source rows."
+}

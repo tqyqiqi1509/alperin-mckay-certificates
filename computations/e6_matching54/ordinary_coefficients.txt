@@ -1,0 +1,46 @@
+#I  autpgrp package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  alnuth package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  crisp package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  factint package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  fga package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  irredsol package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  laguna package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  packagemanager package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  polenta package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  polycyclic package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  resclasses package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  sophus package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  tomlib package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+A1_AMBIENT|8|24|48
+A1_ZERO_FIBRE|[ 1, 1, 1, 1, 1, 1, 1, 1 ]|EXTENDING_DEGREES|[ 1 ]
+A1_ZERO_FIBRE|[ 1, -1, 1, -1, 1, -1, 1, -1 ]|EXTENDING_DEGREES|[ 3 ]
+A1_ZERO_FIBRE|[ 1, 1, -1, -1, 1, 1, -1, -1 ]|EXTENDING_DEGREES|[ 3 ]
+A1_ZERO_FIBRE|[ 1, -1, -1, 1, 1, -1, -1, 1 ]|EXTENDING_DEGREES|[ 3 ]
+A1_ZERO_FIBRE|[ 1, 1, 1, 1, -1, -1, -1, -1 ]|EXTENDING_DEGREES|[ 3 ]
+A1_ZERO_FIBRE|[ 1, -1, 1, -1, -1, 1, -1, 1 ]|EXTENDING_DEGREES|[ 3 ]
+A1_ZERO_FIBRE|[ 1, 1, -1, -1, -1, -1, 1, 1 ]|EXTENDING_DEGREES|[ 3 ]
+A1_ZERO_FIBRE|[ 1, -1, -1, 1, -1, 1, 1, -1 ]|EXTENDING_DEGREES|[ 1 ]
+A1_NONZERO_DIAGONAL|12|TRIVIAL_EXTENSION|true
+A1_COORDINATE|0|1|48|ALL_ORDINARY|true
+A1_COORDINATE|1|2|16|ALL_ORDINARY|true
+A1_COORDINATE|2|4|16|ALL_ORDINARY|true
+MARKED_A3|1|8|ALL_ORDINARY|true
+MARKED_A3|2|4|ALL_ORDINARY|true
+MARKED_A3|4|8|ALL_ORDINARY|true
+FAITHFUL_D3_ZERO|1|CANONICAL_EXTENSION|true
+FAITHFUL_D3_ZERO|1|CANONICAL_EXTENSION|true
+FAITHFUL_D3_ZERO|2|CANONICAL_EXTENSION|true
+DONE|all ordinary finite coefficient checks passed

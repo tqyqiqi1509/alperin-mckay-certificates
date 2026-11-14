@@ -1,0 +1,27 @@
+#I  autpgrp package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  alnuth package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  crisp package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  factint package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  fga package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  irredsol package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  laguna package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  packagemanager package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  polenta package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  polycyclic package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  resclasses package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  sophus package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+#I  tomlib package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+E6 Weyl=51840 full centralizer=1152 folded=1152

@@ -1,0 +1,252 @@
+{
+  "split_d2_regular": {
+    "basis": [
+      [
+        "1",
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "1",
+        "0"
+      ],
+      [
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0",
+        "1"
+      ],
+      [
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "norm": "2",
+    "groups": {
+      "REG": {
+        "order": 8,
+        "permutation_image_order": 1,
+        "signed_monomial": true
+      },
+      "NAT": {
+        "order": 24,
+        "permutation_image_order": 3,
+        "signed_monomial": true
+      },
+      "FULL": {
+        "order": 48,
+        "permutation_image_order": 6,
+        "signed_monomial": true
+      }
+    }
+  },
+  "split_d2_marked": {
+    "basis": [
+      [
+        "1",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "1"
+      ],
+      [
+        "0",
+        "0"
+      ]
+    ],
+    "norm": "2",
+    "groups": {
+      "REG": {
+        "order": 4,
+        "permutation_image_order": 1,
+        "signed_monomial": true
+      },
+      "NAT": {
+        "order": 4,
+        "permutation_image_order": 1,
+        "signed_monomial": true
+      },
+      "FULL": {
+        "order": 8,
+        "permutation_image_order": 2,
+        "signed_monomial": true
+      }
+    }
+  },
+  "cyclic_d1": {
+    "basis": [
+      [
+        "0",
+        "1"
+      ],
+      [
+        "0",
+        "1"
+      ],
+      [
+        "1",
+        "0"
+      ],
+      [
+        "1",
+        "0"
+      ],
+      [
+        "1",
+        "0"
+      ],
+      [
+        "0",
+        "1"
+      ]
+    ],
+    "groups": {
+      "REG": {
+        "order": 6,
+        "traces": [
+          "-1",
+          "0",
+          "2"
+        ]
+      },
+      "NAT": {
+        "order": 6,
+        "traces": [
+          "-1",
+          "0",
+          "2"
+        ]
+      },
+      "FULL": {
+        "order": 12,
+        "traces": [
+          "-1",
+          "-2",
+          "0",
+          "1",
+          "2"
+        ]
+      }
+    },
+    "ambient_is_S3_times_inversion": true
+  },
+  "cyclic_d3": {
+    "basis": [
+      [
+        "-1",
+        "1",
+        "0",
+        "-1"
+      ],
+      [
+        "1",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "1",
+        "-1",
+        "0"
+      ],
+      [
+        "0",
+        "1",
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0",
+        "1",
+        "0"
+      ],
+      [
+        "0",
+        "0",
+        "0",
+        "1"
+      ]
+    ],
+    "groups": {
+      "REG": {
+        "order": 6,
+        "traces": [
+          "-2",
+          "0",
+          "4"
+        ]
+      },
+      "NAT": {
+        "order": 18,
+        "traces": [
+          "-2",
+          "0",
+          "1",
+          "4"
+        ]
+      },
+      "FULL": {
+        "order": 18,
+        "traces": [
+          "-2",
+          "0",
+          "1",
+          "4"
+        ]
+      }
+    },
+    "natural_is_scalar_C3_times_standard_S3": true,
+    "cyclotomic_scalar": [
+      [
+        "-1",
+        "1",
+        "-1",
+        "-1"
+      ],
+      [
+        "0",
+        "1",
+        "-3",
+        "0"
+      ],
+      [
+        "0",
+        "1",
+        "-2",
+        "0"
+      ],
+      [
+        "1",
+        "0",
+        "-1",
+        "0"
+      ]
+    ]
+  }
+}

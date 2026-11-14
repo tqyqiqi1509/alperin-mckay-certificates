@@ -1,0 +1,101 @@
+{
+  "root_model": "E8 roots perpendicular to e7+e8",
+  "x_times_four": [
+    2,
+    2,
+    2,
+    2,
+    0,
+    0,
+    1,
+    -1
+  ],
+  "adjoint_E7_semisimple_order": 4,
+  "E7_root_count": 126,
+  "connected_centralizer_root_count": 28,
+  "connected_centralizer_type": "D4 D2 T1 = D4 A1^2 T1",
+  "minimal_Levi_root_count": 60,
+  "minimal_Levi_type": "D6 T1",
+  "component_representative": "flip e1 and e5, swap e7/e8",
+  "component_return_times_four": [
+    -4,
+    0,
+    0,
+    0,
+    0,
+    0,
+    -2,
+    2
+  ],
+  "component_action_on_Levi_central_torus": "inversion",
+  "D6_adjoint_projection_times_two": [
+    1,
+    1,
+    1,
+    1,
+    0,
+    0
+  ],
+  "D6_adjoint_projection_order": 2,
+  "E7_central_involution_times_two": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0
+  ],
+  "E7_centre_in_D6": "half-spin, while vector h0 is not E7 central",
+  "rational_forms": [
+    {
+      "q_mod_4": 1,
+      "component_twist": 0,
+      "torus_factor": "Phi1",
+      "derived_centralizer": "D4(q) A1(q)^2",
+      "minimal_Levi_derived_form": "split D6(q)",
+      "SC_lift_Frobenius_return": "identity",
+      "table4_geometric_structure_rows": [
+        15,
+        16
+      ]
+    },
+    {
+      "q_mod_4": 1,
+      "component_twist": 1,
+      "torus_factor": "Phi2",
+      "derived_centralizer": "2D4(q) A1(q^2)",
+      "minimal_Levi_derived_form": "split D6(q)",
+      "SC_lift_Frobenius_return": "nontrivial E7 centre",
+      "table4_geometric_structure_rows": [
+        20
+      ]
+    },
+    {
+      "q_mod_4": 3,
+      "component_twist": 0,
+      "torus_factor": "Phi2",
+      "derived_centralizer": "D4(q) A1(q)^2",
+      "minimal_Levi_derived_form": "split D6(q)",
+      "SC_lift_Frobenius_return": "identity",
+      "table4_geometric_structure_rows": [
+        17,
+        18
+      ]
+    },
+    {
+      "q_mod_4": 3,
+      "component_twist": 1,
+      "torus_factor": "Phi1",
+      "derived_centralizer": "2D4(q) A1(q^2)",
+      "minimal_Levi_derived_form": "split D6(q)",
+      "SC_lift_Frobenius_return": "nontrivial E7 centre",
+      "table4_geometric_structure_rows": [
+        19
+      ]
+    }
+  ],
+  "rational_row_caution": "The q mod 4 assignment of rows 19 and 20 here is opposite the sentence preceding KM13 Table 4; independently confirmed by CHEVIE in e7_quasiisolated_probe.log. This is recorded as an internal correction requiring external author verification, not an externally accepted erratum.",
+  "scope": "exact algebraic root-data identities; rational extension operators retain actual Tits/Frobenius returns"
+}
