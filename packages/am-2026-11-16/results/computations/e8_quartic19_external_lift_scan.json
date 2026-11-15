@@ -1,0 +1,65 @@
+[
+  {
+    "index": 0,
+    "torus_coefficients": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "n_order": 4,
+    "nh_order": 4,
+    "P_order": 128,
+    "Q_order": 256,
+    "signed_centralizer_image": 32,
+    "extension": {
+      "derived_order": 8,
+      "abelian_invariants": [
+        2,
+        4,
+        4
+      ],
+      "prescribed_subgroup_order": 16,
+      "assignment_consistent": false,
+      "kills_derived_intersection": false,
+      "bad_values": [
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "index": 1,
+    "torus_coefficients": [
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "n_order": 4,
+    "nh_order": 4,
+    "P_order": 128,
+    "Q_order": 256,
+    "signed_centralizer_image": 16,
+    "extension": {
+      "derived_order": 8,
+      "abelian_invariants": [
+        2,
+        4,
+        4
+      ],
+      "prescribed_subgroup_order": 16,
+      "assignment_consistent": true,
+      "kills_derived_intersection": true,
+      "bad_values": []
+    }
+  }
+]

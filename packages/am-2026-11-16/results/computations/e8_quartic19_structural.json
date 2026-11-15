@@ -1,0 +1,356 @@
+{
+  "D5A3_regular": {
+    "source_equation_smith_diagonal": [
+      1,
+      1
+    ],
+    "center_characteristic_polynomial": "(q + 1)**6",
+    "center_rational_order_polynomial": "(q + 1)**6",
+    "rational_based_weyl_centralizer_order": 3072,
+    "based_source_graph_image_order": 2,
+    "based_source_graph_generators": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  "A7A1_regular": {
+    "source_equation_smith_diagonal": [
+      1,
+      1,
+      1
+    ],
+    "center_characteristic_polynomial": "(q + 1)**5",
+    "center_rational_order_polynomial": "-(q + 1)**5",
+    "rational_based_weyl_centralizer_order": 768,
+    "based_source_graph_image_order": 6,
+    "based_source_graph_generators": [
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        1,
+        0,
+        2
+      ],
+      [
+        1,
+        2,
+        0
+      ],
+      [
+        2,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        2
+      ]
+    ]
+  },
+  "D5A3_A1q2": {
+    "source_equation_smith_diagonal": [
+      1,
+      1
+    ],
+    "center_characteristic_polynomial": "(q**2 + 1)**3",
+    "center_rational_order_polynomial": "(q**2 + 1)**3",
+    "rational_based_weyl_centralizer_order": 128,
+    "based_source_graph_image_order": 2,
+    "based_source_graph_generators": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ]
+    ]
+  },
+  "D5A3_internal_A3": {
+    "source_equation_smith_diagonal": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "center_characteristic_polynomial": "(q**2 + 1)**2",
+    "center_rational_order_polynomial": "(q**2 + 1)**2",
+    "rational_based_weyl_centralizer_order": 16,
+    "based_source_graph_image_order": 2,
+    "based_source_graph_generators": [
+      [
+        1,
+        0,
+        2,
+        3
+      ],
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      [
+        1,
+        0,
+        2,
+        3
+      ]
+    ]
+  },
+  "A7A1_external_A1": {
+    "source_equation_smith_diagonal": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "center_characteristic_polynomial": "(q**2 + 1)**2",
+    "center_rational_order_polynomial": "(q**2 + 1)**2",
+    "rational_based_weyl_centralizer_order": 32,
+    "based_source_graph_image_order": 6,
+    "based_source_graph_generators": [
+      [
+        0,
+        2,
+        1,
+        3
+      ],
+      [
+        2,
+        0,
+        1,
+        3
+      ],
+      [
+        1,
+        0,
+        2,
+        3
+      ],
+      [
+        2,
+        0,
+        1,
+        3
+      ],
+      [
+        2,
+        1,
+        0,
+        3
+      ]
+    ]
+  },
+  "GGGR_integral": {
+    "x_nilpotency_ranks": [
+      4,
+      3,
+      2,
+      1,
+      0
+    ],
+    "Jordan_chain_determinant": 8,
+    "Jordan_chain_action": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "grade0_dimension": 8,
+    "grade2_dimension": 5,
+    "bracket_rank": 5,
+    "bracket_minor_gcd": 2,
+    "bracket_has_minor_pm2": true,
+    "trace_gram_determinant": "268435456",
+    "all_grades_even": true,
+    "graph_fixes_x": true,
+    "graph_fixes_eta": true,
+    "inverse_cayley_recovers_x": true,
+    "bracket_matrix": [
+      [
+        1,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        -1,
+        0
+      ]
+    ]
+  }
+}

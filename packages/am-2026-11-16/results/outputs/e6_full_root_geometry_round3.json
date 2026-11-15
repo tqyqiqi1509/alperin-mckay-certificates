@@ -1,0 +1,4019 @@
+{
+  "marked_rows": [
+    {
+      "name": "isolated3_nonmatching_A1cube",
+      "source_roots": 6,
+      "active_basis": [
+        [
+          0,
+          0,
+          -1
+        ],
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1
+        ]
+      ],
+      "f": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          1,
+          0,
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          -1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "full_relative": 12,
+      "regular_relative": 12,
+      "natural_relative": 12,
+      "source_weyl": 8
+    },
+    {
+      "name": "isolated3_nonmatching_markedD4",
+      "source_roots": 24,
+      "active_basis": [
+        [
+          0,
+          -1
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          -1,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "f": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          -1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "full_relative": 6,
+      "regular_relative": 6,
+      "natural_relative": 6,
+      "source_weyl": 192
+    },
+    {
+      "name": "isolated3_matching_markedA3",
+      "source_roots": 12,
+      "active_basis": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "f": [
+        [
+          -1,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "full_relative": 8,
+      "regular_relative": 4,
+      "natural_relative": 4,
+      "source_weyl": 24
+    },
+    {
+      "name": "strict3_markedD4",
+      "source_roots": 24,
+      "active_basis": [
+        [
+          2,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "f": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "full_relative": 6,
+      "regular_relative": 1,
+      "natural_relative": 3,
+      "source_weyl": 192
+    }
+  ],
+  "levi_normalizers": {
+    "D4_W": 192,
+    "D4_inner_normalizer": 1152,
+    "D4_inner_relative": 6,
+    "D4_extended_root_image": 1152,
+    "D4_extended_outer_image": 6,
+    "D5_W": 1920,
+    "D5_inner_normalizer": 1920,
+    "D5_inner_relative": 1,
+    "D5_extended_root_image": 3840,
+    "D5_extended_outer_image": 2
+  },
+  "W_order": 51840,
+  "root_count": 72,
+  "component_order3": true,
+  "component_isometry": true,
+  "geometries": {
+    "isolated3": {
+      "regular_W": 216,
+      "natural_W": 648,
+      "roots": 18,
+      "num": [
+        2,
+        3,
+        4,
+        6,
+        4,
+        2
+      ],
+      "den": 3
+    },
+    "strict3": {
+      "regular_W": 192,
+      "natural_W": 576,
+      "roots": 24,
+      "num": [
+        2,
+        2,
+        3,
+        4,
+        3,
+        2
+      ],
+      "den": 3
+    },
+    "strict6": {
+      "regular_W": 16,
+      "natural_W": 48,
+      "roots": 8,
+      "num": [
+        4,
+        6,
+        8,
+        11,
+        8,
+        4
+      ],
+      "den": 6
+    },
+    "involution": {
+      "regular_W": 1440,
+      "natural_W": 1440,
+      "roots": 32,
+      "num": [
+        1,
+        2,
+        2,
+        3,
+        2,
+        1
+      ],
+      "den": 2
+    }
+  },
+  "rows": [
+    {
+      "name": "isolated3_split",
+      "d": 1,
+      "active_dimension": 6,
+      "active_lattice_basis": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        -6,
+        15,
+        -20,
+        15,
+        -6,
+        1
+      ],
+      "source_root_count": 0,
+      "source_weyl_order": 1,
+      "full_relative_order": 51840,
+      "regular_relative_order": 216,
+      "natural_relative_order": 648,
+      "regular_pointwise": 1,
+      "natural_pointwise": 1,
+      "nonzero_root_gcds": [
+        1
+      ],
+      "number_maximal_cp_types": 1,
+      "f": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "name": "isolated3_split",
+      "d": 2,
+      "active_dimension": 3,
+      "active_lattice_basis": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        0,
+        -3,
+        0,
+        3,
+        0,
+        -1
+      ],
+      "source_root_count": 2,
+      "source_weyl_order": 2,
+      "full_relative_order": 48,
+      "regular_relative_order": 8,
+      "natural_relative_order": 24,
+      "regular_pointwise": 1,
+      "natural_pointwise": 1,
+      "nonzero_root_gcds": [
+        1,
+        2
+      ],
+      "number_maximal_cp_types": 1,
+      "f": [
+        [
+          -1,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "name": "isolated3_split",
+      "d": 3,
+      "active_dimension": 6,
+      "active_lattice_basis": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        3,
+        6,
+        7,
+        6,
+        3,
+        1
+      ],
+      "source_root_count": 0,
+      "source_weyl_order": 1,
+      "full_relative_order": 648,
+      "regular_relative_order": 27,
+      "natural_relative_order": 81,
+      "regular_pointwise": 1,
+      "natural_pointwise": 1,
+      "nonzero_root_gcds": [
+        1
+      ],
+      "number_maximal_cp_types": 1,
+      "f": [
+        [
+          -1,
+          -1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          -2,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          -1,
+          -2,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          -3,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          -2,
+          0,
+          1,
+          -1,
+          1
+        ],
+        [
+          0,
+          -1,
+          0,
+          1,
+          -1,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "isolated3_cubic",
+      "d": 1,
+      "active_dimension": 2,
+      "active_lattice_basis": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        0,
+        0,
+        -2,
+        0,
+        0,
+        1
+      ],
+      "source_root_count": 12,
+      "source_weyl_order": 36,
+      "full_relative_order": 12,
+      "regular_relative_order": 6,
+      "natural_relative_order": 6,
+      "regular_pointwise": 1,
+      "natural_pointwise": 3,
+      "nonzero_root_gcds": [
+        1
+      ],
+      "number_maximal_cp_types": 1,
+      "f": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          -2
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          -2
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -3
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          -2
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ]
+      ]
+    },
+    {
+      "name": "isolated3_cubic",
+      "d": 2,
+      "active_dimension": 1,
+      "active_lattice_basis": [
+        [
+          0
+        ],
+        [
+          2
+        ],
+        [
+          2
+        ],
+        [
+          3
+        ],
+        [
+          2
+        ],
+        [
+          2
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -1
+      ],
+      "source_root_count": 14,
+      "source_weyl_order": 72,
+      "full_relative_order": 2,
+      "regular_relative_order": 2,
+      "natural_relative_order": 2,
+      "regular_pointwise": 1,
+      "natural_pointwise": 3,
+      "nonzero_root_gcds": [
+        1,
+        2,
+        3
+      ],
+      "number_maximal_cp_types": 1,
+      "f": [
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          -2
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          -2
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -3
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          -2
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ]
+      ]
+    },
+    {
+      "name": "isolated3_cubic",
+      "d": 3,
+      "active_dimension": 4,
+      "active_lattice_basis": [
+        [
+          0,
+          1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          2,
+          -1,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        0,
+        0,
+        -2,
+        0,
+        0,
+        1
+      ],
+      "source_root_count": 6,
+      "source_weyl_order": 6,
+      "full_relative_order": 18,
+      "regular_relative_order": 6,
+      "natural_relative_order": 18,
+      "regular_pointwise": 1,
+      "natural_pointwise": 1,
+      "nonzero_root_gcds": [
+        1
+      ],
+      "number_maximal_cp_types": 1,
+      "f": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          -2
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          -2
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -3
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          -2
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ]
+      ]
+    },
+    {
+      "name": "isolated3_nonmatching",
+      "d": 1,
+      "active_dimension": 3,
+      "active_lattice_basis": [
+        [
+          0,
+          0,
+          -1
+        ],
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        0,
+        -3,
+        0,
+        3,
+        0,
+        -1
+      ],
+      "source_root_count": 6,
+      "source_weyl_order": 8,
+      "full_relative_order": 12,
+      "regular_relative_order": 12,
+      "natural_relative_order": 12,
+      "regular_pointwise": 1,
+      "natural_pointwise": 1,
+      "nonzero_root_gcds": [
+        1,
+        2
+      ],
+      "number_maximal_cp_types": 1,
+      "f": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          1,
+          0,
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          -1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "isolated3_nonmatching",
+      "d": 2,
+      "active_dimension": 4,
+      "active_lattice_basis": [
+        [
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        2,
+        -1,
+        -4,
+        -1,
+        2,
+        1
+      ],
+      "source_root_count": 0,
+      "source_weyl_order": 1,
+      "full_relative_order": 1152,
+      "regular_relative_order": 36,
+      "natural_relative_order": 36,
+      "regular_pointwise": 1,
+      "natural_pointwise": 1,
+      "nonzero_root_gcds": [
+        1
+      ],
+      "number_maximal_cp_types": 1,
+      "f": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          -1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          -1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "isolated3_nonmatching",
+      "d": 6,
+      "active_dimension": 4,
+      "active_lattice_basis": [
+        [
+          0,
+          1,
+          -1,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          -1,
+          1
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        -1,
+        2,
+        -1,
+        2,
+        -1,
+        1
+      ],
+      "source_root_count": 0,
+      "source_weyl_order": 1,
+      "full_relative_order": 72,
+      "regular_relative_order": 9,
+      "natural_relative_order": 9,
+      "regular_pointwise": 1,
+      "natural_pointwise": 1,
+      "nonzero_root_gcds": [
+        1
+      ],
+      "number_maximal_cp_types": 1,
+      "f": [
+        [
+          0,
+          1,
+          0,
+          0,
+          -1,
+          1
+        ],
+        [
+          0,
+          2,
+          0,
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          2,
+          0,
+          -1,
+          0,
+          1
+        ],
+        [
+          0,
+          3,
+          0,
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          2,
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          -1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "strict3_split",
+      "d": 1,
+      "active_dimension": 6,
+      "active_lattice_basis": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        -6,
+        15,
+        -20,
+        15,
+        -6,
+        1
+      ],
+      "source_root_count": 0,
+      "source_weyl_order": 1,
+      "full_relative_order": 51840,
+      "regular_relative_order": 192,
+      "natural_relative_order": 576,
+      "regular_pointwise": 1,
+      "natural_pointwise": 1,
+      "nonzero_root_gcds": [
+        1
+      ],
+      "number_maximal_cp_types": 1,
+      "f": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "name": "strict3_split",
+      "d": 2,
+      "active_dimension": 4,
+      "active_lattice_basis": [
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        2,
+        -1,
+        -4,
+        -1,
+        2,
+        1
+      ],
+      "source_root_count": 0,
+      "source_weyl_order": 1,
+      "full_relative_order": 1152,
+      "regular_relative_order": 192,
+      "natural_relative_order": 576,
+      "regular_pointwise": 1,
+      "natural_pointwise": 1,
+      "nonzero_root_gcds": [
+        1
+      ],
+      "number_maximal_cp_types": 1,
+      "f": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          -1,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          -1,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          -1,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          -1,
+          2
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "name": "strict3_split",
+      "d": 3,
+      "active_dimension": 2,
+      "active_lattice_basis": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        -3,
+        3,
+        -2,
+        3,
+        -3,
+        1
+      ],
+      "source_root_count": 12,
+      "source_weyl_order": 36,
+      "full_relative_order": 6,
+      "regular_relative_order": 6,
+      "natural_relative_order": 6,
+      "regular_pointwise": 1,
+      "natural_pointwise": 3,
+      "nonzero_root_gcds": [
+        1
+      ],
+      "number_maximal_cp_types": 1,
+      "f": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          1,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "name": "strict3_split",
+      "d": 4,
+      "active_dimension": 4,
+      "active_lattice_basis": [
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        -2,
+        3,
+        -4,
+        3,
+        -2,
+        1
+      ],
+      "source_root_count": 0,
+      "source_weyl_order": 1,
+      "full_relative_order": 96,
+      "regular_relative_order": 16,
+      "natural_relative_order": 48,
+      "regular_pointwise": 1,
+      "natural_pointwise": 1,
+      "nonzero_root_gcds": [
+        1
+      ],
+      "number_maximal_cp_types": 1,
+      "f": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          -1,
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          -1,
+          1,
+          0,
+          0
+        ],
+        [
+          2,
+          0,
+          -2,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          -1,
+          -1,
+          1,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "name": "strict3_split",
+      "d": 6,
+      "active_dimension": 2,
+      "active_lattice_basis": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          -1
+        ],
+        [
+          1,
+          -1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        -1,
+        -1,
+        2,
+        -1,
+        -1,
+        1
+      ],
+      "source_root_count": 12,
+      "source_weyl_order": 36,
+      "full_relative_order": 6,
+      "regular_relative_order": 6,
+      "natural_relative_order": 6,
+      "regular_pointwise": 1,
+      "natural_pointwise": 3,
+      "nonzero_root_gcds": [
+        1
+      ],
+      "number_maximal_cp_types": 1,
+      "f": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          -1,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          -1,
+          -1,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          -1,
+          -1,
+          1,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "name": "strict3_cubic",
+      "d": 1,
+      "active_dimension": 2,
+      "active_lattice_basis": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        0,
+        0,
+        -2,
+        0,
+        0,
+        1
+      ],
+      "source_root_count": 12,
+      "source_weyl_order": 36,
+      "full_relative_order": 12,
+      "regular_relative_order": 12,
+      "natural_relative_order": 12,
+      "regular_pointwise": 1,
+      "natural_pointwise": 3,
+      "nonzero_root_gcds": [
+        1
+      ],
+      "number_maximal_cp_types": 1,
+      "f": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          -2
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          -2
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -3
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          -2
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ]
+      ]
+    },
+    {
+      "name": "strict3_cubic",
+      "d": 2,
+      "active_dimension": 2,
+      "active_lattice_basis": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "source_root_count": 12,
+      "source_weyl_order": 36,
+      "full_relative_order": 12,
+      "regular_relative_order": 12,
+      "natural_relative_order": 12,
+      "regular_pointwise": 1,
+      "natural_pointwise": 3,
+      "nonzero_root_gcds": [
+        1
+      ],
+      "number_maximal_cp_types": 1,
+      "f": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          -1,
+          1,
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          0,
+          2,
+          -1,
+          0,
+          -2
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          -2
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ]
+      ]
+    },
+    {
+      "name": "strict3_cubic",
+      "d": 3,
+      "active_dimension": 6,
+      "active_lattice_basis": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        3,
+        6,
+        7,
+        6,
+        3,
+        1
+      ],
+      "source_root_count": 0,
+      "source_weyl_order": 1,
+      "full_relative_order": 648,
+      "regular_relative_order": 24,
+      "natural_relative_order": 72,
+      "regular_pointwise": 1,
+      "natural_pointwise": 1,
+      "nonzero_root_gcds": [
+        1
+      ],
+      "number_maximal_cp_types": 1,
+      "f": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          -1,
+          1,
+          0,
+          0,
+          -1
+        ],
+        [
+          1,
+          -1,
+          0,
+          0,
+          0,
+          -1
+        ],
+        [
+          1,
+          -1,
+          1,
+          0,
+          -1,
+          -1
+        ],
+        [
+          1,
+          -1,
+          0,
+          1,
+          -1,
+          -1
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ]
+      ]
+    },
+    {
+      "name": "strict3_cubic",
+      "d": 6,
+      "active_dimension": 4,
+      "active_lattice_basis": [
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        -1,
+        2,
+        -1,
+        2,
+        -1,
+        1
+      ],
+      "source_root_count": 0,
+      "source_weyl_order": 1,
+      "full_relative_order": 72,
+      "regular_relative_order": 24,
+      "natural_relative_order": 72,
+      "regular_pointwise": 1,
+      "natural_pointwise": 1,
+      "nonzero_root_gcds": [
+        1
+      ],
+      "number_maximal_cp_types": 1,
+      "f": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          -1
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          -1,
+          -1
+        ],
+        [
+          0,
+          -1,
+          1,
+          1,
+          -1,
+          -2
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          -2
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ]
+      ]
+    },
+    {
+      "name": "strict6_split",
+      "d": 1,
+      "active_dimension": 6,
+      "active_lattice_basis": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        -6,
+        15,
+        -20,
+        15,
+        -6,
+        1
+      ],
+      "source_root_count": 0,
+      "source_weyl_order": 1,
+      "full_relative_order": 51840,
+      "regular_relative_order": 16,
+      "natural_relative_order": 48,
+      "regular_pointwise": 1,
+      "natural_pointwise": 1,
+      "nonzero_root_gcds": [
+        1
+      ],
+      "number_maximal_cp_types": 1,
+      "f": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "name": "strict6_split",
+      "d": 2,
+      "active_dimension": 4,
+      "active_lattice_basis": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        2,
+        -1,
+        -4,
+        -1,
+        2,
+        1
+      ],
+      "source_root_count": 0,
+      "source_weyl_order": 1,
+      "full_relative_order": 1152,
+      "regular_relative_order": 16,
+      "natural_relative_order": 48,
+      "regular_pointwise": 1,
+      "natural_pointwise": 1,
+      "nonzero_root_gcds": [
+        1
+      ],
+      "number_maximal_cp_types": 1,
+      "f": [
+        [
+          -1,
+          -1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          -2,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          -2,
+          1,
+          -1,
+          1,
+          0
+        ],
+        [
+          0,
+          -2,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          -1,
+          0,
+          0,
+          1,
+          -1
+        ]
+      ]
+    },
+    {
+      "name": "strict6_split",
+      "d": 3,
+      "active_dimension": 0,
+      "active_lattice_basis": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        -6,
+        15,
+        -20,
+        15,
+        -6,
+        1
+      ],
+      "source_root_count": 72,
+      "source_weyl_order": 51840,
+      "full_relative_order": 1,
+      "regular_relative_order": 1,
+      "natural_relative_order": 1,
+      "regular_pointwise": 16,
+      "natural_pointwise": 48,
+      "nonzero_root_gcds": [],
+      "number_maximal_cp_types": 5,
+      "f": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "name": "strict6_split",
+      "d": 4,
+      "active_dimension": 0,
+      "active_lattice_basis": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        -6,
+        15,
+        -20,
+        15,
+        -6,
+        1
+      ],
+      "source_root_count": 72,
+      "source_weyl_order": 51840,
+      "full_relative_order": 1,
+      "regular_relative_order": 1,
+      "natural_relative_order": 1,
+      "regular_pointwise": 16,
+      "natural_pointwise": 48,
+      "nonzero_root_gcds": [],
+      "number_maximal_cp_types": 5,
+      "f": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "name": "strict6_split",
+      "d": 6,
+      "active_dimension": 0,
+      "active_lattice_basis": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        -6,
+        15,
+        -20,
+        15,
+        -6,
+        1
+      ],
+      "source_root_count": 72,
+      "source_weyl_order": 51840,
+      "full_relative_order": 1,
+      "regular_relative_order": 1,
+      "natural_relative_order": 1,
+      "regular_pointwise": 16,
+      "natural_pointwise": 48,
+      "nonzero_root_gcds": [],
+      "number_maximal_cp_types": 5,
+      "f": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "name": "strict6_cubic",
+      "d": 1,
+      "active_dimension": 2,
+      "active_lattice_basis": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        0,
+        0,
+        -2,
+        0,
+        0,
+        1
+      ],
+      "source_root_count": 12,
+      "source_weyl_order": 36,
+      "full_relative_order": 12,
+      "regular_relative_order": 4,
+      "natural_relative_order": 4,
+      "regular_pointwise": 1,
+      "natural_pointwise": 3,
+      "nonzero_root_gcds": [
+        1
+      ],
+      "number_maximal_cp_types": 1,
+      "f": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          -2
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          -2
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -3
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          -2
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ]
+      ]
+    },
+    {
+      "name": "strict6_cubic",
+      "d": 2,
+      "active_dimension": 2,
+      "active_lattice_basis": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "source_root_count": 12,
+      "source_weyl_order": 36,
+      "full_relative_order": 12,
+      "regular_relative_order": 4,
+      "natural_relative_order": 4,
+      "regular_pointwise": 1,
+      "natural_pointwise": 3,
+      "nonzero_root_gcds": [
+        1
+      ],
+      "number_maximal_cp_types": 1,
+      "f": [
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          -2
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          -2
+        ],
+        [
+          0,
+          1,
+          1,
+          -1,
+          1,
+          -3
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          -2
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ]
+      ]
+    },
+    {
+      "name": "strict6_cubic",
+      "d": 3,
+      "active_dimension": 4,
+      "active_lattice_basis": [
+        [
+          0,
+          1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          2,
+          -1,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        0,
+        0,
+        -2,
+        0,
+        0,
+        1
+      ],
+      "source_root_count": 6,
+      "source_weyl_order": 6,
+      "full_relative_order": 18,
+      "regular_relative_order": 2,
+      "natural_relative_order": 6,
+      "regular_pointwise": 2,
+      "natural_pointwise": 2,
+      "nonzero_root_gcds": [
+        1
+      ],
+      "number_maximal_cp_types": 2,
+      "f": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          -2
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          -2
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -3
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          -2
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ]
+      ]
+    },
+    {
+      "name": "strict6_cubic",
+      "d": 6,
+      "active_dimension": 2,
+      "active_lattice_basis": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -1
+      ],
+      "source_root_count": 6,
+      "source_weyl_order": 6,
+      "full_relative_order": 6,
+      "regular_relative_order": 2,
+      "natural_relative_order": 6,
+      "regular_pointwise": 2,
+      "natural_pointwise": 2,
+      "nonzero_root_gcds": [
+        1,
+        2
+      ],
+      "number_maximal_cp_types": 2,
+      "f": [
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          -2
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          -2
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          -3
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          -2
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1
+        ]
+      ]
+    },
+    {
+      "name": "involution",
+      "d": 1,
+      "active_dimension": 6,
+      "active_lattice_basis": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        -6,
+        15,
+        -20,
+        15,
+        -6,
+        1
+      ],
+      "source_root_count": 0,
+      "source_weyl_order": 1,
+      "full_relative_order": 51840,
+      "regular_relative_order": 1440,
+      "natural_relative_order": 1440,
+      "regular_pointwise": 1,
+      "natural_pointwise": 1,
+      "nonzero_root_gcds": [
+        1
+      ],
+      "number_maximal_cp_types": 1,
+      "f": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "name": "involution",
+      "d": 2,
+      "active_dimension": 4,
+      "active_lattice_basis": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        2,
+        -1,
+        -4,
+        -1,
+        2,
+        1
+      ],
+      "source_root_count": 0,
+      "source_weyl_order": 1,
+      "full_relative_order": 1152,
+      "regular_relative_order": 96,
+      "natural_relative_order": 96,
+      "regular_pointwise": 1,
+      "natural_pointwise": 1,
+      "nonzero_root_gcds": [
+        1
+      ],
+      "number_maximal_cp_types": 1,
+      "f": [
+        [
+          -1,
+          -1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          -2,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          -2,
+          1,
+          -1,
+          1,
+          0
+        ],
+        [
+          0,
+          -2,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          -1,
+          0,
+          0,
+          1,
+          -1
+        ]
+      ]
+    },
+    {
+      "name": "involution",
+      "d": 3,
+      "active_dimension": 4,
+      "active_lattice_basis": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        0,
+        0,
+        -2,
+        0,
+        0,
+        1
+      ],
+      "source_root_count": 6,
+      "source_weyl_order": 6,
+      "full_relative_order": 18,
+      "regular_relative_order": 18,
+      "natural_relative_order": 18,
+      "regular_pointwise": 2,
+      "natural_pointwise": 2,
+      "nonzero_root_gcds": [
+        1
+      ],
+      "number_maximal_cp_types": 2,
+      "f": [
+        [
+          -1,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          -1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          -1,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "involution",
+      "d": 4,
+      "active_dimension": 2,
+      "active_lattice_basis": [
+        [
+          1,
+          -1
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        -2,
+        1,
+        0,
+        -1,
+        2,
+        -1
+      ],
+      "source_root_count": 12,
+      "source_weyl_order": 24,
+      "full_relative_order": 4,
+      "regular_relative_order": 4,
+      "natural_relative_order": 4,
+      "regular_pointwise": 4,
+      "natural_pointwise": 4,
+      "nonzero_root_gcds": [
+        1,
+        2
+      ],
+      "number_maximal_cp_types": 3,
+      "f": [
+        [
+          -1,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          -1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          -1,
+          1,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "name": "involution",
+      "d": 5,
+      "active_dimension": 4,
+      "active_lattice_basis": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        -1,
+        0,
+        0,
+        0,
+        -1,
+        1
+      ],
+      "source_root_count": 2,
+      "source_weyl_order": 2,
+      "full_relative_order": 5,
+      "regular_relative_order": 5,
+      "natural_relative_order": 5,
+      "regular_pointwise": 2,
+      "natural_pointwise": 2,
+      "nonzero_root_gcds": [
+        1
+      ],
+      "number_maximal_cp_types": 2,
+      "f": [
+        [
+          -1,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          -1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          -1,
+          1,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          -1,
+          1,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "name": "involution",
+      "d": 6,
+      "active_dimension": 2,
+      "active_lattice_basis": [
+        [
+          1,
+          -2
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          2,
+          -3
+        ],
+        [
+          2,
+          -2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "basis_primitive": 1,
+      "characteristic_polynomial": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -1
+      ],
+      "source_root_count": 6,
+      "source_weyl_order": 6,
+      "full_relative_order": 6,
+      "regular_relative_order": 6,
+      "natural_relative_order": 6,
+      "regular_pointwise": 2,
+      "natural_pointwise": 2,
+      "nonzero_root_gcds": [
+        1,
+        2
+      ],
+      "number_maximal_cp_types": 2,
+      "f": [
+        [
+          -1,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          -1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          -1,
+          1,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          -1,
+          1,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          -1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    }
+  ],
+  "matching_3_quotient_W_kernel": 1,
+  "nonmatching_3_zero_root_restrictions": 0
+}

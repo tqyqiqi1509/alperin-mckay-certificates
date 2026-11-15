@@ -1,0 +1,82 @@
+{
+  "roots": 240,
+  "cartan_determinant": 1,
+  "tits_squares": true,
+  "braid_relations": true,
+  "perpendicular_roots": 72,
+  "perpendicular_base": [
+    [
+      -1,
+      -1,
+      -1,
+      1,
+      -1,
+      -1,
+      -1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      -2,
+      2,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      -2,
+      2,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      -2,
+      2,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      2,
+      2,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      -1,
+      -1,
+      -1,
+      -1,
+      1
+    ]
+  ],
+  "e6_tits_order": 3317760,
+  "u_order": 3,
+  "u_fixed_roots": 6,
+  "longest_lengths": [
+    120,
+    3
+  ],
+  "a0_order": 2,
+  "a0_commutes_u": true,
+  "a0_commutes_x_generators": true,
+  "q0_order": 648,
+  "q_order": 1296,
+  "seconds": 2.972188711166382
+}

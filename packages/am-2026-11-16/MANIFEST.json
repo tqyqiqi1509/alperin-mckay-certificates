@@ -1,0 +1,665 @@
+{
+  "algorithm": "SHA-256",
+  "files": [
+    {
+      "file": ".gitattributes",
+      "bytes": 8,
+      "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da"
+    },
+    {
+      "file": ".gitignore",
+      "bytes": 28,
+      "sha256": "fff2b22126dff819659796f3fdbba08c9b7cdf8304100a9f89c8efd8af3f2cfb"
+    },
+    {
+      "file": "computations/c60_independent_block_and_kernel.g",
+      "bytes": 3915,
+      "sha256": "734a71fee18df0e1f7a287647b500b1cb54d367d5dbc1ab1cbf932d14a099825"
+    },
+    {
+      "file": "computations/cubic_functional_exact.py",
+      "bytes": 2054,
+      "sha256": "52a456ea3b487ed23a03c9ef492426e099f9d75cbcca4f149fa75bec42da66f1"
+    },
+    {
+      "file": "computations/cubic_functional_smith.py",
+      "bytes": 478,
+      "sha256": "c08a82049f0c777bb0f9e971b0e72074701e28a0f1e10ac429182d4c68792d10"
+    },
+    {
+      "file": "computations/e66_full_J_valuation.py",
+      "bytes": 4110,
+      "sha256": "71a6170265d555517f06b3206a58cc188f36e129688444b7249e859e93587d06"
+    },
+    {
+      "file": "computations/e67_source_regular_phases.py",
+      "bytes": 1734,
+      "sha256": "a84e4237cfbc5f7c9d9b5f0c411cb26984913a061f470f76afdbde9b96a22868"
+    },
+    {
+      "file": "computations/e67_source_regular_phases.wl",
+      "bytes": 767,
+      "sha256": "5a4b3e69c894eeb10f2b75c5eb83e50b29520242971dcf76a4c68ee5c68fc9c1"
+    },
+    {
+      "file": "computations/e6_carrier_round3_checks.py",
+      "bytes": 4668,
+      "sha256": "047ca291a423cacbec8c833a7ebb8e91051a8f3c50863b416a9ec6db8dcaa988"
+    },
+    {
+      "file": "computations/e6_cubic_index_round3_checks.py",
+      "bytes": 1244,
+      "sha256": "8f7958444b27d896cac3a110e2d1eae7a53f8e2f00550e2b1f64305835cdc3f8"
+    },
+    {
+      "file": "computations/e6_D4_carrier_round3_checks.py",
+      "bytes": 2093,
+      "sha256": "ca6cd16236510f8dd6ceb7bbd1cd70663958c903cd297a1ec8102f4663f55002"
+    },
+    {
+      "file": "computations/e6_full_root_geometry_round3.py",
+      "bytes": 8074,
+      "sha256": "52ab2969d918229680e2780b057d0d8e6c115d17b9c0660a4dc8d33859090f39"
+    },
+    {
+      "file": "computations/e7_56/independent_carrier.py",
+      "bytes": 8214,
+      "sha256": "fa17587bb9e85026a3eafc7c42debfe2fe63708af7266216b95e102a9517984c"
+    },
+    {
+      "file": "computations/e7_56/independent_coefficients.g",
+      "bytes": 2145,
+      "sha256": "689758c0a4c44b8ac0357f194c8b66f354de0d3a4ec89d72360a33c8e35fb7f6"
+    },
+    {
+      "file": "computations/e7_56/independent_coefficients.py",
+      "bytes": 1712,
+      "sha256": "5a46af11b249e524cb26369753ca84ad0edeecf1a941c5101b4c76504c71a726"
+    },
+    {
+      "file": "computations/e7_global20_rootdata.py",
+      "bytes": 10016,
+      "sha256": "6e72ca1a7596eb115f0bb11340060f29c35686e3131a49f6f32e11b217adb17e"
+    },
+    {
+      "file": "computations/e7_uniform_carrier_11.py",
+      "bytes": 7681,
+      "sha256": "b846567a2024da94c2cf35bd219fcfcf72344c507857c93af6dc4425e976e2bf"
+    },
+    {
+      "file": "computations/e7_whole_76/levi_lattices.py",
+      "bytes": 3751,
+      "sha256": "13185634a91862336d429953d5ea46e744a493906fce5c8b9e05be91122693cf"
+    },
+    {
+      "file": "computations/e8_d4_source_structure.py",
+      "bytes": 7702,
+      "sha256": "c508b51877998b75c7982b57bc36eaef7a3666781af8fca6b96b947106f5b3ce"
+    },
+    {
+      "file": "computations/e8_nonprincipal22_generic.g",
+      "bytes": 1607,
+      "sha256": "223f6957224bdc567caa70c63f429fda94b1ee765330877d1a2370856e3287f9"
+    },
+    {
+      "file": "computations/e8_nonprincipal22_valuations.py",
+      "bytes": 2860,
+      "sha256": "6c21d82026fc831571cb1d1768456b48b051b737ac013bf3386cf4de59aadcf5"
+    },
+    {
+      "file": "computations/e8_phi4_sylow5.g",
+      "bytes": 52031,
+      "sha256": "f8fdab6497aca9a03697450d63fd4bc478795b330befa59a3a314ea21436e782"
+    },
+    {
+      "file": "computations/e8_phi4_sylow5.py",
+      "bytes": 5608,
+      "sha256": "7fcf94b899218f3c00d3a687d9985b2829d0957ff74d513c5b7c5137e2b969ec"
+    },
+    {
+      "file": "computations/e8_principal_three_coxeter_11.py",
+      "bytes": 2592,
+      "sha256": "494d888a867e41b3a87dc525b2da1ae1fbe0ea6219f25c446bf138697a734d10"
+    },
+    {
+      "file": "computations/e8_quartic19.py",
+      "bytes": 5779,
+      "sha256": "9d27af60ab86b8be77bebb22a1ac986ef41e5a6c41d43b5699561e30fb4f7506"
+    },
+    {
+      "file": "computations/e8_quartic19_characters.py",
+      "bytes": 2985,
+      "sha256": "612d839bad766ca22185dffab146fb00b996781092599ac165da4d14039cf318"
+    },
+    {
+      "file": "computations/e8_quartic19_field.py",
+      "bytes": 1386,
+      "sha256": "82e228404fa46aff8e717b288a69c775bef8b4d591254ce4fb47ca9369bdd9b1"
+    },
+    {
+      "file": "computations/e8_quartic19_internal_source.py",
+      "bytes": 1879,
+      "sha256": "13fc3cf2685f7b9252c08771601938c5b8fd2b8abec887edf2005abed721ac81"
+    },
+    {
+      "file": "computations/e8_quartic19_liftscan.py",
+      "bytes": 1561,
+      "sha256": "5187597b4a7264b8444a2fb62d220c1de07592c4d56e69fc8abceced6bf0e13a"
+    },
+    {
+      "file": "computations/e8_quartic19_phase.py",
+      "bytes": 4678,
+      "sha256": "03ec0a5b2742c6f9ca9d5f5ae658de5975814405b0b0b8d94bef6f4f2c57bded"
+    },
+    {
+      "file": "computations/e8_quartic19_structural.py",
+      "bytes": 3257,
+      "sha256": "25097d4d0befda9150e0eb3b48390ddf004820d3787963c00e00191fb7cfb418"
+    },
+    {
+      "file": "computations/e8_strict21_actual_sources.g",
+      "bytes": 2551,
+      "sha256": "a69674ff10dcc3a93006ede722b626e1baa5afee0d0bed49842ac69528bc19f3"
+    },
+    {
+      "file": "computations/e8_strict21_check_tails.py",
+      "bytes": 3706,
+      "sha256": "a7cc533466cd3f5f50aa44729c281eb75e47365254d1985699a6844b9b217a1c"
+    },
+    {
+      "file": "computations/e8_strict21_cyclic_tails.g",
+      "bytes": 1502,
+      "sha256": "65a35e4283ae258f1e599e9ce84e09353049a2dd3354347342d9f20757eb1545"
+    },
+    {
+      "file": "computations/e8_strict21_exceptional_catalog.g",
+      "bytes": 1311,
+      "sha256": "d678b9db48dafff22d859f7b4ce6ce9d22a0e17c1c1b4bdbeb8de4dcf4ac98db"
+    },
+    {
+      "file": "computations/e8_strict21_parse_actual.py",
+      "bytes": 8373,
+      "sha256": "9a8f7f96a0454250359b9ffb8b673b37fccab07721c4ab4703d78272a1966fcc"
+    },
+    {
+      "file": "computations/e8_three_five_75/geometry.py",
+      "bytes": 8981,
+      "sha256": "43321f32c639bbca8d98f777a7b1860f6210d0a2312375e77ef0004bc4b28f57"
+    },
+    {
+      "file": "computations/e8_tits_engine_root17.py",
+      "bytes": 4198,
+      "sha256": "e05d3f1ab9814389dee2f9ad8d9071831f857a814e4d2b46ac24744254a3ff2a"
+    },
+    {
+      "file": "computations/exceptional_covers/actual_c2_pairing.g",
+      "bytes": 1203,
+      "sha256": "dfa56119ee6bf69b06b367883ff332aabe8ea56737fa27d4b0a47dec88a93555"
+    },
+    {
+      "file": "computations/exceptional_covers/central_block_quotients.g",
+      "bytes": 1315,
+      "sha256": "bf41a5a4433b16f87775fdc04c3eb6c99c916a33a65fedfa1f5c4e3f2184cf28"
+    },
+    {
+      "file": "computations/exceptional_covers/e6_three_actual_outer.g",
+      "bytes": 1866,
+      "sha256": "b725c18c5a2f0969f6f7408ed511124f4521138438a70c47e01102827ff60374"
+    },
+    {
+      "file": "computations/exceptional_covers/external_data/atlas_generators_provenance.json",
+      "bytes": 745,
+      "sha256": "5e4687bbbe0afaef3385fe7eb0a315b056168674b89d2b4c168174e881b8c89b"
+    },
+    {
+      "file": "computations/exceptional_covers/external_data/F22d2G1-p3510B0.g1",
+      "bytes": 15826,
+      "sha256": "20ec790fb83d4757057dd7312826a0e7015fecf299a230c33f90ff9e6db9edd5"
+    },
+    {
+      "file": "computations/exceptional_covers/external_data/F22d2G1-p3510B0.g2",
+      "bytes": 18077,
+      "sha256": "3f932ff02be8788dac24135380a706eb952048ea112159795152337da17f3ee9"
+    },
+    {
+      "file": "computations/exceptional_covers/full_outer_blocks.g",
+      "bytes": 2571,
+      "sha256": "9f8f659c785f60f82bf365c18154c92789a438569bf45d98dd5ca4327363a156"
+    },
+    {
+      "file": "computations/exceptional_covers/inertia_module_filters.g",
+      "bytes": 790,
+      "sha256": "00f935685a6b97d2dfb598c814f30ebc0e4c5a6049963e18f8482c715bb68db1"
+    },
+    {
+      "file": "computations/exceptional_covers/l34_actual_outer.g",
+      "bytes": 4677,
+      "sha256": "917b7e6c970ff35b42a07ad591b884e4fd2dc054ae8984628b1973e7b5eadd5f"
+    },
+    {
+      "file": "computations/exceptional_covers/l34_all_odd_projective.g",
+      "bytes": 4711,
+      "sha256": "c52b627469ecbd17535f915613c6f6928dc11a5258002820e539fe7c2fae3407"
+    },
+    {
+      "file": "computations/exceptional_covers/l34_fourfold_actual.g",
+      "bytes": 2909,
+      "sha256": "81898f36934c6aa68bf9fb97e5aac2a7e41022e3960f5901b175387d58313340"
+    },
+    {
+      "file": "computations/exceptional_covers/local_matrix_carriers.g",
+      "bytes": 3837,
+      "sha256": "d87ba982e3100bb9aabd6b0d25832c3ec2ee1567f23ec73b0896aa37c7c33724"
+    },
+    {
+      "file": "computations/exceptional_covers/o8_weyl_normalizers.g",
+      "bytes": 2272,
+      "sha256": "c1c1aa6d7764f0c091ecd327d2e293ebe9f4e33e620f27b41ccaaaf6f0db4d2e"
+    },
+    {
+      "file": "computations/exceptional_covers/sixfold_five_normalizer.g",
+      "bytes": 3108,
+      "sha256": "1ee71193784a7b054179699d1b2ec1a947e88e880e7575f5095bd585ead85894"
+    },
+    {
+      "file": "computations/exceptional_covers/u6_fi22_actual_normalizer.g",
+      "bytes": 2016,
+      "sha256": "bbfe56373ad9244093841cfa57e91378185257bf8059d982cdd9377afc9c71d5"
+    },
+    {
+      "file": "computations/m69_cubic_pinning.py",
+      "bytes": 967,
+      "sha256": "3587dc259a64cdc890576742c4bf932176b448965b20319c781ce73cc74556d6"
+    },
+    {
+      "file": "computations/m69_gggr_dual_functional.wl",
+      "bytes": 821,
+      "sha256": "c28ba7686ad5b58deb84b8ea51fa2f52b0a526d372d9b948b61bbd00947d3632"
+    },
+    {
+      "file": "computations/odd_d_round4_check.py",
+      "bytes": 1746,
+      "sha256": "2677b0d78c220d19209bb672867d6ce893e562bf38eaa15249c94972e521067e"
+    },
+    {
+      "file": "computations/quartic_centre_overlap.py",
+      "bytes": 1090,
+      "sha256": "e4989a17e893cccaf787d5e1c7e9c63cc987c19cb8515c53781def60eb316933"
+    },
+    {
+      "file": "computations/r4_d4_identity.py",
+      "bytes": 2544,
+      "sha256": "67537f8e7c23dbd03158702e6fa158340f54ad8389171a762d9fe5bd6cfbbcbc"
+    },
+    {
+      "file": "computations/r4_d4_springer.g",
+      "bytes": 737,
+      "sha256": "ef835d49a961205d8744e6ede01036dc4cf6db5268daf865076c10d452fa8e5c"
+    },
+    {
+      "file": "computations/round2_colours.g",
+      "bytes": 1462,
+      "sha256": "a2021cd3074fe8d04e3174208502e2faa1628f5a2352d83dffdbc5f6b9f765bb"
+    },
+    {
+      "file": "computations/round2_seven.g",
+      "bytes": 795,
+      "sha256": "24f51d2aa59c092ee8c3fbd93524774c5a0578098e0b435d6bbb9d6715caf78d"
+    },
+    {
+      "file": "computations/round2_smallgrp.g",
+      "bytes": 3271,
+      "sha256": "de8c73da8d271794530d428d5486adbcb9eefb4fa617f4934471d48bfc63523d"
+    },
+    {
+      "file": "data/chevie/e8_nonprincipal22_generic.stdout.txt",
+      "bytes": 25967,
+      "sha256": "0aa9f3338755f7ea0757e2c6cf0becb3c867fde39c510259d07e1d5824c94aee"
+    },
+    {
+      "file": "data/chevie/e8_strict21_actual_sources.out",
+      "bytes": 95720,
+      "sha256": "0950a5a896d6303b300d202521c39ce32789b31a9b781a1e613bbd38dee16be8"
+    },
+    {
+      "file": "data/chevie/e8_strict21_cyclic_tails.out",
+      "bytes": 388923,
+      "sha256": "e8a20d7f56861ccdbe06e11ec5696c8d4461b5946fef24d6b90322f1bf9ecf3f"
+    },
+    {
+      "file": "data/chevie/e8_strict21_exceptional_catalog.out",
+      "bytes": 414898,
+      "sha256": "ab9342b6095ca097e50b05351c339c949339e776867924b5163ef078c1298bfd"
+    },
+    {
+      "file": "INDEX.md",
+      "bytes": 6884,
+      "sha256": "f1582fc5f8d01f4426fc27c49e231853f885caa25c216a12549d764c6b0860b2"
+    },
+    {
+      "file": "README.md",
+      "bytes": 4144,
+      "sha256": "3ee05df9f00f24408f9f86a17f2332a097da7bec08e067e22722427bece08309"
+    },
+    {
+      "file": "requirements.txt",
+      "bytes": 29,
+      "sha256": "0e702ad8de7887f22d3e8ad732998a03b16a2f1c3c7e3b2a70b2235b4b0df9cc"
+    },
+    {
+      "file": "results/computations/cubic_functional_exact.json",
+      "bytes": 1107,
+      "sha256": "5f958754bdf2934b730fad37ece5d4df9e962413457da8bb936c4432214f5a17"
+    },
+    {
+      "file": "results/computations/cubic_functional_smith.json",
+      "bytes": 291,
+      "sha256": "2dfe0a602112cfe38c631242796d9b1fd9aea8433d29135cfb3bc96a6d9dcc4c"
+    },
+    {
+      "file": "results/computations/e66_full_J_valuation.json",
+      "bytes": 368348,
+      "sha256": "e96158f3a0e300717431afdc9eb912b845467a84e9553bb440fbd15a0cefc4fa"
+    },
+    {
+      "file": "results/computations/e66_full_J_wolfram_input.json",
+      "bytes": 21011,
+      "sha256": "07400408d49388d0856786f39ce2216028c04bce063bd7944643110c42fadeae"
+    },
+    {
+      "file": "results/computations/e67_source_regular_phases.json",
+      "bytes": 852,
+      "sha256": "d0990012d353154635581c35aeeafc14f90c611b4396e86c5d7bb8e152d55a78"
+    },
+    {
+      "file": "results/computations/e7_56/independent_carrier.json",
+      "bytes": 2166,
+      "sha256": "0f8588f171d215f56ff92ae566b5f8bd00581cba817ba2e92d26db256f86af17"
+    },
+    {
+      "file": "results/computations/e7_global20_rootdata.json",
+      "bytes": 12345,
+      "sha256": "0aa0b10de5195f9ab7f3a1a20391b2ba50975c4e905920a9c01ef90078cc8a78"
+    },
+    {
+      "file": "results/computations/e7_uniform_carrier_11.json",
+      "bytes": 2222,
+      "sha256": "f51bb4c8030390c96640833b709d8ed6dea2c636029fe5cef5864414a4d648b1"
+    },
+    {
+      "file": "results/computations/e7_whole_76/levi_lattices.json",
+      "bytes": 31750,
+      "sha256": "f1c9dd7afe153c9567fc1f312d2280b063d322489bb10b0bf612d7db89c58765"
+    },
+    {
+      "file": "results/computations/e8_d4_source_structure.json",
+      "bytes": 3340,
+      "sha256": "146474bc96ce7062e39b380ca42b67cc11423caf2a5266a4f474a509e674ff41"
+    },
+    {
+      "file": "results/computations/e8_nonprincipal22_valuations.json",
+      "bytes": 101012,
+      "sha256": "2db0f597deaf5f2ae7ca807088cc85457c9292c8485ebea18150a06b9289b0d4"
+    },
+    {
+      "file": "results/computations/e8_phi4_sylow5.json",
+      "bytes": 4289,
+      "sha256": "889f85085ebae21e0a1d3f54935f5bf9c04103b34fa397ecdfac5d240b03b884"
+    },
+    {
+      "file": "results/computations/e8_principal_three_coxeter_11.json",
+      "bytes": 4402,
+      "sha256": "6093f8e28bc7db020c571a761b4d1d5dfe60c7b723ffc329059615745d9a4ce7"
+    },
+    {
+      "file": "results/computations/e8_quartic19_A7A1_external_A1.json",
+      "bytes": 341,
+      "sha256": "67e1445a761e81071773a1c1ed1729cbfe43f0f9fd576acd7e158bf16f4c04a9"
+    },
+    {
+      "file": "results/computations/e8_quartic19_A7A1_external_A1_phase.json",
+      "bytes": 619,
+      "sha256": "78f63e891b0872eb4ff6d35cfd3f0b35d0379fbb115d6490b75e1b016044abc9"
+    },
+    {
+      "file": "results/computations/e8_quartic19_A7A1_regular.json",
+      "bytes": 337,
+      "sha256": "e7d34e170a863cab146afaf9811d03de9a6491755bed5f3139e1523e743fcbfc"
+    },
+    {
+      "file": "results/computations/e8_quartic19_A7A1_regular_phase.json",
+      "bytes": 515,
+      "sha256": "88fa1c5b44ce9737a5b4ff2203cc0232f7d7518ac54b03ffe11f946a0a8db403"
+    },
+    {
+      "file": "results/computations/e8_quartic19_D5A3_A1q2.json",
+      "bytes": 338,
+      "sha256": "d6e94baabff913d9cac7149a6c128eab72fb9acf97d8d64323f910c55f09b341"
+    },
+    {
+      "file": "results/computations/e8_quartic19_D5A3_A1q2_phase.json",
+      "bytes": 612,
+      "sha256": "cf93d9857b792cf240130bf690e3352ae51b136034c7f8da8bd157e09343b170"
+    },
+    {
+      "file": "results/computations/e8_quartic19_D5A3_internal_A3.json",
+      "bytes": 340,
+      "sha256": "7222cd3bf1f948ceaa766e58d85e34666fda27315d76709413469d2bb05fa75f"
+    },
+    {
+      "file": "results/computations/e8_quartic19_D5A3_internal_A3_phase.json",
+      "bytes": 600,
+      "sha256": "1a47e71acf7dc8ae48241c2eaa5c01e8d41d5ff86c1835f653a76af118458a5c"
+    },
+    {
+      "file": "results/computations/e8_quartic19_D5A3_regular.json",
+      "bytes": 340,
+      "sha256": "0355f81f2ce03e5b5fe34c0e2cdb846722263050ed445c2e71efeaa4181301eb"
+    },
+    {
+      "file": "results/computations/e8_quartic19_D5A3_regular_phase.json",
+      "bytes": 530,
+      "sha256": "9a342ee4b818575a50131c9969c3a4d85650e740a96d77399d8eb1f48395dad6"
+    },
+    {
+      "file": "results/computations/e8_quartic19_explicit_characters.json",
+      "bytes": 5539,
+      "sha256": "14ed889c095fe96004d733a95968ba909085d6c7695224e9c8f4874a376a4e7a"
+    },
+    {
+      "file": "results/computations/e8_quartic19_external_lift_scan.json",
+      "bytes": 1110,
+      "sha256": "8b686fd099b0feab63e9e34256f2460d59af5f100d67c0fa038ba4e67df9fb2b"
+    },
+    {
+      "file": "results/computations/e8_quartic19_field_certificate.json",
+      "bytes": 1376,
+      "sha256": "fdd4266a16c54478c7df77e3a84d9fe6e3032a98aa0ac18db7b0b29760ec842c"
+    },
+    {
+      "file": "results/computations/e8_quartic19_internal_source.json",
+      "bytes": 535,
+      "sha256": "761762e4b0bc8edf22ff13c50fb5fad90b7db64cf8d9c1152558ee6fbe254828"
+    },
+    {
+      "file": "results/computations/e8_quartic19_source_kernel.json",
+      "bytes": 720,
+      "sha256": "e316dae8e613838327939f5acb32a75aaf42bcd6a46137f64f95a598b03413b9"
+    },
+    {
+      "file": "results/computations/e8_quartic19_structural.json",
+      "bytes": 5269,
+      "sha256": "dbbf3eea27459d1b25029d5451d555e9d067ccc6f17b48d3fa98deb6ba3cf6f6"
+    },
+    {
+      "file": "results/computations/e8_strict21_actual_sources.json",
+      "bytes": 1019521,
+      "sha256": "c14b2e529988e1de4c408594dc85de502829ce1f83baaf81d8d1a870fea761a6"
+    },
+    {
+      "file": "results/computations/e8_strict21_cyclic_tails.json",
+      "bytes": 4868261,
+      "sha256": "61856309ba2f6594de689f02c2feaf355aab925842723491132e6e2ad8b3aa87"
+    },
+    {
+      "file": "results/computations/e8_three_five_75/geometry.json",
+      "bytes": 24955,
+      "sha256": "25fac1baa60c96f89189036043bdc0e54cf90281851ea0946ae9c919250d26bb"
+    },
+    {
+      "file": "results/computations/e8_tits_engine_root17.json",
+      "bytes": 1010,
+      "sha256": "31d3814f3c7861056f3b60c93ff1e70c2ae8262813248a9d2355d54a4f26486a"
+    },
+    {
+      "file": "results/computations/m69_cubic_pinning.json",
+      "bytes": 700,
+      "sha256": "448831dc1b7c4553ad193719e667e45df0c770039d0d91ac362a0c45de6fefcf"
+    },
+    {
+      "file": "results/computations/quartic_centre_overlap.json",
+      "bytes": 809,
+      "sha256": "a6888afacf0db189cfa04a3ba1b9c391d67ce1f4a9dfc6386872a417eef6d9e1"
+    },
+    {
+      "file": "results/computations/r4_d4_identity.json",
+      "bytes": 1120,
+      "sha256": "273c4919387a7b9f9b68c46eb6b5c0369e92067a1b6347ea7cc622e37e91b74b"
+    },
+    {
+      "file": "results/execution_receipt.json",
+      "bytes": 25124,
+      "sha256": "32592290995fd0fd44edfe3fc968b41b8c54bc3c32f8aeed5a9198161cfd5699"
+    },
+    {
+      "file": "results/gap/c60_independent_block_and_kernel.g.txt",
+      "bytes": 6348,
+      "sha256": "f11e756f5ab23857a943ccb8cd8b20aa904cfa49428f06d071336c87ce7e6b32"
+    },
+    {
+      "file": "results/gap/e7_56/independent_coefficients.g.txt",
+      "bytes": 7052,
+      "sha256": "cab6fec467b59e0a5b2c2b2cc37b0d4b6fd45267f2fe54d3567210a7c4bb6ed3"
+    },
+    {
+      "file": "results/gap/e8_phi4_sylow5.g.txt",
+      "bytes": 66,
+      "sha256": "5f89f2dacdea4bdb9f660d5ce118f16aaccc6388cc7c89b47d8bb0428de1a330"
+    },
+    {
+      "file": "results/gap/exceptional_covers/central_block_quotients.g.txt",
+      "bytes": 4183,
+      "sha256": "d0efa81a94f784a24126899dddc32a546ae84c97bc16e2c17bcd6824a4b57cbc"
+    },
+    {
+      "file": "results/gap/exceptional_covers/e6_three_actual_outer.g.txt",
+      "bytes": 1058,
+      "sha256": "70ac88ccf6e4a5e70640baf38c79ab941ea413180b55cc9f03fa35eda3884d8c"
+    },
+    {
+      "file": "results/gap/exceptional_covers/full_outer_blocks.g.txt",
+      "bytes": 54815,
+      "sha256": "63b26baff68d10fcbf1daf89c50dc53de2c195ef28f99cd9fdbc88626a7fab1c"
+    },
+    {
+      "file": "results/gap/exceptional_covers/inertia_module_filters.g.txt",
+      "bytes": 926,
+      "sha256": "6b3777bbf2e11a3b530900f2062eb240126879fb67fdb1dfee279b4a2cc257f2"
+    },
+    {
+      "file": "results/gap/exceptional_covers/l34_actual_outer.g.txt",
+      "bytes": 1937,
+      "sha256": "d197b5290abb27e51b8be0ef34e1bf0b63599958482158eae6675c714ceb8948"
+    },
+    {
+      "file": "results/gap/exceptional_covers/l34_all_odd_projective.g.txt",
+      "bytes": 2740,
+      "sha256": "0c61a4c3581d0959c26007a481ccedb179dbfef1295b7e3c6de7b3d2f8aa595f"
+    },
+    {
+      "file": "results/gap/exceptional_covers/l34_fourfold_actual.g.txt",
+      "bytes": 1302,
+      "sha256": "2f135867c3ed70c69f2f8078d806fd1617e1f4fb2e0d3189f1f447a6603a3182"
+    },
+    {
+      "file": "results/gap/exceptional_covers/local_matrix_carriers.g.txt",
+      "bytes": 751,
+      "sha256": "3a397569e6d5ae82a52db548fd40db5cbde89c7d5b155a3a3b11e93a81765911"
+    },
+    {
+      "file": "results/gap/exceptional_covers/o8_weyl_normalizers.g.txt",
+      "bytes": 775,
+      "sha256": "497096b4bc993f0e5d6c2ab96a5948849e3dc8fcc62456edd4d2c81b8b2b8e63"
+    },
+    {
+      "file": "results/gap/exceptional_covers/sixfold_five_normalizer.g.txt",
+      "bytes": 746,
+      "sha256": "6a936531dabe9510f92eec2d0903c9cdf85caa43dacef722dc6195a2f00afa74"
+    },
+    {
+      "file": "results/gap/exceptional_covers/u6_fi22_actual_normalizer.g.txt",
+      "bytes": 915,
+      "sha256": "ea29fe986ad08cdd2b7bb83b25ba192caa0ef59956de9a82e267984afd725435"
+    },
+    {
+      "file": "results/gap/r4_d4_springer.g.txt",
+      "bytes": 1372,
+      "sha256": "84301f77064ae29a613ac4744e9e29cb9f6b8c410f844607c44cf3c64179567a"
+    },
+    {
+      "file": "results/gap/round2_colours.g.txt",
+      "bytes": 2129,
+      "sha256": "a3ae43333ad4a1c62524dc4c4936e8b9b2f60d4a85531b0d891edc2512c47894"
+    },
+    {
+      "file": "results/gap/round2_seven.g.txt",
+      "bytes": 93,
+      "sha256": "4154abb567f1071fb4dd28fdf0dcfc7db5ff7216abee22e7f03adb4d704572f2"
+    },
+    {
+      "file": "results/gap/round2_smallgrp.g.txt",
+      "bytes": 787,
+      "sha256": "7594009029be057118a758f119f4ebbfbfe8a801ddbe49f29f4e7d3ae797a319"
+    },
+    {
+      "file": "results/outputs/e6_carrier_round3_checks.json",
+      "bytes": 636,
+      "sha256": "0a69465a453222579f2adf78484e52cfc401db1ac63bb85275ce45748804df29"
+    },
+    {
+      "file": "results/outputs/e6_cubic_index_round3_checks.json",
+      "bytes": 1977,
+      "sha256": "96eda7377fa57322814f4c25718cef2877da4addedefc18bb1f7bf49a3884efa"
+    },
+    {
+      "file": "results/outputs/e6_D4_carrier_round3_checks.json",
+      "bytes": 651,
+      "sha256": "9b7a3e2736238f42f8bc0fd1387b9025d659581b6a2191082b54d952918266b7"
+    },
+    {
+      "file": "results/outputs/e6_full_root_geometry_round3.json",
+      "bytes": 61802,
+      "sha256": "c932f53fe642c7837a770e34d8a4a6360c014f9125a96a6c23cf6e5a977a03cc"
+    },
+    {
+      "file": "results/outputs/odd_d_round4_exact_check.json",
+      "bytes": 531,
+      "sha256": "21868056b790f79b73a90aae0897953510ebd0170216ef876e104fcdcad9b594"
+    },
+    {
+      "file": "run.py",
+      "bytes": 5547,
+      "sha256": "061590d4138566dec45ada15183f9ff3675015e1349de801cea3686970872286"
+    },
+    {
+      "file": "SOURCE_VERSIONS.json",
+      "bytes": 16956,
+      "sha256": "ac8061d5548027dc9da29a13b134a9a9b22f40b0d85682446f05a926a2504807"
+    },
+    {
+      "file": "verify.py",
+      "bytes": 475,
+      "sha256": "382770f4a20c3522c05e9f3a652ca6685f6bc3550a9880955a01352d69ad6876"
+    }
+  ]
+}

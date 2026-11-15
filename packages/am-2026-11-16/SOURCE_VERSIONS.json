@@ -1,0 +1,362 @@
+[
+  {
+    "file": "computations/c60_independent_block_and_kernel.g",
+    "source_sha256": "734a71fee18df0e1f7a287647b500b1cb54d367d5dbc1ab1cbf932d14a099825",
+    "packaged_sha256": "734a71fee18df0e1f7a287647b500b1cb54d367d5dbc1ab1cbf932d14a099825",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/exceptional_covers/central_block_quotients.g",
+    "source_sha256": "bf41a5a4433b16f87775fdc04c3eb6c99c916a33a65fedfa1f5c4e3f2184cf28",
+    "packaged_sha256": "bf41a5a4433b16f87775fdc04c3eb6c99c916a33a65fedfa1f5c4e3f2184cf28",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e66_full_J_valuation.py",
+    "source_sha256": "71a6170265d555517f06b3206a58cc188f36e129688444b7249e859e93587d06",
+    "packaged_sha256": "71a6170265d555517f06b3206a58cc188f36e129688444b7249e859e93587d06",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e6_D4_carrier_round3_checks.py",
+    "source_sha256": "48588133d15b4dbbe298e97508c2e0737206cedb65ff532279a87a52ded59c05",
+    "packaged_sha256": "ca6cd16236510f8dd6ceb7bbd1cd70663958c903cd297a1ec8102f4663f55002",
+    "change": "line endings normalized to LF"
+  },
+  {
+    "file": "computations/e6_carrier_round3_checks.py",
+    "source_sha256": "c58b7681b67d61be958b206eae66bce9f03762ea4caaca019fed9c1daf47b16a",
+    "packaged_sha256": "047ca291a423cacbec8c833a7ebb8e91051a8f3c50863b416a9ec6db8dcaa988",
+    "change": "line endings normalized to LF"
+  },
+  {
+    "file": "computations/e6_cubic_index_round3_checks.py",
+    "source_sha256": "5ba72a69c3e1adfd2fe449bee982c45bdcf742835a408a2ad80853c05421e32c",
+    "packaged_sha256": "8f7958444b27d896cac3a110e2d1eae7a53f8e2f00550e2b1f64305835cdc3f8",
+    "change": "line endings normalized to LF"
+  },
+  {
+    "file": "computations/e6_full_root_geometry_round3.py",
+    "source_sha256": "950b8346b42b9be01ebe4b85b79dde1d1dc898fc6de8f0cd0e68d0b0cca60305",
+    "packaged_sha256": "52ab2969d918229680e2780b057d0d8e6c115d17b9c0660a4dc8d33859090f39",
+    "change": "line endings normalized to LF"
+  },
+  {
+    "file": "computations/exceptional_covers/e6_three_actual_outer.g",
+    "source_sha256": "b725c18c5a2f0969f6f7408ed511124f4521138438a70c47e01102827ff60374",
+    "packaged_sha256": "b725c18c5a2f0969f6f7408ed511124f4521138438a70c47e01102827ff60374",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e7_global20_rootdata.py",
+    "source_sha256": "6e72ca1a7596eb115f0bb11340060f29c35686e3131a49f6f32e11b217adb17e",
+    "packaged_sha256": "6e72ca1a7596eb115f0bb11340060f29c35686e3131a49f6f32e11b217adb17e",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e7_uniform_carrier_11.py",
+    "source_sha256": "b846567a2024da94c2cf35bd219fcfcf72344c507857c93af6dc4425e976e2bf",
+    "packaged_sha256": "b846567a2024da94c2cf35bd219fcfcf72344c507857c93af6dc4425e976e2bf",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e8_nonprincipal22_generic.g",
+    "source_sha256": "223f6957224bdc567caa70c63f429fda94b1ee765330877d1a2370856e3287f9",
+    "packaged_sha256": "223f6957224bdc567caa70c63f429fda94b1ee765330877d1a2370856e3287f9",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e8_nonprincipal22_valuations.py",
+    "source_sha256": "4aff2c4e7c784781b372ac2c1d085129e4be8a969c9d1705a0f13582dfc5c043",
+    "packaged_sha256": "6c21d82026fc831571cb1d1768456b48b051b737ac013bf3386cf4de59aadcf5",
+    "change": "line endings normalized to LF"
+  },
+  {
+    "file": "computations/e8_quartic19.py",
+    "source_sha256": "9d27af60ab86b8be77bebb22a1ac986ef41e5a6c41d43b5699561e30fb4f7506",
+    "packaged_sha256": "9d27af60ab86b8be77bebb22a1ac986ef41e5a6c41d43b5699561e30fb4f7506",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e8_quartic19_characters.py",
+    "source_sha256": "612d839bad766ca22185dffab146fb00b996781092599ac165da4d14039cf318",
+    "packaged_sha256": "612d839bad766ca22185dffab146fb00b996781092599ac165da4d14039cf318",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e8_quartic19_field.py",
+    "source_sha256": "82e228404fa46aff8e717b288a69c775bef8b4d591254ce4fb47ca9369bdd9b1",
+    "packaged_sha256": "82e228404fa46aff8e717b288a69c775bef8b4d591254ce4fb47ca9369bdd9b1",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e8_quartic19_internal_source.py",
+    "source_sha256": "13fc3cf2685f7b9252c08771601938c5b8fd2b8abec887edf2005abed721ac81",
+    "packaged_sha256": "13fc3cf2685f7b9252c08771601938c5b8fd2b8abec887edf2005abed721ac81",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e8_quartic19_liftscan.py",
+    "source_sha256": "5187597b4a7264b8444a2fb62d220c1de07592c4d56e69fc8abceced6bf0e13a",
+    "packaged_sha256": "5187597b4a7264b8444a2fb62d220c1de07592c4d56e69fc8abceced6bf0e13a",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e8_quartic19_phase.py",
+    "source_sha256": "03ec0a5b2742c6f9ca9d5f5ae658de5975814405b0b0b8d94bef6f4f2c57bded",
+    "packaged_sha256": "03ec0a5b2742c6f9ca9d5f5ae658de5975814405b0b0b8d94bef6f4f2c57bded",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e8_quartic19_structural.py",
+    "source_sha256": "25097d4d0befda9150e0eb3b48390ddf004820d3787963c00e00191fb7cfb418",
+    "packaged_sha256": "25097d4d0befda9150e0eb3b48390ddf004820d3787963c00e00191fb7cfb418",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e8_strict21_actual_sources.g",
+    "source_sha256": "a69674ff10dcc3a93006ede722b626e1baa5afee0d0bed49842ac69528bc19f3",
+    "packaged_sha256": "a69674ff10dcc3a93006ede722b626e1baa5afee0d0bed49842ac69528bc19f3",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e8_strict21_check_tails.py",
+    "source_sha256": "a7cc533466cd3f5f50aa44729c281eb75e47365254d1985699a6844b9b217a1c",
+    "packaged_sha256": "a7cc533466cd3f5f50aa44729c281eb75e47365254d1985699a6844b9b217a1c",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e8_strict21_cyclic_tails.g",
+    "source_sha256": "65a35e4283ae258f1e599e9ce84e09353049a2dd3354347342d9f20757eb1545",
+    "packaged_sha256": "65a35e4283ae258f1e599e9ce84e09353049a2dd3354347342d9f20757eb1545",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e8_strict21_exceptional_catalog.g",
+    "source_sha256": "d678b9db48dafff22d859f7b4ce6ce9d22a0e17c1c1b4bdbeb8de4dcf4ac98db",
+    "packaged_sha256": "d678b9db48dafff22d859f7b4ce6ce9d22a0e17c1c1b4bdbeb8de4dcf4ac98db",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e8_strict21_parse_actual.py",
+    "source_sha256": "9a8f7f96a0454250359b9ffb8b673b37fccab07721c4ab4703d78272a1966fcc",
+    "packaged_sha256": "9a8f7f96a0454250359b9ffb8b673b37fccab07721c4ab4703d78272a1966fcc",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e8_tits_engine_root17.py",
+    "source_sha256": "e05d3f1ab9814389dee2f9ad8d9071831f857a814e4d2b46ac24744254a3ff2a",
+    "packaged_sha256": "e05d3f1ab9814389dee2f9ad8d9071831f857a814e4d2b46ac24744254a3ff2a",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/exceptional_covers/full_outer_blocks.g",
+    "source_sha256": "9f8f659c785f60f82bf365c18154c92789a438569bf45d98dd5ca4327363a156",
+    "packaged_sha256": "9f8f659c785f60f82bf365c18154c92789a438569bf45d98dd5ca4327363a156",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/exceptional_covers/inertia_module_filters.g",
+    "source_sha256": "00f935685a6b97d2dfb598c814f30ebc0e4c5a6049963e18f8482c715bb68db1",
+    "packaged_sha256": "00f935685a6b97d2dfb598c814f30ebc0e4c5a6049963e18f8482c715bb68db1",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/exceptional_covers/l34_actual_outer.g",
+    "source_sha256": "917b7e6c970ff35b42a07ad591b884e4fd2dc054ae8984628b1973e7b5eadd5f",
+    "packaged_sha256": "917b7e6c970ff35b42a07ad591b884e4fd2dc054ae8984628b1973e7b5eadd5f",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/exceptional_covers/l34_all_odd_projective.g",
+    "source_sha256": "c52b627469ecbd17535f915613c6f6928dc11a5258002820e539fe7c2fae3407",
+    "packaged_sha256": "c52b627469ecbd17535f915613c6f6928dc11a5258002820e539fe7c2fae3407",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/exceptional_covers/l34_fourfold_actual.g",
+    "source_sha256": "81898f36934c6aa68bf9fb97e5aac2a7e41022e3960f5901b175387d58313340",
+    "packaged_sha256": "81898f36934c6aa68bf9fb97e5aac2a7e41022e3960f5901b175387d58313340",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/exceptional_covers/local_matrix_carriers.g",
+    "source_sha256": "d87ba982e3100bb9aabd6b0d25832c3ec2ee1567f23ec73b0896aa37c7c33724",
+    "packaged_sha256": "d87ba982e3100bb9aabd6b0d25832c3ec2ee1567f23ec73b0896aa37c7c33724",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/m69_cubic_pinning.py",
+    "source_sha256": "3587dc259a64cdc890576742c4bf932176b448965b20319c781ce73cc74556d6",
+    "packaged_sha256": "3587dc259a64cdc890576742c4bf932176b448965b20319c781ce73cc74556d6",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/m69_gggr_dual_functional.wl",
+    "source_sha256": "c28ba7686ad5b58deb84b8ea51fa2f52b0a526d372d9b948b61bbd00947d3632",
+    "packaged_sha256": "c28ba7686ad5b58deb84b8ea51fa2f52b0a526d372d9b948b61bbd00947d3632",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/exceptional_covers/o8_weyl_normalizers.g",
+    "source_sha256": "c1c1aa6d7764f0c091ecd327d2e293ebe9f4e33e620f27b41ccaaaf6f0db4d2e",
+    "packaged_sha256": "c1c1aa6d7764f0c091ecd327d2e293ebe9f4e33e620f27b41ccaaaf6f0db4d2e",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/odd_d_round4_check.py",
+    "source_sha256": "d2c05969b7f89dcc3b21c3d22140071580593822ff645002a1840d2b3629dbf7",
+    "packaged_sha256": "2677b0d78c220d19209bb672867d6ce893e562bf38eaa15249c94972e521067e",
+    "change": "line endings normalized to LF"
+  },
+  {
+    "file": "computations/round2_colours.g",
+    "source_sha256": "a2021cd3074fe8d04e3174208502e2faa1628f5a2352d83dffdbc5f6b9f765bb",
+    "packaged_sha256": "a2021cd3074fe8d04e3174208502e2faa1628f5a2352d83dffdbc5f6b9f765bb",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/round2_seven.g",
+    "source_sha256": "e5cd59743c17949a9c80c0753c18b23edcf8c69d7f43798c48806915c4007aa9",
+    "packaged_sha256": "24f51d2aa59c092ee8c3fbd93524774c5a0578098e0b435d6bbb9d6715caf78d",
+    "change": "line endings normalized to LF"
+  },
+  {
+    "file": "computations/round2_smallgrp.g",
+    "source_sha256": "5bcef90a4fac2e58184188c123e421fe4cc60ef6e4221531949c6276044eab5c",
+    "packaged_sha256": "de8c73da8d271794530d428d5486adbcb9eefb4fa617f4934471d48bfc63523d",
+    "change": "line endings normalized to LF"
+  },
+  {
+    "file": "computations/exceptional_covers/sixfold_five_normalizer.g",
+    "source_sha256": "1ee71193784a7b054179699d1b2ec1a947e88e880e7575f5095bd585ead85894",
+    "packaged_sha256": "1ee71193784a7b054179699d1b2ec1a947e88e880e7575f5095bd585ead85894",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/exceptional_covers/u6_fi22_actual_normalizer.g",
+    "source_sha256": "bbfe56373ad9244093841cfa57e91378185257bf8059d982cdd9377afc9c71d5",
+    "packaged_sha256": "bbfe56373ad9244093841cfa57e91378185257bf8059d982cdd9377afc9c71d5",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e67_source_regular_phases.wl",
+    "source_sha256": "5a4b3e69c894eeb10f2b75c5eb83e50b29520242971dcf76a4c68ee5c68fc9c1",
+    "packaged_sha256": "5a4b3e69c894eeb10f2b75c5eb83e50b29520242971dcf76a4c68ee5c68fc9c1",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/cubic_functional_exact.py",
+    "source_sha256": "52a456ea3b487ed23a03c9ef492426e099f9d75cbcca4f149fa75bec42da66f1",
+    "packaged_sha256": "52a456ea3b487ed23a03c9ef492426e099f9d75cbcca4f149fa75bec42da66f1",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/cubic_functional_smith.py",
+    "source_sha256": "c08a82049f0c777bb0f9e971b0e72074701e28a0f1e10ac429182d4c68792d10",
+    "packaged_sha256": "c08a82049f0c777bb0f9e971b0e72074701e28a0f1e10ac429182d4c68792d10",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e67_source_regular_phases.py",
+    "source_sha256": "a84e4237cfbc5f7c9d9b5f0c411cb26984913a061f470f76afdbde9b96a22868",
+    "packaged_sha256": "a84e4237cfbc5f7c9d9b5f0c411cb26984913a061f470f76afdbde9b96a22868",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/quartic_centre_overlap.py",
+    "source_sha256": "e4989a17e893cccaf787d5e1c7e9c63cc987c19cb8515c53781def60eb316933",
+    "packaged_sha256": "e4989a17e893cccaf787d5e1c7e9c63cc987c19cb8515c53781def60eb316933",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/r4_d4_identity.py",
+    "source_sha256": "67537f8e7c23dbd03158702e6fa158340f54ad8389171a762d9fe5bd6cfbbcbc",
+    "packaged_sha256": "67537f8e7c23dbd03158702e6fa158340f54ad8389171a762d9fe5bd6cfbbcbc",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/r4_d4_springer.g",
+    "source_sha256": "ef835d49a961205d8744e6ede01036dc4cf6db5268daf865076c10d452fa8e5c",
+    "packaged_sha256": "ef835d49a961205d8744e6ede01036dc4cf6db5268daf865076c10d452fa8e5c",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/exceptional_covers/actual_c2_pairing.g",
+    "source_sha256": "dfa56119ee6bf69b06b367883ff332aabe8ea56737fa27d4b0a47dec88a93555",
+    "packaged_sha256": "dfa56119ee6bf69b06b367883ff332aabe8ea56737fa27d4b0a47dec88a93555",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/exceptional_covers/external_data/F22d2G1-p3510B0.g1",
+    "source_sha256": "20ec790fb83d4757057dd7312826a0e7015fecf299a230c33f90ff9e6db9edd5",
+    "packaged_sha256": "20ec790fb83d4757057dd7312826a0e7015fecf299a230c33f90ff9e6db9edd5",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/exceptional_covers/external_data/F22d2G1-p3510B0.g2",
+    "source_sha256": "3f932ff02be8788dac24135380a706eb952048ea112159795152337da17f3ee9",
+    "packaged_sha256": "3f932ff02be8788dac24135380a706eb952048ea112159795152337da17f3ee9",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/exceptional_covers/external_data/atlas_generators_provenance.json",
+    "source_sha256": "5e4687bbbe0afaef3385fe7eb0a315b056168674b89d2b4c168174e881b8c89b",
+    "packaged_sha256": "5e4687bbbe0afaef3385fe7eb0a315b056168674b89d2b4c168174e881b8c89b",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e7_whole_76/levi_lattices.py",
+    "source_sha256": "13185634a91862336d429953d5ea46e744a493906fce5c8b9e05be91122693cf",
+    "packaged_sha256": "13185634a91862336d429953d5ea46e744a493906fce5c8b9e05be91122693cf",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e7_56/independent_carrier.py",
+    "source_sha256": "fa17587bb9e85026a3eafc7c42debfe2fe63708af7266216b95e102a9517984c",
+    "packaged_sha256": "fa17587bb9e85026a3eafc7c42debfe2fe63708af7266216b95e102a9517984c",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e7_56/independent_coefficients.py",
+    "source_sha256": "5a46af11b249e524cb26369753ca84ad0edeecf1a941c5101b4c76504c71a726",
+    "packaged_sha256": "5a46af11b249e524cb26369753ca84ad0edeecf1a941c5101b4c76504c71a726",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e7_56/independent_coefficients.g",
+    "source_sha256": "689758c0a4c44b8ac0357f194c8b66f354de0d3a4ec89d72360a33c8e35fb7f6",
+    "packaged_sha256": "689758c0a4c44b8ac0357f194c8b66f354de0d3a4ec89d72360a33c8e35fb7f6",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e8_phi4_sylow5.py",
+    "source_sha256": "7fcf94b899218f3c00d3a687d9985b2829d0957ff74d513c5b7c5137e2b969ec",
+    "packaged_sha256": "7fcf94b899218f3c00d3a687d9985b2829d0957ff74d513c5b7c5137e2b969ec",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e8_phi4_sylow5.g",
+    "source_sha256": "f8fdab6497aca9a03697450d63fd4bc478795b330befa59a3a314ea21436e782",
+    "packaged_sha256": "f8fdab6497aca9a03697450d63fd4bc478795b330befa59a3a314ea21436e782",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e8_d4_source_structure.py",
+    "source_sha256": "c508b51877998b75c7982b57bc36eaef7a3666781af8fca6b96b947106f5b3ce",
+    "packaged_sha256": "c508b51877998b75c7982b57bc36eaef7a3666781af8fca6b96b947106f5b3ce",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e8_principal_three_coxeter_11.py",
+    "source_sha256": "494d888a867e41b3a87dc525b2da1ae1fbe0ea6219f25c446bf138697a734d10",
+    "packaged_sha256": "494d888a867e41b3a87dc525b2da1ae1fbe0ea6219f25c446bf138697a734d10",
+    "change": "unchanged"
+  },
+  {
+    "file": "computations/e8_three_five_75/geometry.py",
+    "source_sha256": "43321f32c639bbca8d98f777a7b1860f6210d0a2312375e77ef0004bc4b28f57",
+    "packaged_sha256": "43321f32c639bbca8d98f777a7b1860f6210d0a2312375e77ef0004bc4b28f57",
+    "change": "unchanged"
+  }
+]

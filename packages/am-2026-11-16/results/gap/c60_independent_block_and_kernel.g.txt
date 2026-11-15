@@ -1,0 +1,119 @@
+TABLE_INPUT|2.L3(4)|order_factors=[ [ 2, 7 ], [ 3, 2 ], [ 5, 1 ], [ 7, 1 ] 
+ ]|centre_orders=[ 1, 2 ]
+UNCACHED_BLOCK_CHECK|2.L3(4)|p=3|before_cached=false|blocks=8|defects=
+[ [ 0, 6 ], [ 2, 2 ] ]
+UNCACHED_BLOCK_CHECK|2.L3(4)|p=5|before_cached=false|blocks=12|defects=
+[ [ 0, 10 ], [ 1, 2 ] ]
+UNCACHED_BLOCK_CHECK|2.L3(4)|p=7|before_cached=false|blocks=10|defects=
+[ [ 0, 8 ], [ 1, 2 ] ]
+TABLE_INPUT|4_1.L3(4)|order_factors=[ [ 2, 8 ], [ 3, 2 ], [ 5, 1 ], [ 7, 1 ] 
+ ]|centre_orders=[ 1, 4, 2, 4 ]
+UNCACHED_BLOCK_CHECK|4_1.L3(4)|p=3|before_cached=false|blocks=10|defects=
+[ [ 0, 6 ], [ 2, 4 ] ]
+UNCACHED_BLOCK_CHECK|4_1.L3(4)|p=5|before_cached=false|blocks=18|defects=
+[ [ 0, 14 ], [ 1, 4 ] ]
+UNCACHED_BLOCK_CHECK|4_1.L3(4)|p=7|before_cached=false|blocks=14|defects=
+[ [ 0, 10 ], [ 1, 4 ] ]
+TABLE_INPUT|4_2.L3(4)|order_factors=[ [ 2, 8 ], [ 3, 2 ], [ 5, 1 ], [ 7, 1 ] 
+ ]|centre_orders=[ 1, 4, 2, 4 ]
+UNCACHED_BLOCK_CHECK|4_2.L3(4)|p=3|before_cached=false|blocks=12|defects=
+[ [ 0, 8 ], [ 2, 4 ] ]
+UNCACHED_BLOCK_CHECK|4_2.L3(4)|p=5|before_cached=false|blocks=20|defects=
+[ [ 0, 16 ], [ 1, 4 ] ]
+UNCACHED_BLOCK_CHECK|4_2.L3(4)|p=7|before_cached=false|blocks=16|defects=
+[ [ 0, 12 ], [ 1, 4 ] ]
+TABLE_INPUT|6.L3(4)|order_factors=[ [ 2, 7 ], [ 3, 3 ], [ 5, 1 ], [ 7, 1 ] 
+ ]|centre_orders=[ 1, 6, 3, 2, 3, 6 ]
+UNCACHED_BLOCK_CHECK|6.L3(4)|p=3|before_cached=false|blocks=8|defects=
+[ [ 1, 6 ], [ 3, 2 ] ]
+UNCACHED_BLOCK_CHECK|6.L3(4)|p=5|before_cached=false|blocks=32|defects=
+[ [ 0, 26 ], [ 1, 6 ] ]
+UNCACHED_BLOCK_CHECK|6.L3(4)|p=7|before_cached=false|blocks=26|defects=
+[ [ 0, 20 ], [ 1, 6 ] ]
+TABLE_INPUT|12_1.L3(4)|order_factors=[ [ 2, 8 ], [ 3, 3 ], [ 5, 1 ], [ 7, 1 ] 
+ ]|centre_orders=[ 1, 12, 6, 4, 3, 12, 2, 12, 3, 4, 6, 12 ]
+UNCACHED_BLOCK_CHECK|12_1.L3(4)|p=3|before_cached=false|blocks=10|defects=
+[ [ 1, 6 ], [ 3, 4 ] ]
+UNCACHED_BLOCK_CHECK|12_1.L3(4)|p=5|before_cached=false|blocks=46|defects=
+[ [ 0, 34 ], [ 1, 12 ] ]
+UNCACHED_BLOCK_CHECK|12_1.L3(4)|p=7|before_cached=false|blocks=34|defects=
+[ [ 0, 22 ], [ 1, 12 ] ]
+TABLE_INPUT|12_2.L3(4)|order_factors=[ [ 2, 8 ], [ 3, 3 ], [ 5, 1 ], [ 7, 1 ] 
+ ]|centre_orders=[ 1, 12, 6, 4, 3, 12, 2, 12, 3, 4, 6, 12 ]
+UNCACHED_BLOCK_CHECK|12_2.L3(4)|p=3|before_cached=false|blocks=12|defects=
+[ [ 1, 8 ], [ 3, 4 ] ]
+UNCACHED_BLOCK_CHECK|12_2.L3(4)|p=5|before_cached=false|blocks=52|defects=
+[ [ 0, 40 ], [ 1, 12 ] ]
+UNCACHED_BLOCK_CHECK|12_2.L3(4)|p=7|before_cached=false|blocks=40|defects=
+[ [ 0, 28 ], [ 1, 12 ] ]
+TABLE_INPUT|2.U6(2)|order_factors=[ [ 2, 16 ], [ 3, 6 ], [ 5, 1 ], [ 7, 1 ], 
+  [ 11, 1 ] ]|centre_orders=[ 1, 2 ]
+UNCACHED_BLOCK_CHECK|2.U6(2)|p=3|before_cached=false|blocks=7|defects=
+[ [ 0, 3 ], [ 1, 2 ], [ 6, 2 ] ]
+UNCACHED_BLOCK_CHECK|2.U6(2)|p=5|before_cached=false|blocks=53|defects=
+[ [ 0, 47 ], [ 1, 6 ] ]
+UNCACHED_BLOCK_CHECK|2.U6(2)|p=7|before_cached=false|blocks=65|defects=
+[ [ 0, 63 ], [ 1, 2 ] ]
+TABLE_INPUT|6.U6(2)|order_factors=[ [ 2, 16 ], [ 3, 7 ], [ 5, 1 ], [ 7, 1 ], 
+  [ 11, 1 ] ]|centre_orders=[ 1, 6, 3, 2, 3, 6 ]
+UNCACHED_BLOCK_CHECK|6.U6(2)|p=3|before_cached=false|blocks=7|defects=
+[ [ 1, 3 ], [ 2, 2 ], [ 7, 2 ] ]
+UNCACHED_BLOCK_CHECK|6.U6(2)|p=5|before_cached=false|blocks=147|defects=
+[ [ 0, 129 ], [ 1, 18 ] ]
+UNCACHED_BLOCK_CHECK|6.U6(2)|p=7|before_cached=false|blocks=183|defects=
+[ [ 0, 177 ], [ 1, 6 ] ]
+TABLE_INPUT|2.O8+(2)|order_factors=[ [ 2, 13 ], [ 3, 5 ], [ 5, 2 ], [ 7, 1 ] 
+ ]|centre_orders=[ 1, 2 ]
+UNCACHED_BLOCK_CHECK|2.O8+(2)|p=3|before_cached=false|blocks=8|defects=
+[ [ 0, 2 ], [ 1, 4 ], [ 5, 2 ] ]
+UNCACHED_BLOCK_CHECK|2.O8+(2)|p=5|before_cached=false|blocks=37|defects=
+[ [ 0, 31 ], [ 1, 4 ], [ 2, 2 ] ]
+UNCACHED_BLOCK_CHECK|2.O8+(2)|p=7|before_cached=false|blocks=71|defects=
+[ [ 0, 69 ], [ 1, 2 ] ]
+TABLE_INPUT|2.2E6(2)|order_factors=[ [ 2, 37 ], [ 3, 9 ], [ 5, 2 ], [ 7, 2 ], 
+  [ 11, 1 ], [ 13, 1 ], [ 17, 1 ], [ 19, 1 ] ]|centre_orders=[ 1, 2 ]
+UNCACHED_BLOCK_CHECK|2.2E6(2)|p=3|before_cached=false|blocks=21|defects=
+[ [ 0, 11 ], [ 1, 3 ], [ 2, 5 ], [ 9, 2 ] ]
+UNCACHED_BLOCK_CHECK|2.2E6(2)|p=5|before_cached=false|blocks=104|defects=
+[ [ 0, 92 ], [ 1, 8 ], [ 2, 4 ] ]
+UNCACHED_BLOCK_CHECK|2.2E6(2)|p=7|before_cached=false|blocks=106|defects=
+[ [ 0, 96 ], [ 1, 8 ], [ 2, 2 ] ]
+TABLE_INPUT|6.2E6(2)|order_factors=[ [ 2, 37 ], [ 3, 10 ], [ 5, 2 ], 
+  [ 7, 2 ], [ 11, 1 ], [ 13, 1 ], [ 17, 1 ], [ 19, 1 ] ]|centre_orders=
+[ 1, 6, 3, 2, 3, 6 ]
+UNCACHED_BLOCK_CHECK|6.2E6(2)|p=3|before_cached=false|blocks=21|defects=
+[ [ 1, 11 ], [ 2, 3 ], [ 3, 5 ], [ 10, 2 ] ]
+UNCACHED_BLOCK_CHECK|6.2E6(2)|p=5|before_cached=false|blocks=308|defects=
+[ [ 0, 276 ], [ 1, 24 ], [ 2, 8 ] ]
+UNCACHED_BLOCK_CHECK|6.2E6(2)|p=7|before_cached=false|blocks=278|defects=
+[ [ 0, 252 ], [ 1, 20 ], [ 2, 6 ] ]
+TABLE_INPUT|2.2E6(2).2|order_factors=[ [ 2, 38 ], [ 3, 9 ], [ 5, 2 ], 
+  [ 7, 2 ], [ 11, 1 ], [ 13, 1 ], [ 17, 1 ], [ 19, 1 ] ]|centre_orders=
+[ 1, 2 ]
+UNCACHED_BLOCK_CHECK|2.2E6(2).2|p=3|before_cached=false|blocks=28|defects=
+[ [ 0, 16 ], [ 1, 3 ], [ 2, 7 ], [ 9, 2 ] ]
+UNCACHED_BLOCK_CHECK|2.2E6(2).2|p=5|before_cached=false|blocks=150|defects=
+[ [ 0, 130 ], [ 1, 14 ], [ 2, 6 ] ]
+UNCACHED_BLOCK_CHECK|2.2E6(2).2|p=7|before_cached=false|blocks=158|defects=
+[ [ 0, 144 ], [ 1, 10 ], [ 2, 4 ] ]
+EXACT_CENTRAL_KERNEL|[ "6.L3(4)", "2.L3(4)" ]|kernel_classes=
+[ 1, 3, 5 ]|all_killed_rows=18|all_pullbacks=
+18|height_preservation=true|all_dominated_blocks=true
+EXACT_CENTRAL_KERNEL|[ "12_1.L3(4)", "4_1.L3(4)" ]|kernel_classes=
+[ 1, 5, 9 ]|all_killed_rows=30|all_pullbacks=
+30|height_preservation=true|all_dominated_blocks=true
+EXACT_CENTRAL_KERNEL|[ "12_2.L3(4)", "4_2.L3(4)" ]|kernel_classes=
+[ 1, 5, 9 ]|all_killed_rows=32|all_pullbacks=
+32|height_preservation=true|all_dominated_blocks=true
+EXACT_CENTRAL_KERNEL|[ "6.U6(2)", "2.U6(2)" ]|kernel_classes=
+[ 1, 3, 5 ]|all_killed_rows=77|all_pullbacks=
+77|height_preservation=true|all_dominated_blocks=true
+EXACT_CENTRAL_KERNEL|[ "6.2E6(2)", "2.2E6(2)" ]|kernel_classes=
+[ 1, 3, 5 ]|all_killed_rows=202|all_pullbacks=
+202|height_preservation=true|all_dominated_blocks=true
+C4_LIFT_EXACT_HEIGHTS|[ [ 0, 6 ], [ 1, 8 ] ]|inflated_h0=
+[ 145, 164, 165, 186, 187, 201 ]
+ACTUAL_UPPER_BLOCK_ANCHOR|20|covered=[ 17 ]|defect=2|k=9|k0=9|l=5
+ACTUAL_UPPER_BLOCK_ANCHOR|21|covered=[ 17 ]|defect=2|k=9|k0=9|l=5
+ACTUAL_UPPER_BLOCK_ANCHOR|22|covered=[ 18 ]|defect=2|k=9|k0=9|l=5
+C60_INDEPENDENT_BLOCK_KERNEL_COMPLETE

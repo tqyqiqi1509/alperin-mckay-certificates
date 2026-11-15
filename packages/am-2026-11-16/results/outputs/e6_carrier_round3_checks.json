@@ -1,0 +1,29 @@
+{
+  "roots": 72,
+  "root_index": 3,
+  "character_determinant": 9,
+  "a_correction": [
+    0,
+    1,
+    0,
+    1,
+    1,
+    0
+  ],
+  "b_correction": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    1
+  ],
+  "A_order": 2,
+  "B_order": 2,
+  "tau_order": 2,
+  "Q12_order": 12,
+  "four_frames_centralize_Q12": true,
+  "component_action_a_plus_b_minus": true,
+  "simple_tits_squares_braid_graph": true,
+  "scope": "Signed root-vector faithful adjoint action; all tested discrepancies lie in 2-kernel, which injects through E6 central kernel C3. Thus these relation checks lift to simply connected Tits/graph carriers."
+}

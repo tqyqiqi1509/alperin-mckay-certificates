@@ -1,0 +1,53 @@
+{
+  "model": "integral E8 root vectors",
+  "a0_order": 2,
+  "simple_pinning_images": [
+    {
+      "input": [
+        2,
+        -2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "image": [
+        0,
+        2,
+        -2,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "coefficient": 1
+    },
+    {
+      "input": [
+        0,
+        2,
+        -2,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "image": [
+        2,
+        -2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "coefficient": 1
+    }
+  ],
+  "finite_field_samples": 0
+}

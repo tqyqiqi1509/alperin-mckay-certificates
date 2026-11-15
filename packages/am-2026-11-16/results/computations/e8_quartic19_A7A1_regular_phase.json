@@ -1,0 +1,25 @@
+{
+  "row": "A7A1_regular",
+  "h_order": 4,
+  "n_order": 4,
+  "nh_order": 2,
+  "rational_center2_order": 32,
+  "line_mod8_covariant": true,
+  "regular_extension": {
+    "derived_order": 768,
+    "abelian_invariants": [
+      2,
+      2,
+      2,
+      4
+    ],
+    "prescribed_subgroup_order": 64,
+    "assignment_consistent": true,
+    "kills_derived_intersection": true,
+    "bad_values": []
+  },
+  "E0_order": 24576,
+  "P_order": 24576,
+  "Q_order": 24576,
+  "seconds": 2.020127296447754
+}

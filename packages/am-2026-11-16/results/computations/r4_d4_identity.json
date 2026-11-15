@@ -1,0 +1,85 @@
+{
+  "root_gram": [
+    [
+      2,
+      0,
+      -1,
+      0
+    ],
+    [
+      0,
+      2,
+      -1,
+      0
+    ],
+    [
+      -1,
+      -1,
+      2,
+      -1
+    ],
+    [
+      0,
+      0,
+      -1,
+      2
+    ]
+  ],
+  "L_root_count": 24,
+  "centralizer_root_count": 12,
+  "Q_based_actions": [
+    [
+      0,
+      1,
+      2,
+      3
+    ],
+    [
+      0,
+      1,
+      2,
+      3
+    ],
+    [
+      1,
+      0,
+      2,
+      3
+    ],
+    [
+      1,
+      0,
+      2,
+      3
+    ],
+    [
+      0,
+      1,
+      2,
+      3
+    ],
+    [
+      0,
+      1,
+      2,
+      3
+    ]
+  ],
+  "Q_simple_root_coefficients": "all +1",
+  "L_frobenius_based_action": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "centralizer_based_action": [
+    1,
+    0,
+    2
+  ],
+  "L_center_polynomial": "(q**2 + 1)**2",
+  "centralizer_center_polynomial": "(q + 1)*(q**2 + 1)**2",
+  "hook22_degree": "q**2*(q**2 + 1)",
+  "Jordan_source_degree": "q**2*(q - 1)**2*(q**2 + 1)**2*(q**2 + q + 1)",
+  "opposite_degree": "q**2*(q + 1)**2*(q**2 + 1)**2*(q**2 - q + 1)"
+}

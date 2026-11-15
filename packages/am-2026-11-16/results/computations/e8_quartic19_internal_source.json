@@ -1,0 +1,29 @@
+{
+  "L_C_intersection_roots": 12,
+  "core_root_count": 12,
+  "core_based_frobenius_action": [
+    1,
+    0,
+    2
+  ],
+  "centralizer_torus_polynomial": "-(q + 1)*(q**2 + 1)**2",
+  "ordinary_springer_symbol": [
+    [
+      0,
+      2
+    ],
+    [
+      1,
+      5
+    ]
+  ],
+  "symbol_orbit": [
+    5,
+    1,
+    1,
+    1
+  ],
+  "phi22_degree": "q**2*(q**2 + 1)",
+  "Jordan_source_degree": "q**2*(q - 1)**2*(q**2 + 1)**2*(q**2 + q + 1)",
+  "opposite_degree": "q**2*(q + 1)**2*(q**2 + 1)**2*(q**2 - q + 1)"
+}

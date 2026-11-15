@@ -1,0 +1,767 @@
+{
+  "roots": 126,
+  "W_order": 2903040,
+  "D4": {
+    "root_count": 24,
+    "component_ranks": [
+      4
+    ],
+    "root_smith": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "perpendicular_roots": 6,
+    "perpendicular_component_ranks": [
+      1,
+      1,
+      1
+    ],
+    "pointwise_W_order": 8,
+    "normalizer_order": 9216,
+    "subsystem_orbit_size": 315,
+    "relative_normalizer_order": 48,
+    "base": [
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "root_restriction_contents_on_perp_coroots": {
+      "0": 24,
+      "1": 96,
+      "2": 6
+    }
+  },
+  "special_A1cube": {
+    "root_count": 6,
+    "component_ranks": [
+      1,
+      1,
+      1
+    ],
+    "root_smith": [
+      1,
+      1,
+      2
+    ],
+    "perpendicular_roots": 24,
+    "perpendicular_component_ranks": [
+      4
+    ],
+    "pointwise_W_order": 192,
+    "normalizer_order": 9216,
+    "subsystem_orbit_size": 315,
+    "relative_normalizer_order": 1152,
+    "base": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "root_restriction_contents_on_perp_coroots": {
+      "0": 6,
+      "1": 120
+    }
+  },
+  "A1square": {
+    "root_count": 4,
+    "component_ranks": [
+      1,
+      1
+    ],
+    "root_smith": [
+      1,
+      1
+    ],
+    "perpendicular_roots": 26,
+    "perpendicular_component_ranks": [
+      1,
+      4
+    ],
+    "pointwise_W_order": 384,
+    "normalizer_order": 3072,
+    "subsystem_orbit_size": 945,
+    "relative_normalizer_order": 768,
+    "base": [
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "root_restriction_contents_on_perp_coroots": {
+      "0": 4,
+      "1": 120,
+      "2": 2
+    }
+  },
+  "A5A2_two_packet_A1cube": {
+    "root_count": 6,
+    "component_ranks": [
+      1,
+      1,
+      1
+    ],
+    "root_smith": [
+      1,
+      1,
+      1
+    ],
+    "perpendicular_roots": 8,
+    "perpendicular_component_ranks": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "pointwise_W_order": 16,
+    "normalizer_order": 768,
+    "subsystem_orbit_size": 3780,
+    "relative_normalizer_order": 96,
+    "base": [
+      [
+        1,
+        1,
+        2,
+        2,
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      [
+        1,
+        2,
+        2,
+        4,
+        3,
+        2,
+        1
+      ]
+    ],
+    "root_restriction_contents_on_perp_coroots": {
+      "2": 8,
+      "1": 112,
+      "0": 6
+    },
+    "active_rank": 4,
+    "frob_charpoly": "(lambda - 1)**3*(lambda + 1)**4",
+    "source_frob_on_roots": [
+      [
+        1,
+        1,
+        2,
+        2,
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      [
+        1,
+        2,
+        2,
+        4,
+        3,
+        2,
+        1
+      ]
+    ]
+  },
+  "D4_equal_colour_root_pairing_histogram": {
+    "0": 72,
+    "-2": 27,
+    "2": 27
+  },
+  "D4_perpendicular_central_overlap": {
+    "coroots": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        1,
+        2,
+        2,
+        2,
+        1
+      ],
+      [
+        2,
+        2,
+        3,
+        4,
+        3,
+        2,
+        1
+      ]
+    ],
+    "points": [
+      {
+        "bits": [
+          0,
+          0,
+          0
+        ],
+        "in_D4": true,
+        "in_Z_E7": true
+      },
+      {
+        "bits": [
+          0,
+          0,
+          1
+        ],
+        "in_D4": false,
+        "in_Z_E7": false
+      },
+      {
+        "bits": [
+          0,
+          1,
+          0
+        ],
+        "in_D4": false,
+        "in_Z_E7": false
+      },
+      {
+        "bits": [
+          0,
+          1,
+          1
+        ],
+        "in_D4": true,
+        "in_Z_E7": false
+      },
+      {
+        "bits": [
+          1,
+          0,
+          0
+        ],
+        "in_D4": false,
+        "in_Z_E7": false
+      },
+      {
+        "bits": [
+          1,
+          0,
+          1
+        ],
+        "in_D4": true,
+        "in_Z_E7": false
+      },
+      {
+        "bits": [
+          1,
+          1,
+          0
+        ],
+        "in_D4": true,
+        "in_Z_E7": false
+      },
+      {
+        "bits": [
+          1,
+          1,
+          1
+        ],
+        "in_D4": false,
+        "in_Z_E7": true
+      }
+    ],
+    "all_ones_is_zG": true
+  },
+  "nonisolated_connected_QI_projections": {
+    "order2_E6T1": {
+      "point_coroot_coordinates": [
+        "1/2",
+        "3/4",
+        1,
+        "3/2",
+        "5/4",
+        1,
+        "3/4"
+      ],
+      "centralizer_root_count": 72,
+      "centralizer_component_ranks": [
+        6
+      ],
+      "connected_center_dimension": 1,
+      "minimal_connected_Levi_root_count": 72,
+      "minimal_Levi_component_ranks": [
+        6
+      ],
+      "derived_projection_in_Levi_coroots": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "projection_order_in_natural_derived_torus": 1,
+      "derived_coroot_embedding_Smith": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "primitive_center_coroot": [
+        2,
+        3,
+        4,
+        6,
+        5,
+        4,
+        3
+      ],
+      "zG_in_connected_center": true
+    },
+    "order6_A2cubeT1": {
+      "point_coroot_coordinates": [
+        1,
+        "17/12",
+        2,
+        "17/6",
+        "9/4",
+        "3/2",
+        "3/4"
+      ],
+      "centralizer_root_count": 18,
+      "centralizer_component_ranks": [
+        2,
+        2,
+        2
+      ],
+      "connected_center_dimension": 1,
+      "minimal_connected_Levi_root_count": 72,
+      "minimal_Levi_component_ranks": [
+        6
+      ],
+      "derived_projection_in_Levi_coroots": [
+        "2/3",
+        "4/3",
+        "2/3",
+        2,
+        "4/3",
+        1
+      ],
+      "projection_order_in_natural_derived_torus": 3,
+      "derived_coroot_embedding_Smith": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "primitive_center_coroot": [
+        0,
+        1,
+        0,
+        2,
+        3,
+        2,
+        1
+      ],
+      "zG_in_connected_center": true
+    },
+    "order4_D4A1squareT1": {
+      "point_coroot_coordinates": [
+        "-1/2",
+        "1/2",
+        "-1/4",
+        0,
+        "-1/4",
+        "-1/2",
+        "-1/4"
+      ],
+      "centralizer_root_count": 28,
+      "centralizer_component_ranks": [
+        1,
+        4,
+        1
+      ],
+      "connected_center_dimension": 1,
+      "minimal_connected_Levi_root_count": 60,
+      "minimal_Levi_component_ranks": [
+        6
+      ],
+      "derived_projection_in_Levi_coroots": [
+        0,
+        0,
+        "1/2",
+        1,
+        "1/2",
+        1
+      ],
+      "projection_order_in_natural_derived_torus": 2,
+      "derived_coroot_embedding_Smith": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "primitive_center_coroot": [
+        2,
+        2,
+        3,
+        4,
+        3,
+        2,
+        1
+      ],
+      "zG_in_connected_center": false
+    }
+  },
+  "D6_inherited_colour_and_returns": {
+    "simple_roots": [
+      [
+        0,
+        0,
+        0,
+        0,
+        -1,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        -1,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        -1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "h0": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "zs": [
+      "1/2",
+      "1/2",
+      "1/2",
+      "1/2",
+      "1/2",
+      "1/2",
+      0,
+      0
+    ],
+    "zc_representative": [
+      "3/2",
+      "1/2",
+      "1/2",
+      "1/2",
+      "1/2",
+      "1/2",
+      0,
+      0
+    ],
+    "omega7_minus_alpha1": [
+      "-1/2",
+      "1/2",
+      "1/2",
+      "1/2",
+      "1/2",
+      "3/2",
+      0,
+      0
+    ],
+    "Levi_central_glue": "(zc,-1) of order 2; zG=zs is the other half-spin element",
+    "centre_pairings_mod_Z": [
+      [
+        "0",
+        "1/2",
+        "1/2"
+      ],
+      [
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      [
+        "1/2",
+        "0",
+        "1/2"
+      ]
+    ],
+    "four_rational_returns": [
+      {
+        "q_mod4": 1,
+        "component": 0,
+        "torus_sign": 1,
+        "E7_return_coordinates_representative": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "D6_return_coordinates_representative": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "E7_return_mod_Q": "1",
+        "D6_return_mod_Q": "1",
+        "D6_central_values_h0_zs_zc": [
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "q_mod4": 1,
+        "component": 1,
+        "torus_sign": -1,
+        "E7_return_coordinates_representative": [
+          -1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          "-1/2",
+          "1/2"
+        ],
+        "D6_return_coordinates_representative": [
+          -1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "E7_return_mod_Q": "zG",
+        "D6_return_mod_Q": "h0",
+        "D6_central_values_h0_zs_zc": [
+          1,
+          -1,
+          -1
+        ]
+      },
+      {
+        "q_mod4": 3,
+        "component": 0,
+        "torus_sign": -1,
+        "E7_return_coordinates_representative": [
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          -1,
+          1
+        ],
+        "D6_return_coordinates_representative": [
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "E7_return_mod_Q": "1",
+        "D6_return_mod_Q": "1",
+        "D6_central_values_h0_zs_zc": [
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "q_mod4": 3,
+        "component": 1,
+        "torus_sign": 1,
+        "E7_return_coordinates_representative": [
+          -2,
+          1,
+          1,
+          1,
+          0,
+          0,
+          "1/2",
+          "-1/2"
+        ],
+        "D6_return_coordinates_representative": [
+          -2,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "E7_return_mod_Q": "zG",
+        "D6_return_mod_Q": "h0",
+        "D6_central_values_h0_zs_zc": [
+          1,
+          -1,
+          -1
+        ]
+      }
+    ]
+  }
+}

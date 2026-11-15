@@ -1,0 +1,37 @@
+[
+  {
+    "row": "D5A3_regular",
+    "P_order": 196608,
+    "W_order": 3072,
+    "kernel_order": 64,
+    "kernel_equals_listed_central_two_torsion": true
+  },
+  {
+    "row": "A7A1_regular",
+    "P_order": 24576,
+    "W_order": 768,
+    "kernel_order": 32,
+    "kernel_equals_listed_central_two_torsion": true
+  },
+  {
+    "row": "D5A3_A1q2",
+    "P_order": 1024,
+    "W_order": 128,
+    "kernel_order": 8,
+    "kernel_equals_listed_central_two_torsion": true
+  },
+  {
+    "row": "D5A3_internal_A3",
+    "P_order": 64,
+    "W_order": 16,
+    "kernel_order": 4,
+    "kernel_equals_listed_central_two_torsion": true
+  },
+  {
+    "row": "A7A1_external_A1",
+    "P_order": 128,
+    "W_order": 32,
+    "kernel_order": 4,
+    "kernel_equals_listed_central_two_torsion": true
+  }
+]

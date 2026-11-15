@@ -1,0 +1,19 @@
+ORDER9_INERTIA|E=1|order=1|orbits=[ [ 1, 8 ] ]|k_minus_l=8|fixed_vectors=
+9|det_orders=[ 1 ]
+ORDER9_INERTIA|E=C2|order=2|orbits=[ [ 2, 4 ] ]|k_minus_l=4|fixed_vectors=
+1|det_orders=[ 1 ]
+ORDER9_INERTIA|E=C2|order=2|orbits=[ [ 1, 2 ], [ 2, 3 ] ]|k_minus_l=
+7|fixed_vectors=3|det_orders=[ 1, 2 ]
+ORDER9_INERTIA|E=C4|order=4|orbits=[ [ 4, 2 ] ]|k_minus_l=2|fixed_vectors=
+1|det_orders=[ 1 ]
+ORDER9_INERTIA|E=C2 x C2|order=4|orbits=[ [ 2, 2 ], [ 4, 1 ] ]|k_minus_l=
+5|fixed_vectors=1|det_orders=[ 1, 2 ]
+ORDER9_INERTIA|E=Q8|order=8|orbits=[ [ 8, 1 ] ]|k_minus_l=1|fixed_vectors=
+1|det_orders=[ 1 ]
+ORDER9_INERTIA|E=D8|order=8|orbits=[ [ 4, 2 ] ]|k_minus_l=4|fixed_vectors=
+1|det_orders=[ 1, 2 ]
+ORDER9_INERTIA|E=C8|order=8|orbits=[ [ 8, 1 ] ]|k_minus_l=1|fixed_vectors=
+1|det_orders=[ 1, 2 ]
+ORDER9_INERTIA|E=QD16|order=16|orbits=[ [ 8, 1 ] ]|k_minus_l=2|fixed_vectors=
+1|det_orders=[ 1, 2 ]
+FRESH_INERTIA_MODULE_FILTERS_COMPLETE

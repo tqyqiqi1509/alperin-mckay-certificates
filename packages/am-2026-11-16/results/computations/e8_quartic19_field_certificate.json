@@ -1,0 +1,62 @@
+[
+  {
+    "row": "D5A3_regular",
+    "regular_signed_carrier_primefield_fixed": true,
+    "h_central": true,
+    "n_central_on_P": true,
+    "q1_alpha_f_matches_return": true,
+    "q3_alpha_f_matches_return": true,
+    "return_orders": [
+      4,
+      2
+    ]
+  },
+  {
+    "row": "A7A1_regular",
+    "regular_signed_carrier_primefield_fixed": true,
+    "h_central": true,
+    "n_central_on_P": true,
+    "q1_alpha_f_matches_return": true,
+    "q3_alpha_f_matches_return": true,
+    "return_orders": [
+      4,
+      2
+    ]
+  },
+  {
+    "row": "D5A3_A1q2",
+    "h_equals_iota_on_P4": true,
+    "iota_fixes_signed_returns": true,
+    "n_central_on_P": true,
+    "q1_alpha_f_matches_return": true,
+    "q3_alpha_f_matches_return": true,
+    "return_orders": [
+      8,
+      8
+    ]
+  },
+  {
+    "row": "D5A3_internal_A3",
+    "h_equals_iota_on_P4": true,
+    "iota_fixes_signed_returns": true,
+    "n_central_on_P": true,
+    "q1_alpha_f_matches_return": true,
+    "q3_alpha_f_matches_return": true,
+    "return_orders": [
+      4,
+      4
+    ]
+  },
+  {
+    "row": "A7A1_external_A1",
+    "h_equals_iota_on_P4": true,
+    "iota_fixes_signed_returns": true,
+    "n_central_on_P": true,
+    "q1_alpha_f_matches_return": true,
+    "q3_alpha_f_matches_return": true,
+    "return_orders": [
+      4,
+      4
+    ]
+  }
+]

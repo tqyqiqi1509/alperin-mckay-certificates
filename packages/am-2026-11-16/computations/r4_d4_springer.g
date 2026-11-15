@@ -1,0 +1,18 @@
+RequirePackage("chevie");;
+SizeScreen([2000,2000]);;
+W:=CoxeterGroup("D",4);;
+ss:=XSP(2,0,4,1);;
+s:=First(Concatenation(ss),x->x.sp=[[],[3,1]]);;
+Print("XSP_RECORD|",s,"\n");
+uc:=UnipotentClasses(W,3);;
+Print("CHAR_PARAMS|",CharParams(W),"\n");
+Print("SPRINGER_SERIES|",uc.springerSeries,"\n");
+Print("CLASSES|",List(uc.classes,x->[x.name,x.parameter]),"\n");
+U:=ReflectionSubgroup(W,[1,2,3]);;
+Print("A3_PARAMETERS|",CharParams(U),"\n");
+it:=jInductionTable(U,W);;
+Print("J_INDUCTION_PHI22|",List(it.scalar,x->x[3]),"\n");
+if List(it.scalar,x->x[3])<>List([1..13],i->Int(i=12)) then Error("wrong j induction");fi;
+Print("D4_UNIPOTENT_FAMILIES|",List(UnipotentCharacters(W).families,x->x.charNumbers),"\n");
+Print("DONE_R4_D4\n");
+quit;

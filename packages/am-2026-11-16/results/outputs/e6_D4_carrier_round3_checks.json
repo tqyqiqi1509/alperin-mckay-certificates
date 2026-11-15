@@ -1,0 +1,56 @@
+{
+  "weights": 27,
+  "Chevalley_Serre_checks": 66,
+  "q1q2_genuine_S3": true,
+  "positive_D4_pins": [
+    {
+      "2": [
+        5
+      ],
+      "3": [
+        3
+      ],
+      "4": [
+        4
+      ],
+      "5": [
+        2
+      ]
+    },
+    {
+      "2": [
+        3
+      ],
+      "3": [
+        2
+      ],
+      "4": [
+        4
+      ],
+      "5": [
+        5
+      ]
+    }
+  ],
+  "torus_q1": [
+    [
+      -1,
+      1
+    ],
+    [
+      0,
+      1
+    ]
+  ],
+  "torus_q2": [
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      -1
+    ]
+  ],
+  "corrected_graph_torus_minus_identity": true
+}

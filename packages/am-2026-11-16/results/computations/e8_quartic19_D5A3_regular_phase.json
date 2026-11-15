@@ -1,0 +1,26 @@
+{
+  "row": "D5A3_regular",
+  "h_order": 4,
+  "n_order": 4,
+  "nh_order": 2,
+  "rational_center2_order": 64,
+  "line_mod8_covariant": true,
+  "regular_extension": {
+    "derived_order": 6144,
+    "abelian_invariants": [
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "prescribed_subgroup_order": 128,
+    "assignment_consistent": true,
+    "kills_derived_intersection": true,
+    "bad_values": []
+  },
+  "E0_order": 196608,
+  "P_order": 196608,
+  "Q_order": 196608,
+  "seconds": 2.612020969390869
+}

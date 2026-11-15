@@ -1,0 +1,15 @@
+{
+  "row": "A7A1_external_A1",
+  "source_root_count": 24,
+  "C_root_count": 58,
+  "C_weyl_order": 80640,
+  "normalizer_in_C_order": 768,
+  "based_image_order": 384,
+  "based_generator_count": 5,
+  "E0_order": 6144,
+  "center2_order": 16,
+  "w_order": 4,
+  "n_order": 4,
+  "n_central_E0": false,
+  "seconds": 6.274255990982056
+}

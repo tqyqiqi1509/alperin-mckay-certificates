@@ -1,0 +1,15 @@
+{
+  "row": "D5A3_regular",
+  "source_root_count": 4,
+  "C_root_count": 52,
+  "C_weyl_order": 46080,
+  "normalizer_in_C_order": 3072,
+  "based_image_order": 3072,
+  "based_generator_count": 7,
+  "E0_order": 196608,
+  "center2_order": 64,
+  "w_order": 2,
+  "n_order": 4,
+  "n_central_E0": false,
+  "seconds": 19.73280358314514
+}

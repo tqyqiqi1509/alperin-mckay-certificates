@@ -1,0 +1,28 @@
+[
+  {
+    "file": "F22d2G1-p3510B0.g1",
+    "url": "https://brauer.maths.qmul.ac.uk/Atlas/spor/F22/gap/F22d2G1-p3510B0.g1",
+    "sha256": "20ec790fb83d4757057dd7312826a0e7015fecf299a230c33f90ff9e6db9edd5",
+    "bytes": 15826,
+    "safe_literal_permutation_only": true,
+    "moved_points": 2816,
+    "cycle_lengths": {
+      "2": 1408
+    }
+  },
+  {
+    "file": "F22d2G1-p3510B0.g2",
+    "url": "https://brauer.maths.qmul.ac.uk/Atlas/spor/F22/gap/F22d2G1-p3510B0.g2",
+    "sha256": "3f932ff02be8788dac24135380a706eb952048ea112159795152337da17f3ee9",
+    "bytes": 18077,
+    "safe_literal_permutation_only": true,
+    "moved_points": 3510,
+    "cycle_lengths": {
+      "2": 3,
+      "3": 3,
+      "6": 2,
+      "9": 39,
+      "18": 174
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "row": "D5A3_regular",
+    "source_semisimple_centralizer_root_count": 0,
+    "source_semisimple_centralizer_Weyl_order": 1
+  },
+  {
+    "row": "A7A1_regular",
+    "source_semisimple_centralizer_root_count": 0,
+    "source_semisimple_centralizer_Weyl_order": 1
+  },
+  {
+    "row": "D5A3_A1q2",
+    "source_semisimple_centralizer_root_count": 0,
+    "source_semisimple_centralizer_Weyl_order": 1
+  },
+  {
+    "row": "D5A3_internal_A3",
+    "source_semisimple_centralizer_root_count": 12,
+    "source_semisimple_centralizer_Weyl_order": 24
+  },
+  {
+    "row": "A7A1_external_A1",
+    "source_semisimple_centralizer_root_count": 2,
+    "source_semisimple_centralizer_Weyl_order": 2
+  }
+]

@@ -1,0 +1,2 @@
+ROUND2_SEVEN_AFFINE_COMPLETE|order=3528|degrees=
+[ [ 1, 9 ], [ 2, 9 ], [ 3, 3 ], [ 24, 6 ] ]

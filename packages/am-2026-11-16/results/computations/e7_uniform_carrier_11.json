@@ -1,0 +1,186 @@
+{
+  "K_Gram": [
+    [
+      2,
+      0,
+      0,
+      -1
+    ],
+    [
+      0,
+      2,
+      0,
+      -1
+    ],
+    [
+      0,
+      0,
+      2,
+      -1
+    ],
+    [
+      -1,
+      -1,
+      -1,
+      2
+    ]
+  ],
+  "K_primitive": 1,
+  "HK_index": 4,
+  "natural_H_root_Smith": [
+    1,
+    1,
+    2
+  ],
+  "regular_H_root_Smith": [
+    1,
+    1,
+    1
+  ],
+  "K_plus_regular_center_primitive": 1,
+  "A1_square_perpendicular_primitive": 1,
+  "A1_square_plus_regular_center_index": 2,
+  "natural_A1_square_root_Smith": [
+    1,
+    1
+  ],
+  "regular_A1_square_root_Smith": [
+    1,
+    1
+  ],
+  "A2_perpendicular_coroot_basis": [
+    [
+      0,
+      0,
+      0,
+      -1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      -2,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      -2,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      -3,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      -3,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      -2,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      -1,
+      0
+    ]
+  ],
+  "A2_perpendicular_primitive": 1,
+  "A2_A5_index": 3,
+  "natural_A2_root_Smith": [
+    1,
+    1
+  ],
+  "weights": 56,
+  "roots": 126,
+  "simple_Chevalley_and_braid_checks": 154,
+  "longest_square": "-I56",
+  "A2_longest_square": "I56",
+  "z0_square": "-I56",
+  "z0_positive_A2_diagram": true,
+  "A5_exchange_word_1_based": [
+    3,
+    2,
+    1,
+    4,
+    3,
+    2,
+    5,
+    4,
+    3
+  ],
+  "A5_perpendicular_Tits_words_1_based": [
+    [
+      3,
+      1,
+      4,
+      3,
+      5,
+      4,
+      6,
+      5,
+      7,
+      6
+    ],
+    [
+      3,
+      1,
+      4,
+      3,
+      5,
+      4,
+      6,
+      5
+    ],
+    [
+      3,
+      1,
+      4,
+      3,
+      5,
+      4
+    ],
+    [
+      1,
+      3,
+      4,
+      2,
+      5,
+      4,
+      3,
+      6,
+      5,
+      4,
+      2,
+      7,
+      6,
+      5
+    ],
+    [
+      3,
+      1,
+      4,
+      2,
+      3,
+      4
+    ]
+  ],
+  "signed_carrier_relations": true,
+  "u3_order": 3,
+  "u6_order": 12,
+  "u6_sixth_power": "-I56"
+}

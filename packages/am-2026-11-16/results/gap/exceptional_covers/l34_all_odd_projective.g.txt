@@ -1,0 +1,57 @@
+#I  perfgrp package is not available. Check that the name is correct
+#I  and it is present in one of the GAP root directories (see '??RootPaths')
+START_PRIME|5
+STEP|embeddedSylow|5
+STEP|normalizers|5
+STEP|lowerTables|5
+STEP|upperTables|5
+LOCAL|prime=5|M=20|H=80|Mstructure=D20|quotient=C2 x C2
+GLOBAL_PATTERN|orbit=[ 5, 6 ]|degrees=[ 28, 28 ]|stabilizer=
+[ 1, 2 ]|full_inertia_multiplicities=cyclic-inertia
+GLOBAL_PATTERN|orbit=[ 10 ]|degrees=[ 36 ]|stabilizer=
+[ 1, 2, 3, 4 ]|full_inertia_multiplicities=[ 1, 1, 1, 1 ]
+GLOBAL_PATTERN|orbit=[ 16 ]|degrees=[ 64 ]|stabilizer=
+[ 1, 2, 3, 4 ]|full_inertia_multiplicities=[ 1, 1, 1, 1 ]
+LOCAL_PATTERN|orbit=[ 2 ]|degrees=[ 1 ]|stabilizer=
+[ 1, 2, 3, 4 ]|full_inertia_multiplicities=[ 1, 1, 1, 1 ]
+LOCAL_PATTERN|orbit=[ 3 ]|degrees=[ 1 ]|stabilizer=
+[ 1, 2, 3, 4 ]|full_inertia_multiplicities=[ 1, 1, 1, 1 ]
+LOCAL_PATTERN|orbit=[ 6, 8 ]|degrees=[ 2, 2 ]|stabilizer=
+[ 1, 2 ]|full_inertia_multiplicities=cyclic-inertia
+EXPLICIT_BIJECTION|[ [ 5, 6, 28, 2 ], [ 6, 8, 28, 2 ], [ 10, 2, 36, 1 ], 
+  [ 16, 3, 64, 1 ] ]
+Q_ELEMENTS|[ <identity> of ..., f1, f2, f1*f2 ]
+GLOBAL_ACTION|[ [ 5, 6, 10, 16 ], [ 5, 6, 10, 16 ], [ 6, 5, 10, 16 ], 
+  [ 6, 5, 10, 16 ] ]
+LOCAL_ACTION|[ [ 2, 3, 6, 8 ], [ 2, 3, 6, 8 ], [ 2, 3, 8, 6 ], [ 2, 3, 8, 6 ] 
+ ]
+START_PRIME|7
+STEP|embeddedSylow|7
+STEP|normalizers|7
+STEP|lowerTables|7
+STEP|upperTables|7
+LOCAL|prime=7|M=42|H=168|Mstructure=C2 x (C7 : C3)|quotient=C2 x C2
+GLOBAL_PATTERN|orbit=[ 2, 3 ]|degrees=[ 10, 10 ]|stabilizer=
+[ 1, 4 ]|full_inertia_multiplicities=cyclic-inertia
+GLOBAL_PATTERN|orbit=[ 10 ]|degrees=[ 36 ]|stabilizer=
+[ 1, 2, 3, 4 ]|full_inertia_multiplicities=[ 1, 1, 1, 1 ]
+GLOBAL_PATTERN|orbit=[ 16 ]|degrees=[ 64 ]|stabilizer=
+[ 1, 2, 3, 4 ]|full_inertia_multiplicities=[ 1, 1, 1, 1 ]
+GLOBAL_PATTERN|orbit=[ 18 ]|degrees=[ 90 ]|stabilizer=
+[ 1, 2, 3, 4 ]|full_inertia_multiplicities=[ 1, 1, 1, 1 ]
+LOCAL_PATTERN|orbit=[ 2 ]|degrees=[ 1 ]|stabilizer=
+[ 1, 2, 3, 4 ]|full_inertia_multiplicities=[ 1, 1, 1, 1 ]
+LOCAL_PATTERN|orbit=[ 4 ]|degrees=[ 1 ]|stabilizer=
+[ 1, 2, 3, 4 ]|full_inertia_multiplicities=[ 1, 1, 1, 1 ]
+LOCAL_PATTERN|orbit=[ 6 ]|degrees=[ 1 ]|stabilizer=
+[ 1, 2, 3, 4 ]|full_inertia_multiplicities=[ 1, 1, 1, 1 ]
+LOCAL_PATTERN|orbit=[ 8, 10 ]|degrees=[ 3, 3 ]|stabilizer=
+[ 1, 4 ]|full_inertia_multiplicities=cyclic-inertia
+EXPLICIT_BIJECTION|[ [ 2, 8, 10, 3 ], [ 3, 10, 10, 3 ], [ 10, 2, 36, 1 ], 
+  [ 16, 4, 64, 1 ], [ 18, 6, 90, 1 ] ]
+Q_ELEMENTS|[ <identity> of ..., f1, f2, f1*f2 ]
+GLOBAL_ACTION|[ [ 2, 3, 10, 16, 18 ], [ 3, 2, 10, 16, 18 ], 
+  [ 3, 2, 10, 16, 18 ], [ 2, 3, 10, 16, 18 ] ]
+LOCAL_ACTION|[ [ 2, 4, 6, 8, 10 ], [ 2, 4, 6, 10, 8 ], [ 2, 4, 6, 10, 8 ], 
+  [ 2, 4, 6, 8, 10 ] ]
+FRESH_L34_ALL_ODD_PROJECTIVE_COMPLETE

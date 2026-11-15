@@ -1,0 +1,26 @@
+{
+  "ad_x_smith_nonzero": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2
+  ],
+  "rank_every_odd_characteristic": 20,
+  "centralizer_dimension_every_odd_characteristic": 8
+}

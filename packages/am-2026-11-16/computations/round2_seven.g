@@ -1,0 +1,17 @@
+ff:=GF(7);; one:=One(ff);;
+a:=ImmutableMatrix(ff,[[0,1],[-1,0]]*one);;
+b:=ImmutableMatrix(ff,[[2,3],[3,-2]]*one);;
+q:=Group(a,b);; Assert(0,Size(q)=8);;
+r:=Normalizer(GL(2,7),q);; sl:=DerivedSubgroup(r);;
+i:=ClosureGroup(sl,Group(2*IdentityMat(2,ff)));;
+Assert(0,Size(sl)=24 and Size(i)=72);;
+v:=Cartesian(Elements(ff),Elements(ff));;
+t1:=PermList(List(v,x->Position(v,x+[1,0]*one)));;
+t2:=PermList(List(v,x->Position(v,x+[0,1]*one)));;
+gens:=List(GeneratorsOfGroup(i),m->PermList(List(v,x->Position(v,x*m))));;
+d:=Group(t1,t2);; n:=Group(Concatenation([t1,t2],gens));;
+Assert(0,Size(n)=49*72 and Centralizer(n,d)=d);;
+cd:=Collected(List(Irr(CharacterTable(n)),x->x[1]));;
+Assert(0,cd=[[1,9],[2,9],[3,3],[24,6]]);;
+Print("ROUND2_SEVEN_AFFINE_COMPLETE|order=",Size(n),"|degrees=",cd,"\n");
+QUIT;

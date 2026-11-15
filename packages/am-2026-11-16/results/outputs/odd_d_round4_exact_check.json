@@ -1,0 +1,31 @@
+{
+  "W_order": 16,
+  "R_order": 96,
+  "S2_eq_Z": true,
+  "H2_eq_iI": true,
+  "SH3_eq_minusI": true,
+  "W_nonidentity_eigen1_count": 6,
+  "all_eigen1_involutions": true,
+  "D4_points": [
+    {
+      "point": [
+        "1/2",
+        "1/2",
+        "0",
+        "0"
+      ],
+      "full_W_stabilizer": 64,
+      "centralizing_roots": 8
+    },
+    {
+      "point": [
+        "1/2",
+        "1/4",
+        "1/4",
+        "0"
+      ],
+      "full_W_stabilizer": 8,
+      "centralizing_roots": 2
+    }
+  ]
+}

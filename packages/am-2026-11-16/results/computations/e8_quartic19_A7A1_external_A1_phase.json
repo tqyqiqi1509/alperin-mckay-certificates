@@ -1,0 +1,30 @@
+{
+  "row": "A7A1_external_A1",
+  "h_order": 2,
+  "n_order": 4,
+  "nh_order": 4,
+  "rational_center2_order": 4,
+  "line_mod8_covariant": true,
+  "P4_order": 98304,
+  "P_order": 128,
+  "Q_order": 256,
+  "h_equals_iota_on_P": true,
+  "P_weyl_image": 32,
+  "signed_centralizer_image": 32,
+  "quartic_extension": {
+    "derived_order": 8,
+    "abelian_invariants": [
+      2,
+      4,
+      4
+    ],
+    "prescribed_subgroup_order": 16,
+    "assignment_consistent": false,
+    "kills_derived_intersection": false,
+    "bad_values": [
+      2,
+      2
+    ]
+  },
+  "seconds": 19.714444637298584
+}

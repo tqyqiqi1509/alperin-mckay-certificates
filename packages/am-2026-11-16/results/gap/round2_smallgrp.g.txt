@@ -1,0 +1,13 @@
+SIX_FIVE|Norder=21600|NmodD=[ 864, [ 4 ] ]|NmodDab=
+[ 4 ]|Ialpha=(C4 x C4) : C2|Zsize=3|C_D_order=225|stem=true|O2ab=
+[ 2, 2, 2 ]|outer_inverts_Z=true
+SIX_FIVE_BLOCK|id=1|def=2|k=20|l=16|colour=[ 1 ]|sigma_image_block=
+[ 1 ]|degree_multiset=[ [ 1, 4 ], [ 2, 6 ], [ 3, 4 ], [ 4, 2 ], [ 24, 4 ] ]
+SIX_FIVE_BLOCK|id=2|def=2|k=16|l=14|colour=[ 1 ]|sigma_image_block=
+[ 2 ]|degree_multiset=[ [ 2, 6 ], [ 4, 6 ], [ 6, 2 ], [ 48, 2 ] ]
+SIX_FIVE_BLOCK|id=3|def=2|k=20|l=14|colour=[ E(3)^2 ]|sigma_image_block=
+[ 4 ]|degree_multiset=[ [ 3, 8 ], [ 6, 6 ], [ 24, 4 ], [ 48, 2 ] ]
+SIX_FIVE_BLOCK|id=4|def=2|k=20|l=14|colour=[ E(3) ]|sigma_image_block=
+[ 3 ]|degree_multiset=[ [ 3, 8 ], [ 6, 6 ], [ 24, 4 ], [ 48, 2 ] ]
+FRESH_SIXFOLD_FIVE_NORMALIZER_COMPLETE
+ROUND2_SMALLGRP_COMPLETE|864,707|288,404

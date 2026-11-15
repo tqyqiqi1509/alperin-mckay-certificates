@@ -1,0 +1,92 @@
+{
+  "grading_dimensions": {
+    "-6": 1,
+    "-4": 4,
+    "-2": 5,
+    "0": 8,
+    "2": 5,
+    "4": 4,
+    "6": 1
+  },
+  "centralizer_lie_dimension_Q": 8,
+  "bracket_matrix": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      -1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      -1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      -1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      -1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "minor_columns_and_value": [
+    [
+      0,
+      1,
+      4,
+      5,
+      6
+    ],
+    -2
+  ],
+  "trace_determinant": 268435456,
+  "chain_determinant": 8,
+  "dual_functional": [
+    -2,
+    -2,
+    -2,
+    0,
+    0
+  ],
+  "graph_permutation": [
+    1,
+    2,
+    3,
+    5,
+    4
+  ],
+  "graph_and_cayley_checks": true,
+  "script_sha256": "52a456ea3b487ed23a03c9ef492426e099f9d75cbcca4f149fa75bec42da66f1"
+}

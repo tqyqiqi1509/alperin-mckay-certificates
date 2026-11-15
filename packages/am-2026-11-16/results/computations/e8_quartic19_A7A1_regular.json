@@ -1,0 +1,15 @@
+{
+  "row": "A7A1_regular",
+  "source_root_count": 6,
+  "C_root_count": 58,
+  "C_weyl_order": 80640,
+  "normalizer_in_C_order": 768,
+  "based_image_order": 768,
+  "based_generator_count": 5,
+  "E0_order": 24576,
+  "center2_order": 32,
+  "w_order": 2,
+  "n_order": 4,
+  "n_central_E0": false,
+  "seconds": 4.934819221496582
+}
