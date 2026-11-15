@@ -1,0 +1,490 @@
+{
+  "module_checks": [
+    {
+      "a": 1,
+      "A_order": 27,
+      "S_order": 81,
+      "sigma_fixed": [
+        [
+          0,
+          0
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          6,
+          0
+        ]
+      ],
+      "commutator_order": 9,
+      "sigma_fixed_dual_labels": [
+        [
+          0,
+          0
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          6,
+          0
+        ]
+      ],
+      "faithful_K_order": 12,
+      "principal_local_height_zero_count": 9,
+      "nonprincipal_local_height_zero_count": 9
+    },
+    {
+      "a": 2,
+      "A_order": 243,
+      "S_order": 729,
+      "sigma_fixed": [
+        [
+          0,
+          0
+        ],
+        [
+          9,
+          0
+        ],
+        [
+          18,
+          0
+        ]
+      ],
+      "commutator_order": 81,
+      "sigma_fixed_dual_labels": [
+        [
+          0,
+          0
+        ],
+        [
+          9,
+          0
+        ],
+        [
+          18,
+          0
+        ]
+      ],
+      "faithful_K_order": 12,
+      "principal_local_height_zero_count": 9,
+      "nonprincipal_local_height_zero_count": 9
+    },
+    {
+      "a": 3,
+      "A_order": 2187,
+      "S_order": 6561,
+      "sigma_fixed": [
+        [
+          0,
+          0
+        ],
+        [
+          27,
+          0
+        ],
+        [
+          54,
+          0
+        ]
+      ],
+      "commutator_order": 729,
+      "sigma_fixed_dual_labels": [
+        [
+          0,
+          0
+        ],
+        [
+          27,
+          0
+        ],
+        [
+          54,
+          0
+        ]
+      ],
+      "faithful_K_order": 12,
+      "principal_local_height_zero_count": 9,
+      "nonprincipal_local_height_zero_count": 9
+    },
+    {
+      "a": 4,
+      "A_order": 19683,
+      "S_order": 59049,
+      "sigma_fixed": [
+        [
+          0,
+          0
+        ],
+        [
+          81,
+          0
+        ],
+        [
+          162,
+          0
+        ]
+      ],
+      "commutator_order": 6561,
+      "sigma_fixed_dual_labels": [
+        [
+          0,
+          0
+        ],
+        [
+          81,
+          0
+        ],
+        [
+          162,
+          0
+        ]
+      ],
+      "faithful_K_order": 12,
+      "principal_local_height_zero_count": 9,
+      "nonprincipal_local_height_zero_count": 9
+    }
+  ],
+  "field_checks": [
+    {
+      "p": 2,
+      "f": 1,
+      "epsilon": -1,
+      "a": 1,
+      "c": 1,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 2,
+      "f": 2,
+      "epsilon": 1,
+      "a": 1,
+      "c": 7,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 2,
+      "f": 3,
+      "epsilon": -1,
+      "a": 2,
+      "c": 19,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 2,
+      "f": 4,
+      "epsilon": 1,
+      "a": 1,
+      "c": 91,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 2,
+      "f": 5,
+      "epsilon": -1,
+      "a": 1,
+      "c": 331,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 2,
+      "f": 6,
+      "epsilon": 1,
+      "a": 2,
+      "c": 1387,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 5,
+      "f": 1,
+      "epsilon": -1,
+      "a": 1,
+      "c": 7,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 5,
+      "f": 2,
+      "epsilon": 1,
+      "a": 1,
+      "c": 217,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 5,
+      "f": 3,
+      "epsilon": -1,
+      "a": 2,
+      "c": 5167,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 5,
+      "f": 4,
+      "epsilon": 1,
+      "a": 1,
+      "c": 130417,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 5,
+      "f": 5,
+      "epsilon": -1,
+      "a": 1,
+      "c": 3254167,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 5,
+      "f": 6,
+      "epsilon": 1,
+      "a": 2,
+      "c": 81385417,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 7,
+      "f": 1,
+      "epsilon": 1,
+      "a": 1,
+      "c": 19,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 7,
+      "f": 2,
+      "epsilon": 1,
+      "a": 1,
+      "c": 817,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 7,
+      "f": 3,
+      "epsilon": 1,
+      "a": 2,
+      "c": 39331,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 7,
+      "f": 4,
+      "epsilon": 1,
+      "a": 1,
+      "c": 1922401,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 7,
+      "f": 5,
+      "epsilon": 1,
+      "a": 1,
+      "c": 94164019,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 7,
+      "f": 6,
+      "epsilon": 1,
+      "a": 2,
+      "c": 4613801617,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 11,
+      "f": 1,
+      "epsilon": -1,
+      "a": 1,
+      "c": 37,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 11,
+      "f": 2,
+      "epsilon": 1,
+      "a": 1,
+      "c": 4921,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 11,
+      "f": 3,
+      "epsilon": -1,
+      "a": 2,
+      "c": 590077,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 11,
+      "f": 4,
+      "epsilon": 1,
+      "a": 1,
+      "c": 71457841,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 11,
+      "f": 5,
+      "epsilon": -1,
+      "a": 1,
+      "c": 8645754517,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 11,
+      "f": 6,
+      "epsilon": 1,
+      "a": 2,
+      "c": 1046143382761,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 13,
+      "f": 1,
+      "epsilon": 1,
+      "a": 1,
+      "c": 61,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 13,
+      "f": 2,
+      "epsilon": 1,
+      "a": 1,
+      "c": 9577,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 13,
+      "f": 3,
+      "epsilon": 1,
+      "a": 2,
+      "c": 1609669,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 13,
+      "f": 4,
+      "epsilon": 1,
+      "a": 1,
+      "c": 271919761,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 13,
+      "f": 5,
+      "epsilon": 1,
+      "a": 1,
+      "c": 45952954381,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 13,
+      "f": 6,
+      "epsilon": 1,
+      "a": 2,
+      "c": 7766029983097,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 17,
+      "f": 1,
+      "epsilon": -1,
+      "a": 2,
+      "c": 91,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 17,
+      "f": 2,
+      "epsilon": 1,
+      "a": 2,
+      "c": 27937,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 17,
+      "f": 3,
+      "epsilon": -1,
+      "a": 3,
+      "c": 8044219,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 17,
+      "f": 4,
+      "epsilon": 1,
+      "a": 2,
+      "c": 2325280321,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 17,
+      "f": 5,
+      "epsilon": -1,
+      "a": 2,
+      "c": 671997493531,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 17,
+      "f": 6,
+      "epsilon": 1,
+      "a": 3,
+      "c": 194207420455777,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 19,
+      "f": 1,
+      "epsilon": 1,
+      "a": 2,
+      "c": 127,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 19,
+      "f": 2,
+      "epsilon": 1,
+      "a": 2,
+      "c": 43561,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 19,
+      "f": 3,
+      "epsilon": 1,
+      "a": 3,
+      "c": 15684247,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 19,
+      "f": 4,
+      "epsilon": 1,
+      "a": 2,
+      "c": 5661231121,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 19,
+      "f": 5,
+      "epsilon": 1,
+      "a": 2,
+      "c": 2043689577967,
+      "unipotent_three_prime_degree_count": 6
+    },
+    {
+      "p": 19,
+      "f": 6,
+      "epsilon": 1,
+      "a": 3,
+      "c": 737771655370681,
+      "unipotent_three_prime_degree_count": 6
+    }
+  ]
+}

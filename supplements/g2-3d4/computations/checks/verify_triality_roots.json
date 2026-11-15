@@ -1,0 +1,185 @@
+{
+  "root_count": 24,
+  "cartan_determinant": 4,
+  "w": [
+    [
+      0,
+      1,
+      -1,
+      -1
+    ],
+    [
+      -1,
+      1,
+      -1,
+      -1
+    ],
+    [
+      -1,
+      1,
+      0,
+      -1
+    ],
+    [
+      -1,
+      1,
+      -1,
+      0
+    ]
+  ],
+  "primitive_fixed_torus_quotient": true,
+  "roots_zero_on_fixed_torus": 6,
+  "roots_zero_on_A": 0,
+  "integer_specialization_checks": [
+    {
+      "q": 2,
+      "epsilon": -1,
+      "a": 1,
+      "fixed_torus_order": 3,
+      "fixed_torus_smith_invariants": [
+        1,
+        3
+      ]
+    },
+    {
+      "q": 4,
+      "epsilon": 1,
+      "a": 1,
+      "fixed_torus_order": 21,
+      "fixed_torus_smith_invariants": [
+        1,
+        21
+      ]
+    },
+    {
+      "q": 5,
+      "epsilon": -1,
+      "a": 1,
+      "fixed_torus_order": 21,
+      "fixed_torus_smith_invariants": [
+        1,
+        21
+      ]
+    },
+    {
+      "q": 7,
+      "epsilon": 1,
+      "a": 1,
+      "fixed_torus_order": 57,
+      "fixed_torus_smith_invariants": [
+        1,
+        57
+      ]
+    },
+    {
+      "q": 8,
+      "epsilon": -1,
+      "a": 2,
+      "fixed_torus_order": 57,
+      "fixed_torus_smith_invariants": [
+        1,
+        57
+      ]
+    },
+    {
+      "q": 11,
+      "epsilon": -1,
+      "a": 1,
+      "fixed_torus_order": 111,
+      "fixed_torus_smith_invariants": [
+        1,
+        111
+      ]
+    },
+    {
+      "q": 13,
+      "epsilon": 1,
+      "a": 1,
+      "fixed_torus_order": 183,
+      "fixed_torus_smith_invariants": [
+        1,
+        183
+      ]
+    },
+    {
+      "q": 16,
+      "epsilon": 1,
+      "a": 1,
+      "fixed_torus_order": 273,
+      "fixed_torus_smith_invariants": [
+        1,
+        273
+      ]
+    },
+    {
+      "q": 19,
+      "epsilon": 1,
+      "a": 2,
+      "fixed_torus_order": 381,
+      "fixed_torus_smith_invariants": [
+        1,
+        381
+      ]
+    },
+    {
+      "q": 25,
+      "epsilon": 1,
+      "a": 1,
+      "fixed_torus_order": 651,
+      "fixed_torus_smith_invariants": [
+        1,
+        651
+      ]
+    },
+    {
+      "q": 31,
+      "epsilon": 1,
+      "a": 1,
+      "fixed_torus_order": 993,
+      "fixed_torus_smith_invariants": [
+        1,
+        993
+      ]
+    },
+    {
+      "q": 37,
+      "epsilon": 1,
+      "a": 2,
+      "fixed_torus_order": 1407,
+      "fixed_torus_smith_invariants": [
+        1,
+        1407
+      ]
+    },
+    {
+      "q": 49,
+      "epsilon": 1,
+      "a": 1,
+      "fixed_torus_order": 2451,
+      "fixed_torus_smith_invariants": [
+        1,
+        2451
+      ]
+    },
+    {
+      "q": 64,
+      "epsilon": 1,
+      "a": 2,
+      "fixed_torus_order": 4161,
+      "fixed_torus_smith_invariants": [
+        1,
+        4161
+      ]
+    },
+    {
+      "q": 73,
+      "epsilon": 1,
+      "a": 2,
+      "fixed_torus_order": 5403,
+      "fixed_torus_smith_invariants": [
+        1,
+        5403
+      ]
+    }
+  ]
+}

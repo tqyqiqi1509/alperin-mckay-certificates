@@ -1,0 +1,53 @@
+{
+  "historical_archive": "Source_and_Verification_20261114.zip",
+  "historical_archive_sha256": "7d92cfbbbabfed48d75ce788208ffafa4a8e25f1f8895b23a63b72862f2b2f14",
+  "files": [
+    {
+      "file": "checks/verify_g2_torus.py",
+      "historical_sha256": "ab8442f548eec9992be5120722ffec2edbaa516d3d5f7e4ca697046015a52bf8",
+      "delivered_sha256": "ab8442f548eec9992be5120722ffec2edbaa516d3d5f7e4ca697046015a52bf8",
+      "unchanged": true
+    },
+    {
+      "file": "checks/verify_g2_torus.json",
+      "historical_sha256": "df1485227229ed03dea526a1d2153469e9fcbc1de35c36b67a68e917cb9439eb",
+      "delivered_sha256": "df1485227229ed03dea526a1d2153469e9fcbc1de35c36b67a68e917cb9439eb",
+      "unchanged": true
+    },
+    {
+      "file": "checks/verify_three_module.py",
+      "historical_sha256": "4cca8da077e91d76b9676107d0b73ddacee6631c8cb1e93eb8ee9278968391c2",
+      "delivered_sha256": "4cca8da077e91d76b9676107d0b73ddacee6631c8cb1e93eb8ee9278968391c2",
+      "unchanged": true
+    },
+    {
+      "file": "checks/verify_three_module.json",
+      "historical_sha256": "05e976d88edd7055188a08d7f13b6824a7c13308c28f34e00c995a7c44ec574d",
+      "delivered_sha256": "05e976d88edd7055188a08d7f13b6824a7c13308c28f34e00c995a7c44ec574d",
+      "unchanged": true
+    },
+    {
+      "file": "checks/verify_triality_roots.py",
+      "historical_sha256": "01308ba434a11774ca4585cb40c37badd15df6e60fb3c17b3fe6fca67923c087",
+      "delivered_sha256": "01308ba434a11774ca4585cb40c37badd15df6e60fb3c17b3fe6fca67923c087",
+      "unchanged": true
+    },
+    {
+      "file": "checks/verify_triality_roots.json",
+      "historical_sha256": "a66babb8e14b111a6fa40d760ff2caedf90d1746a17f1bf11be4e366aa1b3321",
+      "delivered_sha256": "a66babb8e14b111a6fa40d760ff2caedf90d1746a17f1bf11be4e366aa1b3321",
+      "unchanged": true
+    },
+    {
+      "file": "checks/verify_triality_chevalley.py",
+      "independent_review_source": "audit/round2_arithmetic_fresh.py",
+      "independent_review_sha256": "850ada541d7fd4a9c95360c8d952c1b4e5be0aff7777dbb5fe51f0faa0ac15d6",
+      "delivered_sha256": "d29ec1e4703aac6eecccf8b2d6367daff2e4ee1d5b198e2c3a7b44801580fc86",
+      "changes": [
+        "Verify h_i = n_i squared against independently constructed matrices",
+        "Explicit signed-basis table comparison",
+        "Inverse-p return checks and q=4 action convention"
+      ]
+    }
+  ]
+}

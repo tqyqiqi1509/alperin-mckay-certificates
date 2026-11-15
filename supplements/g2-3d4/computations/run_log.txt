@@ -1,0 +1,5 @@
+verify_g2_torus: passed; complete JSON matches the recorded result
+verify_three_module: passed; complete JSON matches the recorded result
+verify_triality_roots: passed; complete JSON matches the recorded result
+verify_triality_chevalley: passed; complete JSON matches the recorded result
+All four checks passed. See README.txt for their mathematical scope.
